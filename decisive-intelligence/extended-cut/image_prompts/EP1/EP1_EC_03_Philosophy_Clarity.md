@@ -101,24 +101,34 @@ SCENE: Bruce progresses in training — weeks of growth compressed.
 
 COMPOSITION:
 - THREE VERTICAL PANELS side by side, thin white lines (1-2px) dividing
-- LEFT: Bruce sparring with a League member, holding his own — confident, flowing movement
-- CENTER: Bruce disarms his opponent — sends the sword flying. Breathing hard but victorious
-- RIGHT: Ducard watches from across the hall. A small nod of approval — subtle but significant
+- LEFT: Bruce sparring with a MASKED League warrior — ninjatō blades clashing, sparks flying. Bruce is holding his own, confident, flowing movement. The warrior wears a BLACK MASK covering his entire face.
+- CENTER: Bruce DISARMS the masked warrior — the warrior's ninjatō clatters to the stone floor. Bruce's blade at the warrior's chest. Breathing hard but victorious.
+- RIGHT: ONLY Ducard in this panel — close-up of his face. A small nod of approval. Subtle but significant. He is watching from across the hall. NO other figures in this panel.
 
 LEFT & CENTER — BRUCE:
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, confident now, athletic muscular build developing, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, confident now, athletic muscular build developing, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, loose black trousers, bare feet
 - Expression: Confident, flowing, victorious
-- Action: LEFT — sparring. CENTER — disarming opponent
+- Action: LEFT — sparring with ninjatō. CENTER — disarming opponent
 - Position: Center of training hall
+
+MASKED LEAGUE WARRIOR (LEFT & CENTER):
+- Face: Completely covered by BLACK MASK — no face visible, no resemblance to any named character
+- Costume: All black (#0A0A0A) robes, black mask, black gloves
+- NOT Ducard — this is an anonymous masked warrior
 
 RIGHT — DUCARD:
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes
 - Expression: Subtle approval, small nod
-- Position: Watching from across the hall
+- Position: Close-up, ONLY person in this panel
+
+WHAT NOT TO DRAW:
+- NO wooden swords — all blades are steel ninjatō
+- NO Ducard in LEFT or CENTER panels — he is ONLY in the RIGHT panel
+- NO unmasked League warriors — the opponent's face is fully covered
 
 ATMOSPHERE:
 - Transformation in progress
@@ -187,7 +197,7 @@ COMPOSITION:
 - Great hall interior, flame-lit, League members visible behind
 - DUCARD faces BRUCE directly, gesturing toward the League members as evidence
 - His tone is absolute conviction — this is truth, not opinion
-- Bruce's face shows the first seed of doubt — the philosophy makes sense but something in its application doesn't sit right
+- Bruce listens but his expression shows subtle discomfort — he agrees with the words but something about the tone feels extreme
 - Flame light casts dramatic shadows on both faces
 
 HENRI DUCARD FULL DESCRIPTION:
@@ -200,7 +210,7 @@ HENRI DUCARD FULL DESCRIPTION:
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, eyes processing, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic
-- Expression: Processing, subtle concern, first seed of doubt
+- Expression: Listening, subtle discomfort, uneasy
 - Position: Facing Ducard
 
 ATMOSPHERE:
@@ -226,16 +236,17 @@ SCENE: Bruce meets the "Ra's Al Ghul" decoy and learns four tests await.
 
 COMPOSITION:
 - FOUR PANELS in 2×2 grid, thin white lines (1-2px) dividing
-- TOP LEFT: They approach the throne. An OLDER MAN sits on it — the "Ra's Al Ghul" decoy. Regal, still, cold assessment. Ducard stands beside Bruce
-- TOP RIGHT: Low angle — Bruce looks UP at the decoy. The decoy looks DOWN with cold eyes. Central flame between them
-- BOTTOM LEFT: The decoy's face in close-up — old, scarred, expressionless. Cold authority
-- BOTTOM RIGHT: Ducard places a hand on Bruce's shoulder. Bruce's face is resolved, ready for whatever comes
+- TOP LEFT: Ducard walks Bruce toward a raised stone throne in the great hall. An imposing man sits on the throne — the DECOY RA'S AL GHUL. League warriors line the walls. Flames from iron braziers.
+- TOP RIGHT: Low angle — Bruce looks UP at the Decoy Ra's on the throne. The Decoy looks DOWN at Bruce with cold assessment. A large central flame brazier burns between them.
+- BOTTOM LEFT: The Decoy Ra's raises one hand — a gesture of command. Four League warriors step forward from the shadows, each carrying a different weapon. The four tests that await Bruce.
+- BOTTOM RIGHT: Ducard places a hand on Bruce's shoulder. Bruce's face is resolved, ready for whatever comes. Ducard's expression says: prove yourself.
 
-TOP LEFT & TOP RIGHT:
-DECOY RA'S:
-- Older man, regal bearing, scarred face, seated on elevated throne
-- Dark ceremonial robes, cold calculating expression
-- Position: Throne, elevated above Bruce
+DECOY RA'S AL GHUL FULL DESCRIPTION:
+- Face & Body: Ken Watanabe, Japanese man, mid-50s, long black hair pulled back, sharp angular features, cold dark eyes, tall imposing build, 6'1"
+- Costume: Black (#0A0A0A) ceremonial robes with dark gold (#8B7355) trim, high collar, ornate League of Shadows medallion on chest
+- Expression: Cold, regal authority — a man who commands death
+- Position: Seated on elevated stone throne, always ABOVE Bruce
+- NOTE: This is NOT the real Ra's Al Ghul — this is the decoy. He must look distinctly DIFFERENT from Ducard (Liam Neeson).
 
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, tall lean build, 6'4"
@@ -244,10 +255,14 @@ HENRI DUCARD FULL DESCRIPTION:
 - Position: Beside Bruce (top left), hand on shoulder (bottom right)
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, determined, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, determined, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic
 - Expression: Resolved, ready
 - Position: Before the throne
+
+WHAT NOT TO DRAW:
+- NO resemblance between Decoy Ra's and Ducard — they are different actors, different ethnicity
+- NO Decoy Ra's standing — he is SEATED on the throne in every panel he appears
 
 ATMOSPHERE:
 - Ancient ritual
@@ -272,25 +287,31 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 SCENE: Bruce and Ducard on a narrow mountain path — the second philosophy lesson.
 
 COMPOSITION:
-- Narrow mountain path with sheer drop on one side
-- DUCARD walks without concern along the edge
-- BRUCE hugs the rock face, cautious, afraid of the drop
-- Vast mountain scenery below — deadly height
-- Contrast between Ducard's confidence and Bruce's hesitation
+- A terrifyingly narrow rock ledge on the side of a mountain — barely wide enough for one person's feet. The ledge is LESS THAN ONE FOOT WIDE.
+- SHEER vertical drop on one side — thousands of feet down into clouds and jagged rocks below. The drop is visible and deadly.
+- Sheer rock wall on the other side — no handholds, smooth stone.
+- DUCARD walks AHEAD on the ledge, body upright, arms relaxed at his sides, stepping confidently as if walking on a normal street. He does not look down. Zero fear.
+- BRUCE is BEHIND Ducard, back FLAT against the rock wall, arms spread wide pressing palms into the stone, face turned sideways cheek against the rock. His eyes are wide with fear, looking down at the drop. His feet shuffle along the tiny ledge. He is terrified.
+- Camera angle: FROM THE SIDE — showing both men on the ledge with the massive drop visible below them
 
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, tall lean powerful build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes over black tunic, dark boots
-- Expression: Teaching, walking casually on the cliff edge
-- Action: Walking without concern along the narrow path
-- Position: Near the edge, casual
+- Expression: Calm, teaching, completely unbothered by the height
+- Action: Walking upright on the narrow ledge, not touching the wall
+- Position: AHEAD of Bruce on the ledge, near the open edge
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, wary eyes, athletic build, 6'0"
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, fearful eyes, athletic build, 6'0"
 - Costume: Dark grey (#4B5563) League training tunic, dark trousers, boots
-- Expression: Cautious, hugging the rock face
-- Action: Walking carefully, pressed against the wall
-- Position: Behind Ducard, against the rock
+- Expression: Terrified, pressing himself flat against the rock wall
+- Action: Back flat against wall, palms pressed into stone, shuffling sideways
+- Position: BEHIND Ducard, plastered to the rock face
+
+WHAT NOT TO DRAW:
+- NO wide path or walking trail — the ledge is barely one foot wide
+- NO safe ground — the drop must be visible and deadly
+- NO casual walking from Bruce — he is pressed flat against the wall in fear
 
 ATMOSPHERE:
 - Fear of the unknown
