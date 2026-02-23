@@ -326,42 +326,56 @@ STYLE: Photorealistic, cinematic, mountain scenery. Full bleed to all edges. WAT
 ---
 
 ### SLIDE 29 — THE PUSH (Panels 11.4-11.6 COMBINED)
-**SPLIT PANEL — LESSON LEARNED**
+**6-PANEL GRID (2×3) — COURAGE IN SIX BEATS**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL (vertical).
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. 6-PANEL GRID (2 rows × 3 columns).
 
-SCENE: Ducard pushes Bruce toward the edge — teaching through shock.
+SCENE: Ducard pushes Bruce off a cliff to teach him courage — six sequential moments showing the full progression.
 
 COMPOSITION:
-- SPLIT PANEL: Two vertical halves, thin white line dividing
-- LEFT: Ducard suddenly SHOVES Bruce toward the cliff edge. Bruce stumbles, catches himself — barely. Heart pounding. Cliff edge inches away. Ducard calm as ever
-- RIGHT: Bruce recovering, angry but listening. The edge still close. Ducard teaching with absolute certainty
+- SIX PANELS arranged 2×3 grid, thin white lines (1-2px) dividing
+- ALL PANELS on the same terrifyingly narrow cliff ledge — sheer drop thousands of feet into clouds and jagged rocks below
 
-LEFT — THE PUSH:
+- TOP LEFT: Ducard and Bruce walking on the narrow ledge. Ducard is ahead, Bruce behind him pressed against the wall. Ducard suddenly TURNS to face Bruce. Bruce looks confused.
+
+- TOP CENTER: THE THROW. Ducard GRABS Bruce by the front of his shirt collar with one fist and HURLS him toward the cliff edge. Bruce's feet leave the ground. The deadly drop is visible behind Bruce. Ducard's expression is cold and deliberate. This is violent and sudden.
+
+- TOP RIGHT: Bruce goes OVER the edge. His body tips backward off the ledge, arms reaching for something to grab. His face is pure panic. Camera shows him from the side as he falls off the narrow ledge into open air.
+
+- BOTTOM LEFT: THE GRAB. Camera angle from BELOW looking UP. Bruce hangs from the cliff edge by ONE HAND — his entire body dangling in open air VERTICALLY. Below him is NOTHING — only clouds and the massive void thousands of feet down. His fingers grip the rock edge above him. His face looks DOWN at the camera and the drop, pure terror. His legs hang limp in empty space. Bruce is ALONE in this panel — no Ducard, no rock wall beside him, just his body suspended over the abyss.
+
+- BOTTOM CENTER: THE CLIMB. Bruce pulls himself up with both arms, elbows hooking over the edge, face scraping against rock, teeth gritted, muscles straining. Pulling his torso back onto the ledge. Still no Ducard visible.
+
+- BOTTOM RIGHT: THE LESSON. Bruce is on his hands and knees on the ledge, gasping, dirt and scrapes on his face, shaking. Ducard stands over him, arms crossed, looking down with calm approval. Bruce survived because he acted without thinking.
+
 HENRI DUCARD FULL DESCRIPTION:
 - Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair, intense blue eyes, tall lean powerful build, 6'4"
 - Costume: Dark brown (#3D2914) layered robes
-- Expression: Calm, teaching through action
-- Action: Having just pushed Bruce
-- Position: Standing firmly on path
+- Expression: TOP LEFT — turning. TOP CENTER — cold, deliberate, pushing. BOTTOM RIGHT — arms crossed, calm approval.
+- Appears in: TOP LEFT, TOP CENTER, BOTTOM RIGHT only.
 
 BRUCE WAYNE (TRAINING) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, late 20s, stubble, strong jaw, shocked expression, athletic build, 6'0"
-- Costume: Dark grey (#4B5563) League training tunic
-- Expression: LEFT — shocked, catching himself. RIGHT — angry but absorbing
-- Action: LEFT — stumbling at edge. RIGHT — recovering
-- Position: Near cliff edge
+- Face & Body: Christian Bale as young Bruce Wayne, Caucasian man, late 20s, stubble, strong jaw, athletic build, 6'0"
+- Costume: Dark grey (#4B5563) League training tunic, dark trousers
+- Expression: Progression — confused → shocked → panic → desperate → straining → gasping on knees.
+- Appears in: ALL SIX PANELS.
+
+WHAT NOT TO DRAW:
+- NO Ducard in BOTTOM LEFT or BOTTOM CENTER — Bruce is alone for those two panels
+- NO safe ground beneath Bruce in TOP RIGHT or BOTTOM LEFT — deadly void below
+- NO magical flipping or acrobatics — Bruce falls, grabs, climbs realistically
+- NO visible text other than the caption
 
 ATMOSPHERE:
-- Learning through shock
-- The second principle crystallizing
+- Courage is acting when you have no time to think
+- The moment chose for him
 
 TEXT OVERLAY:
-- Caption (red #EF4444, white text, bold) bottom: "The second principle — COURAGE: Act before you're ready. Or the moment chooses for you."
+- Caption (red #EF4444, white text, bold) bottom spanning all panels: "The second principle — COURAGE: Act before you're ready. Or the moment chooses for you."
 
-STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, 6-panel grid. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
 ```
 
 ---
