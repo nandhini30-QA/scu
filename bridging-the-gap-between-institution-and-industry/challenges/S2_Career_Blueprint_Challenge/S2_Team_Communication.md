@@ -12,12 +12,30 @@ Attached is a markdown template with 25 questions across 6 phases. Each phase ma
 
 The same questions Coulson asked Daisy, you'll answer about yourself.
 
-**What's expected:**
-- Fill in the template honestly. 60-90 minutes of real reflection.
+## The Schedule: One Phase Per Day
+
+This isn't a fill-it-all-on-Sunday-night exercise. You'll submit one phase per day. Each phase takes 10-15 minutes of honest reflection — not 2 hours of last-minute scrambling.
+
+| Day | Phase | Episode Connection | Submit By EOD |
+|-----|-------|-------------------|---------------|
+| **Day 1 (Mon)** | Phase 1: Foundation Audit | S2E1 — THE FOUNDATION | Q1-Q4 |
+| **Day 2 (Tue)** | Phase 2: Loop Map | S2E2 — THE BUILDER | Q5-Q8 |
+| **Day 3 (Wed)** | Phase 3: Self-Test | S2E3 — THE BLUEPRINT | Q9-Q12 |
+| **Day 4 (Thu)** | Phase 4: Mentor Map | S2E4 — THE PIPELINE | Q13-Q16 |
+| **Day 5 (Fri)** | Phase 5: Prevention Audit | S2E5 — THE UPTIME | Q17-Q20 |
+| **Day 6 (Mon)** | Phase 6: Your Architecture + Final | S2E6 — THE ARCHITECT | Q21-Q25 |
+
+**Why daily?** Because building a career blueprint in one sitting is the same as cramming for a test — you complete it but you don't build anything. One phase per day gives you time to actually sit with each question.
+
+**How to submit:** Share your updated file at end of day. Progress is visible. If Day 3 arrives and Phase 1-2 are still empty, that tells us something.
+
+> Re-read the episode for that day's phase before answering. 10 minutes of re-reading, 10-15 minutes of writing. That's it.
+
+## What's Expected
+
 - Be specific. Names, dates, actions — not aspirations.
 - If a question is hard to answer, that IS the answer. Write that.
-
-**Deadline:** [DATE — 1 week from distribution]
+- Don't polish. Don't perform. Just be honest.
 
 ## What Happens After
 
@@ -42,6 +60,6 @@ There are no "right" answers. The best blueprints won't sound polished. They'll 
 
 The questions that make you uncomfortable are the ones that matter most.
 
-Good luck. Build something.
+Good luck. Build something. One brick per day.
 
 — Swami
