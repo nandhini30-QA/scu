@@ -3,7 +3,56 @@
 ### For Written Blueprint Submissions
 
 > **Graded by:** Simmons (AI-assisted evaluation)
-> **Process:** Team submits blueprints → Director shares with Simmons → Simmons grades and returns scores + feedback to Director → Director shares with team
+> **Process:** Daily phase submissions → Director shares with Simmons → Simmons grades and returns same-day feedback → Director shares with team
+
+---
+
+## Daily Grading Workflow
+
+**Schedule starts Tuesday. One phase per day.**
+
+| Day | Phase | Max Score | Feedback Return |
+|-----|-------|-----------|----------------|
+| **Tue** | Phase 1: Foundation Audit (Q1-Q4) | 20 | Same day / next morning |
+| **Wed** | Phase 2: Loop Map (Q5-Q8) | 20 | Same day / next morning |
+| **Thu** | Phase 3: Self-Test (Q9-Q12) | 20 | Same day / next morning |
+| **Fri** | Phase 4: Mentor Map (Q13-Q16) | 10 | Same day / next morning |
+| **Mon** | Phase 5: Prevention Audit (Q17-Q20) | 10 | Same day / next morning |
+| **Tue** | Phase 6: Architecture + Final (Q21-Q25) | 20 | Same day / next morning |
+
+### What Director Shares With Simmons Each Day:
+- The team member's updated blueprint file (or the new phase answers)
+- Any context: "This person is in X role" or "They've been on the team Y months"
+
+### What Simmons Returns Each Day:
+- **Phase score:** X / [max]
+- **1-2 line feedback:** What landed, what needs depth
+- **Authenticity flag:** Clean / Assisted / Suspect (if triggered)
+
+### Daily Feedback Format (Per Person):
+
+```
+[Name] — Phase [X] Score: [X] / [max]
+
+Feedback: [1-2 lines — what was strong, what was shallow]
+
+[If authenticity flag triggered: note it here]
+```
+
+### Progressive Penalty Tracking:
+
+Track missed submissions per person:
+
+| Person | Tue | Wed | Thu | Fri | Mon | Tue | Misses | Penalty Applied |
+|--------|-----|-----|-----|-----|-----|-----|--------|----------------|
+| [Name] | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | 1 | Warning only (1st miss) |
+| [Name] | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | 2 | 2nd miss: Phase 3 at -20% |
+
+**Penalty rules:**
+- **1st miss:** Warning only. Reminder sent. No score penalty.
+- **2nd miss:** That phase's max score reduced by 20%. (e.g., Phase worth 20 → max 16)
+- **3rd+ miss:** That phase scores **zero**.
+- **Cramming penalty:** If two phases are submitted on the same day, BOTH phases take -20% to max score. Building is daily, not binge.
 
 ---
 

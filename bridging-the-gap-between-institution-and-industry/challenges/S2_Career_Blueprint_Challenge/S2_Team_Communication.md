@@ -14,22 +14,40 @@ The same questions Coulson asked Daisy, you'll answer about yourself.
 
 ## The Schedule: One Phase Per Day
 
-This isn't a fill-it-all-on-Sunday-night exercise. You'll submit one phase per day. Each phase takes 10-15 minutes of honest reflection — not 2 hours of last-minute scrambling.
+This isn't a fill-it-all-on-Sunday-night exercise. You'll submit one phase per day, **starting Tuesday**. Each phase takes 10-15 minutes of honest reflection.
 
 | Day | Phase | Episode Connection | Submit By EOD |
 |-----|-------|-------------------|---------------|
-| **Day 1 (Mon)** | Phase 1: Foundation Audit | S2E1 — THE FOUNDATION | Q1-Q4 |
-| **Day 2 (Tue)** | Phase 2: Loop Map | S2E2 — THE BUILDER | Q5-Q8 |
-| **Day 3 (Wed)** | Phase 3: Self-Test | S2E3 — THE BLUEPRINT | Q9-Q12 |
-| **Day 4 (Thu)** | Phase 4: Mentor Map | S2E4 — THE PIPELINE | Q13-Q16 |
-| **Day 5 (Fri)** | Phase 5: Prevention Audit | S2E5 — THE UPTIME | Q17-Q20 |
-| **Day 6 (Mon)** | Phase 6: Your Architecture + Final | S2E6 — THE ARCHITECT | Q21-Q25 |
+| **Tue** | Phase 1: Foundation Audit | S2E1 — THE FOUNDATION | Q1-Q4 |
+| **Wed** | Phase 2: Loop Map | S2E2 — THE BUILDER | Q5-Q8 |
+| **Thu** | Phase 3: Self-Test | S2E3 — THE BLUEPRINT | Q9-Q12 |
+| **Fri** | Phase 4: Mentor Map | S2E4 — THE PIPELINE | Q13-Q16 |
+| **Mon** | Phase 5: Prevention Audit | S2E5 — THE UPTIME | Q17-Q20 |
+| **Tue** | Phase 6: Your Architecture + Final | S2E6 — THE ARCHITECT | Q21-Q25 |
 
 **Why daily?** Because building a career blueprint in one sitting is the same as cramming for a test — you complete it but you don't build anything. One phase per day gives you time to actually sit with each question.
 
-**How to submit:** Share your updated file at end of day. Progress is visible. If Day 3 arrives and Phase 1-2 are still empty, that tells us something.
-
 > Re-read the episode for that day's phase before answering. 10 minutes of re-reading, 10-15 minutes of writing. That's it.
+
+## How Submission Works
+
+1. **Submit your updated file by end of day** — each day's phase added to your blueprint.
+2. **You'll receive feedback the same day or next morning** — a score and 1-2 lines on your phase before you start the next one. Use that feedback to go deeper on the next phase.
+3. **This is a conversation, not a test.** The daily feedback helps you build a better blueprint. Day 2's answers should be sharper than Day 1's because you'll know what "deep enough" looks like.
+
+## What If You Miss a Day?
+
+Life happens. But the daily rhythm matters.
+
+| Missed Submissions | What Happens |
+|-------------------|-------------|
+| **First miss** | You get a reminder. No penalty. Catch up. |
+| **Second miss** | That phase loses **20% of its score.** A phase worth 20 points now maxes at 16. |
+| **Third miss or more** | That phase **scores zero.** You skipped the reflection — there's nothing to grade. |
+
+If you submit two phases crammed together on the same day, **both phases take the penalty** — cramming is completing, not building. That's literally the Season 2 lesson.
+
+The weekend (Sat-Sun) is a natural break between Phase 4 (Fri) and Phase 5 (Mon). Use it to sit with what you've written so far.
 
 ## What's Expected
 
@@ -37,7 +55,7 @@ This isn't a fill-it-all-on-Sunday-night exercise. You'll submit one phase per d
 - If a question is hard to answer, that IS the answer. Write that.
 - Don't polish. Don't perform. Just be honest.
 
-## What Happens After
+## What Happens After All 6 Phases
 
 1. Your written blueprints will be graded on **depth, honesty, and specificity** — not on having impressive answers.
 2. You will then **present your Phase 6 (Your Architecture)** to the team in a live session. 3-5 minutes each.
