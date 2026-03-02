@@ -254,7 +254,37 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 [Your answer]
 ```
 
-### Q25. Which question in this blueprint was the hardest to answer? What does that tell you?
+### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
+
+```
+[Your answer]
+```
+
+### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
+
+```
+[Your answer]
+```
+
+### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
+
+```
+[Your answer]
+```
+
+### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
+
+**Keep as is:**
+```
+[Your answer]
+```
+
+**Do differently:**
+```
+[Your answer]
+```
+
+### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
 [Your answer]
