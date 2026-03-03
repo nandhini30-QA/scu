@@ -60,11 +60,22 @@ None of these required me to stay for them to keep creating value.
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-My intention is to build things that create lasting value — not just complete tasks.
-I want to keep learning deeply (new technologies, architectures, patterns) and apply
-that knowledge to solve real problems in ways that outlast my direct involvement.
+My intention is to build toward being a Cloud Infrastructure
+Architect — someone who doesn't just execute migrations and
+pipelines, but designs systems that teams rely on long after
+I've moved on.
 
-If I do this consistently, the career progression — the title, the role, the
-recognition — will follow naturally. I'm building toward being someone whose work
-matters even after they've moved on.
+Every major thing I've done — Lambda pipelines, EKS POC,
+SSO integration, GKE regional migration — I drove end to end.
+That's not execution. That's architecture ownership.
+
+I don't learn in courses. I learn by doing — by taking a
+problem no one has solved yet, building the solution myself,
+and leaving something that runs without me. That's already
+my pattern. Now I'm doing it deliberately.
+
+I'm building toward owning infrastructure decisions at a
+design level — multi-cloud, zero-downtime, cost-aware.
+The title and recognition will follow. The work already proves
+the direction.
 ```
