@@ -38,7 +38,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 | 1 | Led major cost-optimization initiatives (GCP & AWS), achieving over $3,950/month in recurring savings through secrets cleanup, namespace optimization, and SQL instance decommissioning. |
 | 2 | Executed Kissflow-v4 artifact repository cleanup, reducing storage by ~70% (from 815 GB) and cutting monthly costs from ~$85 to ~$25. |
 | 3 | Successfully conducted the half-yearly MongoDB restoration drill, validating backup integrity and improving disaster recovery readiness. |
-| 4 | Strengthened security posture by enforcing IAM policy constraints, streamlining MongoDB role configurations, and optimizing BigQuery log retention. |
+| 4 | Building a Jenkins PBR Build Status Tracker — a fully automated CI/CD pipeline that aggregates PROD, BLOM, and SCG Jenkins build statuses via GCP Cloud Functions and Firestore, and auto-completes Kissflow cards with zero manual intervention. (In Progress) |
 | 5 | Expanded knowledge and practical application in AI and emerging technologies. |
 
 ### Q2. Now be honest — for each one, mark it:
@@ -51,7 +51,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 | 1 | B | I completed the cost optimization, and the changes are still in use. Some resources are paused and can be resumed when needed. The steps are documented, so it continues to create savings without rework |
 | 2 | B | The cleanup was completed, and I enabled policies so no manual intervention is needed. Storage reduction and cost savings continue automatically.|
 | 3 | C | The drill was conducted earlier but was not documented properly. Now I have documented it clearly, so it can be repeated easily and creates long-term value |
-| 4 | B|I enforced IAM constraints and optimized configurations. Everything is documented, and the controls remain active without daily involvement |
+| 4 | B | This is actively being built — once complete, the system will run automatically with no manual steps. It will continue to deliver value by removing the need for manual Kissflow card updates after every production build. |
 | 5 |B |I am in the learning phase, and I am leveraging AI in daily operations|
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
