@@ -22,7 +22,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 - **Name:** Naveen M R  
 - **Current Role:** Devops Engineering
 - **Years in Current Role:** 2 months
-- **Date Submitted:**
+- **Date Submitted:** March 3, 2026
 
 ---
 
