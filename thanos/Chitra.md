@@ -48,11 +48,11 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1 | C
-| 2 | B
-| 3 | C
-| 4 | -
-| 5 | C
+| 1 | C | Learning JavaScript was a defined upskilling milestone. I completed the learning phase and transitioned into practical usage. The learning foundation is established, though I will continue improving.
+| 2 | B | The automation implementation continues to create value. The scripts and framework run repeatedly, reduce manual effort, and contribute to long term regression stability without needing my active involvement every time.
+| 3 | C | The level-up in Analytics L2 handling was a capability upgrade. It represents a personal maturity milestone in technical depth and debugging ownership, but it does not independently generate ongoing value without continued application.
+| 4 | B | The AI driven ideation and optimization approach is now integrated into how I brainstorm and structure solutions. It continues to influence efficiency, dashboard development, and problem-solving beyond a single task.
+| 5 | C | Handling 70+ tickets across 13 sprints as sprint guardian reflects consistent execution and ownership during that period.
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
