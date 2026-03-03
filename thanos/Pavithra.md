@@ -39,7 +39,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 | 2 | Executed Kissflow-v4 artifact repository cleanup, reducing storage by ~70% (from 815 GB) and cutting monthly costs from ~$85 to ~$25. |
 | 3 | Successfully conducted the half-yearly MongoDB restoration drill, validating backup integrity and improving disaster recovery readiness. |
 | 4 | Building a Jenkins PBR Build Status Tracker — a fully automated CI/CD pipeline that aggregates PROD, BLOM, and SCG Jenkins build statuses via GCP Cloud Functions and Firestore, and auto-completes Kissflow cards with zero manual intervention. (In Progress) |
-| 5 | Expanded knowledge and practical application in AI and emerging technologies. |
+| 5 | Actively leveraging AI in daily DevOps tasks and continuously learning new tools to improve efficiency and stay current with evolving technologies. |
 
 ### Q2. Now be honest — for each one, mark it:
 
@@ -52,7 +52,7 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 | 2 | B | The cleanup was completed, and I enabled policies so no manual intervention is needed. Storage reduction and cost savings continue automatically.|
 | 3 | C | The drill was conducted earlier but was not documented properly. Now I have documented it clearly, so it can be repeated easily and creates long-term value |
 | 4 | B | This is actively being built — once complete, the system will run automatically with no manual steps. It will continue to deliver value by removing the need for manual Kissflow card updates after every production build. |
-| 5 |B |I am in the learning phase, and I am leveraging AI in daily operations|
+| 5 | B | I actively use AI tools in daily operations which continues to improve my efficiency. New tools learned get applied directly to DevOps work, creating ongoing value beyond just personal growth. |
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
@@ -63,7 +63,7 @@ My documentation in Coda ensures a smooth handover, but the true lasting value c
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-My current career intention is to move beyond simply completing tasks and instead build deep technical understanding and ownership. I want to contribute at a design and decision-making level, not just at an operational level. Want to become senior techinal engineer. 
+My current career intention is to move beyond simply completing tasks and instead build deep technical understanding and ownership. I want to contribute at a design and decision-making level, not just at an operational level. Want to become Senior Technical Engineer. 
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
