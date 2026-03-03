@@ -19,10 +19,10 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 
 ## YOUR DETAILS
 
-- **Name:** Kabilan S
-- **Current Role:** SRE
-- **Years in Current Role:** 5 months
-- **Date Submitted:** 3rd March 2026
+- **Name:** Naveen M R  
+- **Current Role:** Devops Engineering
+- **Years in Current Role:** 2 months
+- **Date Submitted:** March 3, 2026
 
 ---
 
@@ -35,39 +35,35 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | Accomplishment |
 |---|---------------|
-| 1 | Built my own cost spending tracker without coding a single word using AI |
-| 2 | Built a website that scrapes Chennai powercut schedules and sends Telegram alerts at 6am daily — https://minnal-srk.vercel.app/ |
-| 3 | Used to write blogs and post learnings on LinkedIn and Medium, also as media manager at FabLab I used to learn some technical stuffs in 3D printing and laser cutting, but stopped |
-| 4 | Explored many documentation tools at the beginning of my internship and identified Mintlify, but stopped exploration |
-| 5 | Solved Tavern testing errors across all environments at my internship |
+| 1 | Luna Environment Setup |
+| 2 | Pulumi Revamping |
+| 3 | Envoy setup in m2p |
+| 4 | Build a mobile app for personal use |
+| 5 | Spot worker migration |
 
 ### Q2. Now be honest — for each one, mark it:
 
 - **C** = Completed (you did the work, it's done, nothing remains)
 - **B** = Built (it continues to create value without you actively doing it)
 
-| # | C or B? | Why? |
-|---|---------|------|
-| 1 | B | Still using it daily to manage and track spends. My parents use it too. I'm planning to upgrade it with AI-powered spending analysis |
-| 2 | B | The bot runs automatically every morning at 6am without me doing anything. The website continues to help anyone in Chennai check powercut schedules |
-| 3 | C | Started writing blogs and posting on LinkedIn, then stopped completely after the commencement of internship |
-| 4 | C | Explored and identified Mintlify as the right tool, then moved on to other work |
-| 5 | C | Solved the testing errors and delivered the fix; not actively maintaining it anymore |
+| # | C or B? |                                  Why?                                           |
+|---|---------|-------------------------------------------------------------------------------- |
+| 1 |    C    |   The Infra creation is completed and currently the testing is going on it      |
+| 2 |    B    |   Still that is in the building phase                                           |
+| 3 |    C    |   The Most of private connectivity are migrated to this envoy setup             |
+| 4 |    C    |   It's my personal use mobile app still in the building phase and testing phase |
+| 5 |    B    |   Still that is in the planning phase                                           |
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-Two things would still matter:
-
-1. Cost Tracker — My parents and I still use it daily to track our spending. Even if I stop maintaining it, the spending data we've logged shows our patterns and helps us understand where our money goes.
-
-2. Powercut Bot — The Telegram bot runs automatically every morning at 6am without me doing anything. The website I built continues to help anyone in Chennai check their exact powercut schedules without depending on me to keep it running.
+Both Spot Worker Migration and Pulumi Revamping are systemic adjustments that lower labor and costs at scale. Long after the work is finished, they will continue to provide value through each team member and service that builds upon them.
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-Building tools that solve real problems people face — not just finishing tasks assigned to me. Everyone struggles with metrics dashboards, and I want to be the one who builds something that actually works for them. I want to create tools that people use, tools that adapt to their needs, and tools that keep creating value without me having to maintain them every single day.
+As a platform engineer, I'm developing my ability to design infrastructure systems from the ground up rather than just carry out tasks. The objective is to transition from someone who sets things up to someone who influences Kissflow's infrastructure development.
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
