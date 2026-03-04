@@ -33,4 +33,18 @@ Your content is real — the project names, tools, and technical specifics confi
 
 ---
 
+### Cramming Appeal (2026-03-04)
+
+**Appeal:** Jagadeesh requested penalty removal, citing he checked with Director Coulson before batch submitting and received confirmation that submitting all phases together was acceptable.
+
+**Ruling:** Penalty reduced from -20% to -10% on Phases 2-6.
+- Director confirmed he gave a soft green light ("I don't mind")
+- However, the exercise was designed as 6 days of iterative reflection, not 1 day of output
+- Asking permission before submitting shows process respect — that earns a reduction, not full removal
+- Phase 1 Assisted (3/7) → Phases 2-6 Clean (0-1/7) improvement pattern is real, but happened in one sitting
+
+**Impact:** 71/100 (Worker) → 78/100 (Builder). Cramming cost reduced from 15 to 8 points.
+
+---
+
 *Cumulative: 14 / 100*

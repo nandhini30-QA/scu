@@ -9,7 +9,7 @@
 
 | Name | Role | P1 | P2 | P3 | P4 | P5 | P6 | Total | Grade | Misses | Penalties |
 |------|------|----|----|----|----|----|----|----- -|-------|--------|-----------|
-| Jagadeesh | QA Automation | 14 | 13 | 14 | 8 | 8 | 14 | 71 | Worker | 0 | Cramming -20% P2-P6 |
+| Jagadeesh | QA Automation | 14 | 14 | 16 | 9 | 9 | 16 | 78 | Builder | 0 | Cramming -10% P2-P6 (reduced from -20% on appeal) |
 | Kabilan | SRE | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Pavithra | DevOps | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Sricanth | QA | 12 | -- | -- | -- | -- | -- | 12 | ... | 0 | None |
@@ -23,6 +23,8 @@
 | Jeevitha | QA | 7 | -- | -- | -- | -- | -- | 7 | ... | 0 | None |
 | Akshaya K K | QA | 6 | -- | -- | -- | -- | -- | 6 | ... | 0 | None |
 | Saradha | Performance | 5 | -- | -- | -- | -- | -- | 5 | ... | 0 | None |
+| Deepika Shree | -- | !! | -- | -- | -- | -- | -- | 0 | ... | 1 | 1st miss warning |
+| Santhosh Kumar | -- | !! | -- | -- | -- | -- | -- | 0 | ... | 1 | 1st miss warning |
 
 **Legend:** `##` = score | `!!` = missed | `--` = pending | `~~` = zeroed (3rd+ miss)
 
@@ -35,19 +37,19 @@
 | Phase | Max | Raw | Penalty | Adjusted | Date Submitted | Date Graded | Notes |
 |-------|-----|-----|---------|----------|----------------|-------------|-------|
 | Phase 1 | 20 | 14 | None | 14 | 2026-03-03 | 2026-03-03 | Assisted (3/7). Real content, polished packaging. |
-| Phase 2 | 20 | 16 | Cramming -20% | 13 | 2026-03-03 | 2026-03-03 | Clean (1/7). Best D3O mapping and gap recognition in batch. |
-| Phase 3 | 20 | 18 | Cramming -20% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Near-perfect. Q12 "No" is the most honest in batch. |
-| Phase 4 | 10 | 10 | Cramming -20% | 8 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Named 3 real people, 2 immediate actions. |
-| Phase 5 | 10 | 10 | Cramming -20% | 8 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Snowflake gap, firefighter admission. |
-| Phase 6 | 20 | 18 | Cramming -20% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Gold standard Q22. Insightful S3 suggestion. |
+| Phase 2 | 20 | 16 | Cramming -10% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Best D3O mapping and gap recognition in batch. |
+| Phase 3 | 20 | 18 | Cramming -10% | 16 | 2026-03-03 | 2026-03-03 | Clean (1/7). Near-perfect. Q12 "No" is the most honest in batch. |
+| Phase 4 | 10 | 10 | Cramming -10% | 9 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Named 3 real people, 2 immediate actions. |
+| Phase 5 | 10 | 10 | Cramming -10% | 9 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Snowflake gap, firefighter admission. |
+| Phase 6 | 20 | 18 | Cramming -10% | 16 | 2026-03-03 | 2026-03-03 | Clean (1/7). Gold standard Q22. Insightful S3 suggestion. |
 
-**Cumulative:** 71 / 100
+**Cumulative:** 78 / 100
 **Raw Total:** 86 / 100
-**Grade (Adjusted):** Worker (60-74)
+**Grade (Adjusted):** Builder (75-89)
 **Grade (Raw):** Builder (75-89)
 **Authenticity:** P1: Assisted (3/7) | P2-6: Clean (0-1/7) — quality improves across phases
 **Miss Count:** 0
-**Cramming Cost:** 15 points (86 → 71). Builder → Worker. All 6 phases submitted Day 1.
+**Cramming Cost:** 8 points (86 → 78). Penalty reduced from -20% to -10% on appeal (asked permission before batch submitting). Builder grade preserved.
 
 ### Kabilan
 
@@ -280,6 +282,9 @@
 | 2026-03-03 | Suspect flagged | Saradha (4/7 flags) — recommend private conversation before Phase 2 |
 | 2026-03-03 | Cramming noted | Jagadeesh submitted all 6 phases on Day 1 — penalty deferred to Phase 2+ grading |
 | 2026-03-03 | Jagadeesh P2-P6 graded | Raw 86/100 (Builder) → Adjusted 71/100 (Worker). Cramming cost: 15 points. Two perfect raw phases (P4: 10/10, P5: 10/10). Strongest submission in batch. |
+| 2026-03-04 | Jagadeesh cramming appeal | Penalty reduced from -20% to -10%. Reason: asked Director permission before batch submitting. New adjusted: 78/100 (Builder). Cramming cost reduced: 15 → 8 points. |
+| 2026-03-04 | Phase 1 leaderboard sent | Published to SCU Google Chat with all 16 @mentions. Average: 9.1/20 (45%). |
+| 2026-03-04 | No-shows flagged | Deepika Shree and Santhosh Kumar — 0/20, 1st miss warning. |
 
 ---
 
