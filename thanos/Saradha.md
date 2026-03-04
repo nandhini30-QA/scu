@@ -48,23 +48,23 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 
 | # | C or B? | Why? |
 |---|---------|------|
-| 1  Automation - B - Designed and implemented an end-to-end automation engine enabling automated data seeding and large-scale test orchestration
-| 2  Capacity Testing - B - Led capacity planning and benchmark testing to establish scalable performance baselines aligned with target user volumes were supported within acceptable latency
-| 3  Synthetic Data generation Tool - B - The synthetic data utility autonomously generates high-volume, production-like datasets and supports parallel execution, consistently accelerating environment readiness
-| 4  Real Analytics app - B - Developed a cross-functional SLA analytics dashboard providing real-time observability for Engineering, QA, Product, and Customer Success teams.
-| 5  Performance Scalable Automation - B - Built and stabilized scalable k6 performance scripts with dynamic data generation, enabling reliable parallel and high-concurrency test execution.
+| 1  Automation | B | Designed and implemented an end-to-end automation engine enabling automated data seeding and large-scale test orchestration
+| 2  Capacity Testing | C |Led capacity planning and benchmark testing to establish scalable performance baselines aligned with target user volumes were supported within acceptable latency
+| 3  Synthetic Data generation Tool |  B | The synthetic data utility autonomously generates high-volume, production-like datasets and supports parallel execution, consistently accelerating environment readiness
+| 4  Real Analytics app | C | Developed a cross-functional SLA analytics dashboard providing real-time observability for Engineering, QA, Product, and Customer Success teams.
+| 5  Performance Scalable Automation | C |Built and stabilized scalable k6 performance scripts with dynamic data generation, enabling reliable parallel and high-concurrency test execution.
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-[If I stepped away tomorrow, all five initiatives would still continue to create meaningful impact over the next six months because they were built as reusable systems rather than one-time efforts. The automation engine would remain core infrastructure for performance orchestration and data seeding, the capacity baselines would continue guiding scaling and release decisions, the synthetic data generation utility would keep accelerating environment readiness for large-scale testing, the SLA analytics dashboard would sustain cross-functional visibility and accountability, and the scalable k6 framework would persist as the foundation for parallel and high-concurrency performance validation. Collectively, these contributions go beyond task completion they establish durable performance engineering capabilities that the organization can continue to leverage independently.
+[If I disappeared tomorrow, My initiatives would still continue to create meaningful impact over the next six months because they were built as reusable systems rather than one-time efforts.For example, I built the automation and synthetic data generation tool were to support the performance testing and capacity testing initiatives.And the dashboard can provide real-time visibility across all the teams.
 ]
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-[I am intentionally building myself into a Systems-Level Reliability Architect - someone who connects performance, data, automation, scalability, and business impact into one cohesive operating model. My focus is not just on testing or validation, but on designing self-sustaining engineering ecosystems where performance, capacity, observability, and data readiness are embedded into the product lifecycle by default. I am deliberately moving toward shaping how the organization anticipates scale, measures operational truth, and prevents risk before it becomes production impact]
+[I am currently evolving into a Systems-Level Reliability Architect.I want to move beyond just testing and validation to focus on designing and developing entire engineering ecosystems. My goal is to make performance, observability, and data readiness a 'built-in' part of the product lifecycle. I am excited to shape my skills in AI, making this whole process smarter and faster. By bringing AI into the mix, I can scale these systems much more efficiently than doing it manually. ]
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -80,27 +80,33 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 | D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
 |-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | | |
-| **Develop** (building / executing it) | | |
-| **Deploy** (shipping / releasing / presenting it) | | |
-| **Operate** (monitoring, learning from results, feedback) | | |
+| **Design** (deciding WHAT to build and WHY) Synthetic Data Tool, Analytics Dashboard app - I Designed the logic to create production-like data and analytics dashboards to monitor system performance and user behavior.| I translated high-level requirements into the actual logic for our synthetic data tools and performance dashboards.
+| **Develop** (building / executing it) | I developed the tools based on the high-level requirements defined by the stakeholders | I took the vision from our stakeholders and built it out, focusing on clean data modeling and a user-friendly interface.
+| **Deploy** (shipping / releasing / presenting it) | I integrated my code into GitHub to make automated data seeding and real-time analytics accessible to everyone on the team.| The DevOps team handled the final rollout, ensuring everything was shipped reliably.
+| **Operate** (monitoring, learning from results, feedback) | I put these tools into practice to automate our data seeding and speed up testing. I also used feedback from our users to keep refining the features.| Users and stakeholders provided the feedback I needed to optimize the generation process and the dashboard.
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-[Your answer]
+[I would say my strongest contribution was in the Develop stage, with strong involvement in Operate, partial contribution in Design, and limited ownership in Deploy.]
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-[Your answer — be uncomfortably specific]
+[AI can already help with much of the Develop work. It can generate performance scripts, create synthetic data, suggest dashboard structures, analyze logs, and automate repetitive testing tasks faster than doing them manually. It even helps with Deployment by assisting with CI/CD configurations and monitoring setup.
+
+However, AI can’t replace the judgment required to decide what actually needs measuring or which performance thresholds matter most. It can’t align capacity with business growth or interpret results within a real-world context. It works only with data given to it. It also cannot replace stakeholder discussions, understanding cross-team suggestions, or translating technical insights into business impact. The strategic thinking, context awareness, and systematic thinking aspects of my work still require human ownership.
+
+AI can speed up the execution — but managing, decision-making, and owning the outcomes remain my responsibility.]
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-[Your answer — if the answer is "never" or "I can't remember," write that]
+[Yes — I independently designed and delivered a cross-functional analytics dashboard to track Customer SLA metrics, enabling real-time visibility across all the teams. I also designed and developed a synthetic data tool to generate high-volume, production-like data for performance testing. 
+
+While Phase 1 was already defined, I took full ownership of the design and build based on stakeholder requirements. I also put in extra effort beyond the initial requirements to ensure the tool is reusable and self-sufficient. My goal was to create something that could function without my presence. Even though this extra work was not specifically assigned, I chose to do it to build my skills and ensure the organization has a long-term solution.] 
 ```
 
 ---
