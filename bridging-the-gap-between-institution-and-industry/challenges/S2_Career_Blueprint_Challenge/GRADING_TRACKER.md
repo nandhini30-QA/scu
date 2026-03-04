@@ -9,7 +9,7 @@
 
 | Name | Role | P1 | P2 | P3 | P4 | P5 | P6 | Total | Grade | Misses | Penalties |
 |------|------|----|----|----|----|----|----|----- -|-------|--------|-----------|
-| Jagadeesh | QA Automation | 14 | 14 | 16 | 9 | 9 | 16 | 78 | Builder | 0 | Cramming -10% P2-P6 (reduced from -20% on appeal) |
+| Jagadeesh | QA Automation | 20 | 20 | 16 | 9 | 9 | 16 | 90 | Architect | 0 | P1-P2 resubmitted (Option A clean slate). P3-P6 retain original adjusted scores. |
 | Kabilan | SRE | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Pavithra | DevOps | 13 | -- | -- | -- | -- | -- | 13 | ... | 0 | None |
 | Sricanth | QA | 12 | -- | -- | -- | -- | -- | 12 | ... | 0 | None |
@@ -36,21 +36,20 @@
 
 | Phase | Max | Raw | Penalty | Adjusted | Date Submitted | Date Graded | Notes |
 |-------|-----|-----|---------|----------|----------------|-------------|-------|
-| Phase 1 | 20 | 14 | None | 14 | 2026-03-03 | 2026-03-03 | Assisted (3/7). Real content, polished packaging. |
-| Phase 2 | 20 | 16 | Cramming -10% | 14 | 2026-03-03 | 2026-03-03 | Clean (1/7). Best D3O mapping and gap recognition in batch. |
+| Phase 1 | 20 | 20 | None (resubmission) | 20 | 2026-03-04 | 2026-03-04 | **RESUBMISSION** Clean (0/7). Perfect. C on RedSkull, billing calibration gap admitted, Deepika credit shared. Strongest P1 in batch. |
+| Phase 2 | 20 | 20 | None (resubmission) | 20 | 2026-03-04 | 2026-03-04 | **RESUBMISSION** Clean (0/7). Perfect. Wrong-first-design admission, Operate gap named precisely, AI vulnerability answer is institutional. |
 | Phase 3 | 20 | 18 | Cramming -10% | 16 | 2026-03-03 | 2026-03-03 | Clean (1/7). Near-perfect. Q12 "No" is the most honest in batch. |
 | Phase 4 | 10 | 10 | Cramming -10% | 9 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Named 3 real people, 2 immediate actions. |
 | Phase 5 | 10 | 10 | Cramming -10% | 9 | 2026-03-03 | 2026-03-03 | Clean (0/7). Perfect raw. Snowflake gap, firefighter admission. |
 | Phase 6 | 20 | 18 | Cramming -10% | 16 | 2026-03-03 | 2026-03-03 | Clean (1/7). Gold standard Q22. Insightful S3 suggestion. |
 
-**Cumulative:** 78 / 100
-**Raw Total:** 86 / 100
-**Grade (Adjusted):** Builder (75-89)
-**Grade (Raw):** Builder (75-89)
-**Authenticity:** P1: Assisted (3/7) | P2-6: Clean (0-1/7) — quality improves across phases
+**Cumulative:** 90 / 100
+**Raw Total:** 96 / 100
+**Grade (Adjusted):** Architect (90-100)
+**Grade (Raw):** Architect (90-100)
+**Authenticity:** P1: Clean (0/7) RESUBMISSION | P2: Clean (0/7) RESUBMISSION | P3-6: Clean (0-1/7)
 **Miss Count:** 0
-**Cramming Cost:** 8 points (86 → 78). Penalty reduced from -20% to -10% on appeal (asked permission before batch submitting). Builder grade preserved.
-**Resubmission Offer:** Director offered Option A (redo phased) or Option B (enhance existing) for fresh re-evaluation with no penalty. If not taken, 78 is final.
+**Resubmission:** Option A chosen. P1 and P2 resubmitted 2026-03-04 with daily rhythm. Graded clean slate per Director's ruling. P3-P6 retain original adjusted scores (cramming -10% still applies to those phases). Previous P1: 14, Previous P2: 14. New P1: 20, New P2: 20. Net gain: +12 points (78 → 90). Grade change: Builder → Architect.
 
 ### Kabilan
 
@@ -289,6 +288,8 @@
 | 2026-03-04 | Jagadeesh counter-appeal | 3-point argument (pre-approval, rota shift, quality trajectory). Ruling: 78/100 stands. 8 points = tuition, not punishment. Case closed. |
 | 2026-03-04 | Jagadeesh counter-appeal #2 | Competitive fairness argument — penalty could cost top position to lower raw scorers. Added Tamil meme (#JusticeForJack). |
 | 2026-03-04 | Jagadeesh final ruling | Director offered resubmission path instead of score adjustment. Two options: (A) redo phased with daily depth, or (B) enhance existing with more breadth/depth. Either re-evaluated fresh, no penalty. If neither taken, 78 stands as final. Responded in native thread via thread_name. |
+| 2026-03-04 | Jagadeesh resubmission received | Option A chosen. Phase 1 and Phase 2 resubmitted with daily rhythm. Acknowledged in ITH Gang thread. |
+| 2026-03-04 | Jagadeesh P1-P2 resubmission graded | P1: 20/20 (was 14). P2: 20/20 (was 14). Both Clean (0/7). No penalty (clean slate). New cumulative: 90/100. Grade: Architect. Net gain: +12 points. The resubmission earned it — struggle shows, caveats named, credit shared. |
 
 ---
 

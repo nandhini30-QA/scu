@@ -1,36 +1,34 @@
-# BLUEPRINT GRADING — Jagadeesh — Phase 2
+# BLUEPRINT GRADING — Jagadeesh (Jack) — Phase 2 [RESUBMISSION]
 
-**Graded by Simmons | 2026-03-03**
+**Graded by Simmons | 2026-03-04**
+**Resubmission: Clean slate — no cramming penalty**
 
 ---
 
 ## Phase 2: Loop Map
-**Score: 16 / 20 | Adjusted: 13 / 20 (cramming -20%)**
+**Score: 20 / 20 | Adjusted: 20 / 20**
 
-**AUTHENTICITY: Clean (1/7)**
+**AUTHENTICITY: Clean (0/7 flags)**
+Previous submission: Clean (1/7). This resubmission: Clean (0/7). Both versions were authentic — this one is deeper.
 
 ---
 
 ### Question Breakdown
 
-**Q5: D3O mapping honesty — 6 / 8**
-Maps BillingGuard across all 4 D3O stages with specific evidence. "Someone Else" columns filled honestly — Aravind (code reviews), Noor (architecture approval), Swami (challenge framing). Claims all 4 stages, but the evidence supports it. Operate column is thinner — acknowledged in Q6.
+**Q5: D3O Mapping Honesty — 8 / 8**
+Both columns filled with real names and specific contributions. Aravind on library decisions, Noor on architecture questions, Swami on challenge framing. The "Someone Else" column isn't empty or vague — it's precise enough that you could verify every claim by asking those three people.
 
-**Q6: Gap recognition — 4 / 4**
-Best gap recognition in the batch. "Operate is my gap" — then proves it: "no weekly review, no feedback loop back into the design. Six months later I have no idea if the thresholds are still calibrated correctly." Honest, specific, self-aware.
+**Q6: Gap Recognition — 4 / 4**
+Opens with the confession that matters: "for the first 4 months here I was in Develop and Deploy only." Then names Operate as the current gap with a specific example — no weekly review on billing thresholds, no feedback loop. The killer line: "the whole point of the system was to detect anomalies reliably, and I have no visibility into whether it's still doing that."
 
-**Q7: AI vulnerability — 3 / 4**
-Names specific AI-replaceable tasks (SQL, Docker config, unit tests). Names what requires his judgment with real examples — Z-score calibration from billing history, PAP/UBLA org policy discovery, gspread hybrid decision. Slightly defensive in the "what AI can't do" section, but doesn't dodge.
+**Q7: AI Vulnerability — 4 / 4**
+Names specific automatable tasks (BigQuery SQL, Docker config, unit tests). Then gets granular on what AI can't replicate: the PAP/UBLA org policy discovery that took two days of misdiagnosis, the gspread negotiation with Aravind where the right answer depended on team maintainability, and the relationship judgment of reading review comments. That last point — knowing when a code review comment is a hard requirement vs negotiable — is the kind of institutional intelligence that only builds through months of working together.
 
-**Q8: Last self-designed work — 3 / 4**
-BillingGuard design doc (January 2026) and monitoring audit approach (DOOR-0794). Clear distinction between assigned and self-initiated. "Nobody told me to map all 7 GCP projects."
+**Q8: Last Self-Designed Work — 4 / 4**
+BillingGuard — but the honesty isn't in naming it. It's in admitting the first design was wrong, that Noor's question invalidated the approach, and that the 3-month redesign "wouldn't exist if Noor hadn't asked the one question I couldn't answer." Closing with "That's worth being accurate about" — full marks.
 
 ---
 
 ### Feedback
 
-Your D3O mapping is the most honest in the batch — you filled the "Someone Else" columns with real names, which most people avoided. Q6's Operate gap admission is exactly what this phase was designed to surface. The cramming penalty takes 3 points, but the reflection quality here is Builder-level work. The challenge for you: actually close that Operate loop. You identified the gap. Now build the weekly review cadence you said was missing.
-
----
-
-*Cumulative: 27 / 100*
+Two perfect phases. The D3O mapping is the most complete in the batch — real names, real contributions, real gaps. The Operate admission is the thread that connects Phase 1's billing calibration gap to Phase 2's loop gap — he sees the pattern now. The question for defense: you've identified the Operate gap in both phases. What does your weekly Operate rhythm actually look like starting this week? Not the system's — yours.
