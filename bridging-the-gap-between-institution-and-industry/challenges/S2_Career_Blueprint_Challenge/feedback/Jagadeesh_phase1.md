@@ -45,6 +45,21 @@ Your content is real — the project names, tools, and technical specifics confi
 
 **Impact:** 71/100 (Worker) → 78/100 (Builder). Cramming cost reduced from 15 to 8 points.
 
+### Counter-Appeal (2026-03-04)
+
+**Jagadeesh's 3-point counter-argument:**
+1. Pre-approval — Director confirmed full submission was acceptable. Penalty on a pre-approved action isn't a process violation.
+2. Rota shift reality — On-call during challenge period. 8+ hours carved between active production responsibilities. "Constraint engineering, not cramming."
+3. Quality proves reflection — P1 was 3/7 flags, P2-6 were 0-1/7. Improvement shows iterative thinking, just compressed by circumstance.
+4. Ask: Full raw score (86/100) restored, or a bonus for Builder-grade output under operational constraints.
+
+**Final Ruling: 78/100 stands.**
+- All three points acknowledged as valid
+- 8 points reframed as "tuition" — the gap between compressed and spaced reflection
+- Jagadeesh is the only Builder in a room of 16. Arguing over the penthouse while others haven't poured the foundation.
+- The negotiation itself is Builder behavior — advocating with structured evidence
+- Case closed. #JusticeForJack archived.
+
 ---
 
 *Cumulative: 14 / 100*

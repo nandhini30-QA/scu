@@ -285,6 +285,7 @@
 | 2026-03-04 | Jagadeesh cramming appeal | Penalty reduced from -20% to -10%. Reason: asked Director permission before batch submitting. New adjusted: 78/100 (Builder). Cramming cost reduced: 15 → 8 points. |
 | 2026-03-04 | Phase 1 leaderboard sent | Published to SCU Google Chat with all 16 @mentions. Average: 9.1/20 (45%). |
 | 2026-03-04 | No-shows flagged | Deepika Shree and Santhosh Kumar — 0/20, 1st miss warning. |
+| 2026-03-04 | Jagadeesh counter-appeal | 3-point argument (pre-approval, rota shift, quality trajectory). Ruling: 78/100 stands. 8 points = tuition, not punishment. Case closed. |
 
 ---
 
