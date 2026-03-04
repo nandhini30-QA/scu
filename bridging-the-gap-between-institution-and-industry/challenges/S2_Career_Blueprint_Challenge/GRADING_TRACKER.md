@@ -50,6 +50,7 @@
 **Authenticity:** P1: Assisted (3/7) | P2-6: Clean (0-1/7) — quality improves across phases
 **Miss Count:** 0
 **Cramming Cost:** 8 points (86 → 78). Penalty reduced from -20% to -10% on appeal (asked permission before batch submitting). Builder grade preserved.
+**Resubmission Offer:** Director offered Option A (redo phased) or Option B (enhance existing) for fresh re-evaluation with no penalty. If not taken, 78 is final.
 
 ### Kabilan
 
@@ -286,6 +287,8 @@
 | 2026-03-04 | Phase 1 leaderboard sent | Published to SCU Google Chat with all 16 @mentions. Average: 9.1/20 (45%). |
 | 2026-03-04 | No-shows flagged | Deepika Shree and Santhosh Kumar — 0/20, 1st miss warning. |
 | 2026-03-04 | Jagadeesh counter-appeal | 3-point argument (pre-approval, rota shift, quality trajectory). Ruling: 78/100 stands. 8 points = tuition, not punishment. Case closed. |
+| 2026-03-04 | Jagadeesh counter-appeal #2 | Competitive fairness argument — penalty could cost top position to lower raw scorers. Added Tamil meme (#JusticeForJack). |
+| 2026-03-04 | Jagadeesh final ruling | Director offered resubmission path instead of score adjustment. Two options: (A) redo phased with daily depth, or (B) enhance existing with more breadth/depth. Either re-evaluated fresh, no penalty. If neither taken, 78 stands as final. Responded in native thread via thread_name. |
 
 ---
 
