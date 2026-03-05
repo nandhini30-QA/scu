@@ -312,32 +312,33 @@ LEFT PANEL — STREET LEVEL, EYE HEIGHT:
 - The point: you cannot tell which bus is his. The robbery just vanished into a school run.
 - Morning light, grey sky, normal Gotham street with some parked cars on the sides
 
-RIGHT PANEL — BATMAN'S POV, LOOKING STRAIGHT DOWN:
-- CAMERA POSITION: Directly behind Batman's head and shoulders, looking STRAIGHT DOWN over the rooftop edge
-- Batman's cowl and cape visible in the TOP of the frame as a dark silhouette — he is the frame through which we see the street
-- FAR BELOW (the rest of the panel): the same street from above — a line of 4-5 yellow school buses moving away, tiny from this height
-- All the buses look identical from above — yellow rectangles in a row
-- Normal morning traffic around the buses — cars, pedestrians, crosswalks
-- The SAME moment as the left panel, different angle — connecting the two panels
+RIGHT PANEL — BATMAN ON ROOFTOP:
+- CAMERA POSITION: Behind Batman, slightly to his right, at his shoulder height
+- Batman standing upright at the rooftop edge, feet on the rooftop, back to viewer
+- He is looking DOWN at the street far below — his head tilted downward
+- Cape hanging behind him, still
+- Beyond the rooftop edge: the Gotham street visible far below, with the same line of yellow school buses driving away — tiny from this height
+- Morning grey sky behind the city buildings
 
 CHARACTER — BATMAN (RIGHT PANEL):
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, 6'0"
 - Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean, undamaged.
-- Expression: NOT VISIBLE — we see only the back of his cowl and shoulders
-- Action: Leaning slightly forward over the rooftop ledge, looking straight down
-- Position: Right panel, TOP of frame only — head and shoulders. The street below fills the rest.
+- Expression: NOT VISIBLE — back to viewer
+- Action: Standing upright at rooftop edge, feet planted, looking down at the street
+- Position: Right panel, foreground, standing normally, back to viewer
 
 TEXT OVERLAY:
-- Caption (dark navy) left panel: "He wasn't just a criminal. He was a system."
-- Caption (dark navy) right panel: "Ra's had rules. This one had none."
+- Caption (dark navy) left panel ONLY: "He wasn't just a criminal. He was a system."
+- Caption (dark navy) right panel ONLY: "Ra's had rules. This one had none."
 
 WHAT NOT TO DRAW:
-- NO bus flying, jumping, or airborne — all buses are on the street, wheels on pavement
+- NO bus flying, jumping, or airborne — all buses on the street, wheels on pavement
 - NO dramatic explosion or debris — the wall hole is already there, just dust settling
-- NO Batman's face — we see only the back of his head from behind
-- NO Batman at street level — he is on a HIGH rooftop, the street is far below
+- NO Batman's face — back to viewer
+- NO Batman leaning, crouching, or inverted — he is standing UPRIGHT normally
 - NO high-angle camera in the left panel — left panel camera is at EYE LEVEL on the sidewalk
+- NO duplicate captions — each panel gets exactly ONE caption
 - NO desks, chairs, coffee cups
 
 STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
