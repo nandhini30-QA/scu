@@ -36,6 +36,7 @@ Rules extracted from production experience. Apply to ALL series.
 | R-012 | In wide establishing shots with characters visible through windows/at distance, explicitly state characters are SMALL/TINY relative to the building. Add size constraint to WHAT NOT TO DRAW. | Scale | L-002 |
 | R-013 | Always describe costumes/props matching the specific source film's visual language. Never use generic terms like "theatrical" or "colorful" — describe the actual movie look (e.g., "cheap rubber masks over street clothes" not "grotesque painted masks"). | Film Accuracy | L-003 |
 | R-014 | Every named/significant character gets a full CHARACTER block with actor name, even minor roles. If they had a credited actor in the source film, name them. | Character | L-004 |
+| R-015 | Only describe what's physically present in the depicted space. If action happens off-screen (e.g., vault in a back room), do NOT mention it — Gemini will render it in the visible frame. | Spatial Logic | L-005 |
 
 ---
 
@@ -89,6 +90,17 @@ Rules extracted from production experience. Apply to ALL series.
 - **Fix Applied:** Added full CHARACTER block: William Fichtner, physical description, costume, expression ("Defiant, not cowering"), action, position.
 - **Rule Extracted:** R-014
 - **Scope:** ANY speaking or significant character, even minor ones. If they appear in the source film with a named actor, they get a full character block.
+
+### L-005: Gemini Renders All Described Actions in One Room
+- **Series:** DI (Decisive Intelligence)
+- **Episode:** EP2 — THE TEST
+- **Slide:** 4 (Bank Heist — Interior panel)
+- **Date:** 2026-03-05
+- **Problem:** Prompt described multiple simultaneous actions: "One cracking the vault, one disabling alarm, one holding gun on bank manager." Gemini placed ALL of these in the same room — vault door and alarm panel sitting in the marble lobby. In reality, the vault is in a separate back room, not visible from the public lobby.
+- **Root Cause:** Gemini compresses all described elements into the visible frame. If you mention a vault, it renders a vault — even if logically it belongs in a different room.
+- **Fix Applied:** Removed vault and alarm references from the panel. Described only what would be visible in the public lobby (robber with shotgun on bank manager, one clown watching). Added to WHAT NOT TO DRAW: "NO vault door, safe, or alarm panel visible — this is the public bank lobby only, not the back rooms."
+- **Rule Extracted:** R-015
+- **Scope:** Any scene with simultaneous action in multiple locations. Only describe what's physically present in the depicted space. Off-screen action stays off-screen.
 
 ---
 

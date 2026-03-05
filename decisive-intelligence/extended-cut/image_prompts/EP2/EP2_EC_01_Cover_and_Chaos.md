@@ -182,20 +182,19 @@ LEFT PANEL — BANK EXTERIOR WITH BUS:
 - The figures are TINY relative to the building — this is a wide architectural shot, not a character close-up
 - Morning light, grey Gotham sky
 
-RIGHT PANEL — BANK INTERIOR:
-- Inside the bank — marble floors, high ceilings, teller windows with brass bars
-- Three robbers in cheap rubber clown masks — the masks are simple, mass-produced, plastic/rubber with painted features (one has a red nose, one has a wide grin, one has exaggerated eyebrows). NOT elaborate face paint or theatrical costumes. They wear dark street clothes (jackets, pants) with the masks pulled over their heads
-- One robber cracking the vault door, one disabling alarm panel on wall
-- One robber holding a shotgun on the BANK MANAGER
+RIGHT PANEL — BANK LOBBY:
+- Inside the bank main lobby ONLY — marble floors, high ceilings, teller windows with brass bars, grand columns
+- Two robbers in cheap rubber clown masks in the lobby — the masks are simple, mass-produced, plastic/rubber with painted features (one has a red nose, one has exaggerated eyebrows). NOT elaborate face paint or theatrical costumes. They wear dark street clothes (dark jackets, pants) with the masks pulled over their heads
+- One robber holding a shotgun on the BANK MANAGER in the center of the lobby
+- One clown standing APART near the entrance — watching, observing, not participating yet
+- NO vault, NO alarm panel, NO back rooms visible — this is the public lobby only. The vault work is happening elsewhere off-screen.
 
 CHARACTER — BANK MANAGER FULL DESCRIPTION (RIGHT PANEL):
 - Face & Body: William Fichtner, Caucasian American man, mid-50s, sharp angular features, steely blue eyes, lean build, receding hairline, 6'0"
 - Costume: Dark navy (#1E3A5F) suit, white dress shirt, conservative tie — professional banker
 - Expression: Defiant, not cowering — jaw set, eyes hard, staring down the robbers
 - Action: Hands raised but posture upright, dignified
-- Position: Right panel, mid-ground, facing the robber with shotgun
-
-- One clown APART from the others — standing back near the entrance, watching, observing, not participating in the action yet
+- Position: Right panel, center foreground, facing the robber with shotgun
 
 TEXT OVERLAY:
 - Caption (dark navy): "It started like every robbery. Masks. Guns. A plan."
@@ -206,6 +205,7 @@ WHAT NOT TO DRAW:
 - NO blood or graphic violence
 - NO elaborate face paint or circus costumes on the robbers — they wear cheap rubber masks over street clothes, movie-accurate to The Dark Knight (2008)
 - NO figures in the left panel larger than the bus — they are SMALL, seen through windows at distance
+- NO vault door, safe, or alarm panel visible in the right panel — this is the public bank lobby only, not the back rooms
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
