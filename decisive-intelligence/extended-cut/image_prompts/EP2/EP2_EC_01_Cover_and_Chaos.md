@@ -1,5 +1,5 @@
 > **Part of:** EP2 Extended Cut Prompts | **Production Rules:** See `EP2_EC_00_Header.md`
-> **Slides:** 0-13 | **Scenes:** Cover + 1-2 (Opening) + 3A (Bank Heist) + 3 (Four Crises)
+> **Slides:** 0-13 | **Scenes:** Cover + 2 (Opening) + 3 (Bank Heist) + 4 (Escalation)
 
 # COVER
 
@@ -88,14 +88,14 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 2 — THE JOKER CARD + FOUR CRISES (Panels 2.3-2.4 COMBINED)
+### SLIDE 2 — THE JOKER CARD + ESCALATION (Panels 2.3-2.4 COMBINED)
 **SPLIT PANEL — THE THREAT**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
 
-SCENE: The Joker card and the four crises visualized.
+SCENE: The Joker card and the escalating campaign visualized.
 
 LEFT PANEL:
 - Close-up on a Joker playing card lying on the chessboard
@@ -105,7 +105,7 @@ LEFT PANEL:
 
 RIGHT PANEL:
 - Same chessboard, but four GHOSTLY overlays float above it
-- Semi-transparent images: Ferry with detonator, second ferry with prisoners, warehouse with bound woman, warehouse with bound man
+- Semi-transparent images: Mob bank in flames with cash burning, judge's car wreckage on courthouse steps, commissioner collapsed at his desk, Rachel Dawes clutching a threat letter
 - All overlapping, creating visual chaos ABOVE the ordered board
 
 TEXT OVERLAY:
@@ -156,11 +156,11 @@ STYLE: Photorealistic, extreme close-up. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-# BANK HEIST (Scene 3A — NEW) — 4 Slides
+# BANK HEIST (Scene 3) — 4 Slides
 
 ---
 
-### SLIDE 4 — THE ROBBERY (Panels 3A.1-3A.2 COMBINED)
+### SLIDE 4 — THE ROBBERY (Panels 3.1-3.2 COMBINED)
 **SPLIT PANEL — OUTSIDE AND INSIDE**
 
 ```
@@ -194,7 +194,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 5 — THE BETRAYAL (Panel 3A.3)
+### SLIDE 5 — THE BETRAYAL (Panel 3.3)
 **SPLIT PANEL — ELIMINATION**
 
 ```
@@ -225,7 +225,7 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 6 — THE REVEAL (Panels 3A.4-3A.6 COMBINED)
+### SLIDE 6 — THE REVEAL (Panels 3.4-3.6 COMBINED)
 **VERTICAL TRIPTYCH — JOKER EMERGES**
 
 ```
@@ -270,7 +270,7 @@ STYLE: Photorealistic, triptych. Full bleed. WATERMARK: "DI × SCU" bottom-left,
 
 ---
 
-### SLIDE 7 — THE ESCAPE + BATMAN WATCHING (Panels 3A.7-3A.8 COMBINED)
+### SLIDE 7 — THE ESCAPE + BATMAN WATCHING (Panels 3.7-3.8 COMBINED)
 **SPLIT PANEL — GENIUS AND FAILURE**
 
 ```
@@ -307,133 +307,146 @@ STYLE: Photorealistic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, ne
 
 ---
 
-# THE FOUR CRISES (Scene 3) — 6 Slides
+# THE JOKER'S ESCALATION (Scene 4) — 6 Slides
 
 ---
 
-### SLIDE 8 — FERRY A (Panel 3.1)
-**SINGLE PANEL — CIVILIANS**
+### SLIDE 8 — MOB BANK AFTERMATH (Panel 4.1)
+**SINGLE PANEL — THE CAMPAIGN BEGINS**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: Interior of a ferry filled with terrified civilians.
+SCENE: Gotham's financial district — multiple mob-connected banks hit in a single night. The criminal underworld's money supply destroyed.
 
 COMPOSITION:
-- Ferry interior — harsh fluorescent lights, rows of seats, windows showing dark water
-- CIVILIANS huddled in groups — families, elderly, various people in fear
-- A small DETONATOR device on a central table, red light blinking
-- Through windows, another ferry visible in the distance
-- Night, water, tension
+- WIDE ESTABLISHING — Gotham financial district, night/early morning
+- Three bank exteriors visible, all crime scenes — shattered glass, police tape, forensic teams
+- Yellow police tape crossing the foreground
+- Evidence markers scattered across sidewalks
+- In the background: mob bosses' vehicles torched in a parking structure, smoke still rising
+- The destruction is systematic, not random — every mob bank targeted
 
 ATMOSPHERE:
-- Claustrophobic, trapped
-- The detonator is the visual center
+- Methodical devastation — not chaos, but DESIGNED chaos
+- The Joker destabilizing everyone, criminals and institutions alike
 
 TEXT OVERLAY:
-- None — image only, establishing
+- None — image only, let the visual establish
 
 WHAT NOT TO DRAW:
-- NO named characters — generic civilians
-- NO violence
+- NO named characters — forensic teams and police only
+- NO Joker visible
+- NO blood or graphic violence
 
-STYLE: Photorealistic, cinematic. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, wide establishing. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 9 — FERRY B (Panel 3.2)
-**SINGLE PANEL — PRISONERS**
+### SLIDE 9 — JUDGE AND COMMISSIONER (Panels 4.2-4.3 COMBINED)
+**SPLIT PANEL — THE INSTITUTIONS FALL**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
 
-SCENE: Interior of the prisoner ferry.
+SCENE: The Joker targets the institutions — judiciary and law enforcement, one after the other.
 
-COMPOSITION:
-- Ferry interior — same harsh lighting
-- PRISONERS in orange jumpsuits, hands cuffed, guarded by nervous SWAT officers
-- A matching DETONATOR on a table
-- In foreground, a MASSIVE PRISONER stands apart from the others, staring at the detonator
+LEFT PANEL — JUDGE SURILLO:
+- Courthouse steps, morning
+- A charred vehicle at the curb, still smoking — JUDGE SURILLO's car, bombed
+- Driver's door blown open, forensic team working the blast zone
+- Courthouse behind: imposing marble, American flag at half-mast
+- Courthouse staff behind the tape, shocked
+- A small CHESS PIECE detail: a gavel-shaped piece on the courthouse step — placed, not accidental
 
-FERRY PRISONER FULL DESCRIPTION:
-- Face & Body: Tommy "Tiny" Lister, African American man, mid-40s, massive imposing build, shaved head, stern weathered face with scars, 6'5", heavily muscled
-- Tattoos: Extensive tattoos covering arms and neck — prison ink, dark blue/black
-- Costume: Orange (#F97316) prison jumpsuit, hands cuffed in front
-- Expression: Stoic, studying the detonator, world-weary
-- Position: Foreground, other prisoners behind
+RIGHT PANEL — COMMISSIONER LOEB:
+- GCPD Commissioner's office — dark wood paneling, American flag, commendations on wall
+- Commissioner LOEB slumped forward at his desk, glass of whiskey still in hand, face grey
+- Officers rushing through the door, one calling for medics
+- Whiskey bottle on desk with evidence marker already placed
+- He's been POISONED — the Joker got to the supply chain
 
 TEXT OVERLAY:
-- None — image only
+- None — dual image, no dialogue. The devastation speaks.
 
-STYLE: Photorealistic. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+WHAT NOT TO DRAW:
+- NO Joker visible in either panel
+- NO graphic injury detail — implied through staging
+- NO desks other than Loeb's (it's his office)
+
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 10 — THE WAREHOUSES (Panels 3.3-3.4 COMBINED)
-**SPLIT PANEL — RACHEL AND HARVEY**
+### SLIDE 10 — RACHEL AND HARVEY TARGETED (Panel 4.4)
+**SPLIT PANEL — THE PERSONAL EDGE**
 
 ```
 PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
 
-SCENE: Two warehouses, two captives, two timers.
+SCENE: The Joker targets the people, not just the institutions. Rachel threatened. Harvey shot at.
 
-LEFT PANEL — WAREHOUSE A:
-- Dark industrial warehouse, gasoline barrels
-- A WOMAN seated in center, restrained, timer visible showing 4:32
-- Defiant expression despite fear
-- Industrial decay surrounding
+LEFT PANEL — RACHEL'S THREAT:
+- Rachel Dawes at her office desk, opening a letter
+- Her face draining of color — the Joker's crude handwriting visible
+- A playing card tucked inside the envelope, face-up
+- Her office behind her: law books, case files, professional but personal
 
-RIGHT PANEL — WAREHOUSE B:
-- Different warehouse, same setup
-- A MAN seated, restrained, timer showing 4:28
-- Half his face pressed against a puddle of liquid
-- Struggling against restraints
+RIGHT PANEL — HARVEY'S OFFICE:
+- Harvey Dent's DA office, windows SHOT OUT
+- Bullet holes stitched across the back wall in a deliberate pattern
+- Harvey being pulled behind his desk by security
+- Glass fragments on the floor, blinds shredded
+- The personal stakes made visceral
 
-CHARACTER 1 — RACHEL DAWES (LEFT):
-- Face & Body: Maggie Gyllenhaal, Caucasian woman, early 30s, dark brown hair disheveled, warm brown eyes wide with fear but defiant, slim build, 5'5"
-- Costume: Grey (#6B7280) professional blazer, white blouse, dirty from captivity
-- Expression: Terrified but defiant, jaw set
-- Position: Center of warehouse, surrounded by barrels
+CHARACTER 1 — RACHEL DAWES (LEFT PANEL):
+- Face & Body: Maggie Gyllenhaal, Caucasian woman, early 30s, dark brown hair shoulder-length, warm brown eyes wide with shock, slim build, 5'5"
+- Costume: Grey (#6B7280) professional blazer over white blouse
+- Expression: Color draining from face, shock turning to fear
+- Action: Holding letter, eyes locked on the content
+- Position: Left panel, seated at desk, letter in hands
 
-CHARACTER 2 — HARVEY DENT (RIGHT):
-- Face & Body: Aaron Eckhart, Caucasian man, late 30s, handsome features twisted with panic, blue eyes wild, blonde hair soaked, 6'0"
-- Costume: Navy blue (#1E3A8A) suit torn and dirty, shirt soaked
-- Expression: Desperate, panicked
-- Position: Center of warehouse, face half-pressed into liquid puddle
+CHARACTER 2 — HARVEY DENT (RIGHT PANEL):
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, handsome features twisted with adrenaline, blue eyes alert, blonde hair disheveled, 6'0"
+- Costume: Navy blue (#1E3A8A) suit, white shirt, tie loosened
+- Expression: Adrenaline, survival instinct, fury
+- Action: Being pulled behind desk by security guard
+- Position: Right panel, mid-crouch, shattered windows behind
 
 TEXT OVERLAY:
 - None — dual image, no dialogue
 
 WHAT NOT TO DRAW:
-- NO ropes or bindings in graphic detail — implied by seated posture
-- NO explicit gasoline labels — barrels and liquid only
+- NO Joker visible in either panel
+- NO blood
+- NO weapons visible in left panel — the threat is the letter
 
-STYLE: Photorealistic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
 
-### SLIDE 11 — FOUR CRISES FRAGMENTED (Panel 3.5)
+### SLIDE 11 — FOUR CRISES FRAGMENTED (Panel 4.5)
 **QUAD (2×2) — VISUAL CHAOS**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. QUAD GRID — four panels at ANGLES, edges bleeding into each other.
 
-SCENE: All four crises shown together — fragmented, overlapping, creating cognitive overload.
+SCENE: All four escalation targets shown together — fragmented, overlapping, creating cognitive overload.
 
 COMPOSITION:
 - Four previous images shown together but NOT in clean grid
 - Panels at ANGLES, edges overlapping, bleeding into each other
-- Top-left: Ferry A civilians with detonator
-- Top-right: Ferry B prisoners with detonator
-- Bottom-left: Woman in warehouse with timer
-- Bottom-right: Man in warehouse with timer
+- Top-left: Mob banks burning, police tape
+- Top-right: Judge's charred car on courthouse steps
+- Bottom-left: Commissioner slumped at desk, officers rushing
+- Bottom-right: Rachel's letter and Harvey's shot-up office overlapping
 - The composition itself creates visual chaos — this is what Batman sees
 
 TEXT OVERLAY:
@@ -448,14 +461,14 @@ STYLE: Photorealistic, chaotic quad layout. Full bleed. WATERMARK: "DI × SCU" b
 
 ---
 
-### SLIDE 12 — THE JOKER APPEARS (Panel 3.6)
+### SLIDE 12 — THE JOKER APPEARS (Panel 4.6)
 **SINGLE SPLASH — FIRST FULL APPEARANCE**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
 
-SCENE: The Joker's first full face appearance — extreme close-up filling the frame.
+SCENE: The Joker's full face — extreme close-up filling the frame. The architect of the escalation.
 
 COMPOSITION:
 - EXTREME CLOSE-UP — the Joker's face filling the entire frame
@@ -484,14 +497,14 @@ STYLE: Photorealistic, extreme close-up. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 13 — THE CLOCK + GOTHAM (Panels 3.7-3.8 COMBINED)
+### SLIDE 13 — THE CLOCK + GOTHAM (Panels 4.7-4.8 COMBINED)
 **SPLIT PANEL — SYSTEM AND SCALE**
 
 ```
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
 
-SCENE: The four crises mapped to the framework, and Gotham under siege.
+SCENE: The escalation mapped to the framework, and Gotham under siege.
 
 LEFT PANEL:
 - Four digital timers, each counting down different times
@@ -501,9 +514,10 @@ LEFT PANEL:
 
 RIGHT PANEL:
 - Gotham from ABOVE — aerial night view
-- Four locations pulsing with faint light — two in the harbor (ferries), two inland (warehouses)
+- Four locations pulsing with faint light — the financial district, the courthouse, GCPD headquarters, the DA's office
 - Helicopter searchlights sweeping
-- A city under siege
+- Smoke plumes rising from multiple locations
+- A city under siege from within
 
 TEXT OVERLAY:
 - Caption (dark navy) left: "Four crises. Four choices. One framework."
