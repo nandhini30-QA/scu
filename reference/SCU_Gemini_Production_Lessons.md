@@ -33,6 +33,9 @@ Rules extracted from production experience. Apply to ALL series.
 | R-009 | Triptych panels need explicit shared backdrop instruction | Composition | EP1 Header |
 | R-010 | Descriptive adjectives in composition sections can leak as visible text. Strip labels, keep only visual instructions. | Text Leak | L-001 (general pattern) |
 | R-011 | Add "NO visible text other than the caption and watermark" to panels that have no intended text overlay | Text Leak | EP1 pattern |
+| R-012 | In wide establishing shots with characters visible through windows/at distance, explicitly state characters are SMALL/TINY relative to the building. Add size constraint to WHAT NOT TO DRAW. | Scale | L-002 |
+| R-013 | Always describe costumes/props matching the specific source film's visual language. Never use generic terms like "theatrical" or "colorful" — describe the actual movie look (e.g., "cheap rubber masks over street clothes" not "grotesque painted masks"). | Film Accuracy | L-003 |
+| R-014 | Every named/significant character gets a full CHARACTER block with actor name, even minor roles. If they had a credited actor in the source film, name them. | Character | L-004 |
 
 ---
 
@@ -56,6 +59,36 @@ Rules extracted from production experience. Apply to ALL series.
   - EP2 EC_02 (Burma flashback slides ~19-24)
   - EP2 EC_06 (Gordon memory slide 100)
   - EP1 EC_04 Slide 45 panel header "MEMORY AND PRESENT" (in markdown header only, NOT inside PROMPT block — lower risk, but worth standardizing)
+
+### L-002: Character Scale Wrong in Wide Establishing Shots
+- **Series:** DI (Decisive Intelligence)
+- **Episode:** EP2 — THE TEST
+- **Slide:** 4 (Bank Heist — Exterior + Interior)
+- **Date:** 2026-03-05
+- **Problem:** Left panel described figures "moving in the lobby" visible through glass. Gemini rendered the clown-masked figures LARGER than the school buses outside — breaking all sense of scale. The prompt didn't specify relative size or that this was a wide architectural shot.
+- **Fix Applied:** Added explicit scale language: "FIVE SMALL FIGURES visible inside — silhouettes... barely distinguishable at this distance", "The figures are TINY relative to the building — this is a wide architectural shot, not a character close-up", and in WHAT NOT TO DRAW: "NO figures in the left panel larger than the bus"
+- **Rule Extracted:** R-012
+- **Scope:** Any panel mixing exterior wide shots with characters visible through windows/doors.
+
+### L-003: Vague Costume Descriptions Produce Wrong Movie Look
+- **Series:** DI (Decisive Intelligence)
+- **Episode:** EP2 — THE TEST
+- **Slide:** 4 (Bank Heist)
+- **Date:** 2026-03-05
+- **Problem:** Prompt described clown masks as "colorful", "grotesque, painted, theatrical." Gemini rendered elaborate circus-style clown costumes and face paint — looking like a different movie entirely. In The Dark Knight, the robbers wore cheap rubber/plastic mass-produced masks over dark street clothes.
+- **Fix Applied:** Replaced vague descriptions with movie-specific: "cheap rubber clown masks — simple, mass-produced, plastic/rubber with painted features... NOT elaborate face paint or theatrical costumes. They wear dark street clothes (jackets, pants) with the masks pulled over their heads." Added to WHAT NOT TO DRAW: "NO elaborate face paint or circus costumes on the robbers — they wear cheap rubber masks over street clothes, movie-accurate to The Dark Knight (2008)"
+- **Rule Extracted:** R-013
+- **Scope:** ANY scene referencing a specific movie. Descriptions must match the actual film's visual language, not a generic interpretation.
+
+### L-004: Named Characters Need Actor + Full Description (Even Minor Roles)
+- **Series:** DI (Decisive Intelligence)
+- **Episode:** EP2 — THE TEST
+- **Slide:** 4 (Bank Heist)
+- **Date:** 2026-03-05
+- **Problem:** The bank manager was described only as "bank manager" — no actor name, no character block. Gemini rendered a generic businessman. In TDK, the bank manager was played by William Fichtner with a very specific defiant presence.
+- **Fix Applied:** Added full CHARACTER block: William Fichtner, physical description, costume, expression ("Defiant, not cowering"), action, position.
+- **Rule Extracted:** R-014
+- **Scope:** ANY speaking or significant character, even minor ones. If they appear in the source film with a named actor, they get a full character block.
 
 ---
 

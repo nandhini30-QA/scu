@@ -174,25 +174,38 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: The bank heist opening — Dark Knight's iconic first scene.
 
-LEFT PANEL — EXTERIOR:
-- Gotham National Bank exterior, morning light
-- Yellow school bus at curb among other school buses — field trip camouflage
-- Through glass facade, FIVE FIGURES in colorful clown masks moving in the lobby
-- Each mask different — grotesque, painted, theatrical
+LEFT PANEL — BANK EXTERIOR WITH BUS:
+- Wide establishing shot — Gotham National Bank facade dominates the frame, tall stone pillars, carved lettering above entrance
+- Yellow school bus parked at curb in foreground — LARGE, taking up bottom third of frame
+- Other yellow school buses lined along the street — field trip camouflage
+- Through the bank's glass windows, FIVE SMALL FIGURES visible inside — silhouettes in cheap rubber clown masks, barely distinguishable at this distance
+- The figures are TINY relative to the building — this is a wide architectural shot, not a character close-up
+- Morning light, grey Gotham sky
 
-RIGHT PANEL — INTERIOR:
-- Inside the bank — marble floors, teller windows
-- Clown-masked robbers forcing everyone to the floor
-- One cracking the vault, one disabling alarm, one holding gun on bank manager
-- One clown APART from the others — watching, observing
+RIGHT PANEL — BANK INTERIOR:
+- Inside the bank — marble floors, high ceilings, teller windows with brass bars
+- Three robbers in cheap rubber clown masks — the masks are simple, mass-produced, plastic/rubber with painted features (one has a red nose, one has a wide grin, one has exaggerated eyebrows). NOT elaborate face paint or theatrical costumes. They wear dark street clothes (jackets, pants) with the masks pulled over their heads
+- One robber cracking the vault door, one disabling alarm panel on wall
+- One robber holding a shotgun on the BANK MANAGER
+
+CHARACTER — BANK MANAGER FULL DESCRIPTION (RIGHT PANEL):
+- Face & Body: William Fichtner, Caucasian American man, mid-50s, sharp angular features, steely blue eyes, lean build, receding hairline, 6'0"
+- Costume: Dark navy (#1E3A5F) suit, white dress shirt, conservative tie — professional banker
+- Expression: Defiant, not cowering — jaw set, eyes hard, staring down the robbers
+- Action: Hands raised but posture upright, dignified
+- Position: Right panel, mid-ground, facing the robber with shotgun
+
+- One clown APART from the others — standing back near the entrance, watching, observing, not participating in the action yet
 
 TEXT OVERLAY:
 - Caption (dark navy): "It started like every robbery. Masks. Guns. A plan."
 - Caption (dark navy): "But the clowns had a problem."
 
 WHAT NOT TO DRAW:
-- NO Joker face visible yet — all figures in clown masks
+- NO Joker face visible yet — all figures in clown masks only
 - NO blood or graphic violence
+- NO elaborate face paint or circus costumes on the robbers — they wear cheap rubber masks over street clothes, movie-accurate to The Dark Knight (2008)
+- NO figures in the left panel larger than the bus — they are SMALL, seen through windows at distance
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
