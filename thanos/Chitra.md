@@ -119,32 +119,29 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
-```
-[Your answer]
-```
+In two years, I want to be functioning as a technically strong Automation & Quality Architect or Senior Automation Engineer who owns end-to-end quality strategy for critical modules.
+
+I want to move beyond executing test cases into Designing automation frameworks and coverage strategy and Integrating AI-assisted testing into regular QA workflows.
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | | Designed, built, and deployed a production-grade automation framework that covers at least 70% of critical flows and is actively used by the team. | Partially
+| 2 | | complex debugging and production issue root cause analysis in analytics module | Partially
+| 3 | | Integrated AI into at least one structured QA workflow that continues to create value without manual dependency. | Not met yet
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |Staying dominant in Develop and not pushing myself into Deploy and Operate stages. Becoming a strong executor but not a system owner. | Intentionally own at least one initiative end-to-end every 6 months (Design → Operate). Request stakeholder walkthroughs and post-release reviews instead of stopping at build stage. | 
+| 2 | Relying too heavily on AI tools for execution and not strengthening core technical fundamentals (architecture thinking, debugging depth, system design). | Continue structured learning in automation architecture and system debugging. Practice solving problems first before using AI, then use AI for optimization rather than replacement.  |  
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
-```
-[Your honest assessment]
-```
+Not yet. I would ship it as a beta, not as a production-ready version.
+Because I have strong clarity on Develop, I have emerging clarity on Design and Deploy and Operate are still underdeveloped, I have identified risks, but I have not yet committed to measurable checkpoints to mitigate them.
 
 ---
 
