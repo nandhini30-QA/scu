@@ -301,41 +301,43 @@ STYLE: Photorealistic, triptych. Full bleed. WATERMARK: "DI × SCU" bottom-left,
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
 
-SCENE: The school bus escape — casual, genius — and Batman watching from far above, too late.
+SCENE: The Joker's genius — the school bus disappears into a convoy. Same moment, two camera angles.
 
-LEFT PANEL — THE BUS MERGES INTO TRAFFIC:
-- Street-level view — a Gotham city street, morning
-- A yellow school bus pulling away from the bank, rear end still near the damaged wall (hole in the brick facade behind it, dust settling)
-- The bus is NOT flying or airborne — it is on the street, wheels on pavement, driving forward casually
-- AHEAD of it: a line of 3-4 other yellow school buses in a convoy, field trip traffic
-- The Joker's bus merging into the back of the line — indistinguishable from the rest
-- Morning light, normal traffic on the other side of the street
-- The genius is in the ordinariness — a robbery disappearing into a school run
+LEFT PANEL — STREET LEVEL, EYE HEIGHT:
+- CAMERA POSITION: Standing on the sidewalk across the street from the bank, eye-level (5 feet high), looking straight ahead
+- Gotham National Bank visible on the LEFT side of frame — a ragged hole in its brick wall, dust still settling
+- A yellow school bus has just pulled out of the hole and is now ON THE STREET, driving away from the viewer down the center of the road
+- AHEAD of it: 3 more yellow school buses in a line, already driving away — a field trip convoy
+- The Joker's bus is merging into the BACK of the line — it looks IDENTICAL to the others
+- The point: you cannot tell which bus is his. The robbery just vanished into a school run.
+- Morning light, grey sky, normal Gotham street with some parked cars on the sides
 
-RIGHT PANEL — BATMAN ON ROOFTOP FAR ABOVE:
-- Shot from BEHIND Batman, looking OVER his shoulder and DOWN at the street far below
-- Batman standing at a rooftop ledge, high above — the street is 15+ stories down
-- FAR BELOW: the line of yellow school buses is visible as SMALL shapes on the street, merging into traffic
-- Batman's cape hanging still, his silhouette dark against the grey morning sky
-- The distance between him and the buses emphasizes: too late, too far
+RIGHT PANEL — BATMAN'S POV, LOOKING STRAIGHT DOWN:
+- CAMERA POSITION: Directly behind Batman's head and shoulders, looking STRAIGHT DOWN over the rooftop edge
+- Batman's cowl and cape visible in the TOP of the frame as a dark silhouette — he is the frame through which we see the street
+- FAR BELOW (the rest of the panel): the same street from above — a line of 4-5 yellow school buses moving away, tiny from this height
+- All the buses look identical from above — yellow rectangles in a row
+- Normal morning traffic around the buses — cars, pedestrians, crosswalks
+- The SAME moment as the left panel, different angle — connecting the two panels
 
 CHARACTER — BATMAN (RIGHT PANEL):
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, 6'0"
 - Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean, undamaged.
-- Expression: NOT VISIBLE — shot from behind, looking down at the street
-- Action: Standing at rooftop edge, looking down at the bus convoy far below
-- Position: Right panel, foreground, back to viewer
+- Expression: NOT VISIBLE — we see only the back of his cowl and shoulders
+- Action: Leaning slightly forward over the rooftop ledge, looking straight down
+- Position: Right panel, TOP of frame only — head and shoulders. The street below fills the rest.
 
 TEXT OVERLAY:
-- Caption (dark navy): "He wasn't just a criminal. He was a system."
-- Caption (dark navy): "Ra's had rules. This one had none."
+- Caption (dark navy) left panel: "He wasn't just a criminal. He was a system."
+- Caption (dark navy) right panel: "Ra's had rules. This one had none."
 
 WHAT NOT TO DRAW:
-- NO bus flying or airborne — the bus is on the street, driving normally
-- NO dramatic explosion or bricks flying — the wall damage is already done, just a hole with settling dust
-- NO Batman face visible — shot from behind, looking down
-- NO Batman at street level — he is HIGH on a rooftop, the street is far below
+- NO bus flying, jumping, or airborne — all buses are on the street, wheels on pavement
+- NO dramatic explosion or debris — the wall hole is already there, just dust settling
+- NO Batman's face — we see only the back of his head from behind
+- NO Batman at street level — he is on a HIGH rooftop, the street is far below
+- NO high-angle camera in the left panel — left panel camera is at EYE LEVEL on the sidewalk
 - NO desks, chairs, coffee cups
 
 STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
