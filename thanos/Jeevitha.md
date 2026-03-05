@@ -131,32 +131,30 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
-```
-[Your answer]
-```
+I want to see myself as SDET who develops and test the system. I will own the Quality Infrastructure for a complete product vertical. My role shifts from executing test plans to designing Test Systems. I wanted to do AI driven testing. I will design and deploy a Self-Healing Automation Framework that utilizes AI to resolve locator flakiness, targeting a 40% reduction in maintenance overhead. I will move beyond the test repo to contribute directly to the Core Application Codebase, focusing on "Testability" and fixing deep-seated architectural bugs identified through root-cause analysis.I
+to mentor my juniors, sharpen their skills. I love to mentoring people. Once upon a time, i was one of them, expected a mentor to guide me. So, i will be great mentor.
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Successfully architected and deployed an E2E framework from scratch.| Not Met|
+| 2 | My QA team has adopted my "Technical Debugging Template," resulting in a 20% faster developer turnaround on tickets. | Met |
+| 3 | Successfully architected and deployed a reusable automation framework used by at least 3 separate modules |Partially Met |
+| 4 | The Self-Healing mechanism I designed has successfully reduced "Red Builds" caused by UI changes by at least 30% over a 3-month period.| Not met|
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | I Building a "Self-Healing" agent that makes incorrect assumptions, leading to "False Pass" results in the pipeline.| Implement a secondary "Human-in-the-loop" audit log for the AI Agent to verify its healing logic during the first 6 months of deployment. |
+| 2 | I Identifying root causes in the backend but lacking the permissions or trust to implement the fix in the core repo.| Initiate a "Developer Pairing" schedule once a week to build trust and demonstrate code level competency to the Dev Leads. |
+| 3 | I am getting buried in manual regression for legacy features (Forms/Board), leaving 0% bandwidth for system design. |Transition "Sanity" checks to 100% automated execution to buy back 10 hours of "Architecture Time" per week. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
-```
-[Your honest assessment]
-```
+No, I wouldn't ship yet. If I were a product, I’d be in the Beta Testing phase. While my design intent is clear and my past contributions (the template) prove I can set standards, my "Automation Architecture" and "Core Code Contribution" features are still in development. Shipping now would be a "Pre-mature Release" I have the mindset of an SDET, but I haven't yet proven I can maintain the core application code or build a framework from scratch. I need to close the gap on Criterion #1 and #3 before this career version is ready for production.
+
 
 ---
 
