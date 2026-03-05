@@ -136,7 +136,7 @@ In two years, I aim to be a **Senior Site Reliability Engineer**.
 | # | Acceptance Criteria                                                                                                                                                             | Current Status (Met / Partially / Not Met) |
 |---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | 1 | I have successfully led a major project from design to completion, where I was the primary owner of the technical design and architecture.                                          | Not Met                                    |
-| 2 | Contributed to the team's knowledge base by writing at least two pieces of internal documentation and have presented a topic in a team meeting.                                  | Not Met                                    |
+| 2 | Contributed to the team's knowledge base by writing at least two pieces of internal documentation and have presented a topic in a team meeting.                                  | Partially                                   |
 | 3 | I am the go-to person on the team for at least one critical system or technology (e.g., Kubernetes networking, Prometheus internals), and I have contributed a significant internal tool or automation written in Go. | Not Met                                    |
 | 4 | I have successfully presented a technical design to a cross-functional team, and it was approved with minimal changes. I have also led a post-mortem for a critical incident, resulting in actionable follow-up items. | Not Met                                    |
 
