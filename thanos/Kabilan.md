@@ -162,8 +162,6 @@ IN 2 YEARS:
    - Lead incident diagnosis and root cause analysis
    - Design preventive systems, not just responsive automation
 
-I'm not pursuing management. I'm pursuing mastery. I want to be the person Noordeen (Tony Stark) looks to when
-production breaks — not because I fix it fast, but because I prevent it from breaking.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
