@@ -83,12 +83,12 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
-| D3O Stage                                                       | What YOU Did (be specific) | What SOMEONE ELSE Did |
-| --------------------------------------------------------------- | -------------------------- | --------------------- |
-| **Design** (deciding WHAT to build and WHY)               |      About a month ago I noticed developers rarely checked the Jenkins dashboard, so automation failures were often noticed late. I decided to send Jenkins build results directly to a Google Chat channel called “Automation result” so the team could immediately see the status without opening Jenkins.                      | Jenkins pipelines and automation suites were already maintained by the QA and engineering teams.                      |
-| **Develop** (building / executing it)                     |    I built the integration using a Google Chat webhook. The message included build status, duration, test suites, environment link, Allure report, and screenshots. Version 1 only sent basic status. In version 2 I added test health insights and module-level failure counts to make debugging easier.                        |Developers maintained the pipeline and fixed issues when failures were reported.                       |
-| **Deploy** (shipping / releasing / presenting it)         |I connected the webhook to the Jenkins pipeline so every build automatically posts a summary to the Automation result channel. This made the results visible to the team immediately after execution.                            |Developers and QA used the notifications to quickly access reports and investigate failures.                       |
-| **Operate** (monitoring, learning from results, feedback) |After multiple runs, the notifications showed that most recurring failures were in UI tests, highlighting weaker areas in the automation suite. One gap is that it currently reports failures but does not track long-term trends like flaky tests.                            |Developers used the reports to debug failing tests or code issues.                       |
+| D3O Stage                                                       | What YOU Did (be specific)                                                                                                                                                                                                                                                                                | What SOMEONE ELSE Did                                                                            |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Design** (deciding WHAT to build and WHY)               | About a month ago I noticed developers rarely checked the Jenkins dashboard, so automation failures were often noticed late. I decided to send Jenkins build results directly to a Google Chat channel called “Automation result” so the team could immediately see the status without opening Jenkins. | Jenkins pipelines and automation suites were already maintained by the QA and engineering teams. |
+| **Develop** (building / executing it)                     | I built the integration using a Google Chat webhook. The message included build status, duration, test suites, environment link, Allure report, and screenshots. Version 1 only sent basic status. In version 2 I added test health insights and module-level failure counts to make debugging easier.    | Developers maintained the pipeline and fixed issues when failures were reported.                 |
+| **Deploy** (shipping / releasing / presenting it)         | I connected the webhook to the Jenkins pipeline so every build automatically posts a summary to the Automation result channel. This made the results visible to the team immediately after execution.                                                                                                     | Developers and QA used the notifications to quickly access reports and investigate failures.     |
+| **Operate** (monitoring, learning from results, feedback) | After multiple runs, the notifications showed that most recurring failures were in UI tests, highlighting weaker areas in the automation suite. One gap is that it currently reports failures but does not track long-term trends like flaky tests.                                                       | Developers used the reports to debug failing tests or code issues.                               |
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
@@ -118,32 +118,35 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
-```
-[Your answer]
-```
+[In two years, I aim to grow into a Senior QA / Quality Engineer role with strong involvement in AI-driven testing and team leadership. I want to build deeper expertise in AI-assisted test automation
+Along with technical growth, I want to take on more leadership responsibilities
+My goal is to move beyond executing tests and start **leading quality initiatives**, designing smarter automation systems, and helping the team make better engineering decisions around quality and reliability.
+]
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
-| # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-| - | ------------------- | ------------------------------------------ |
-| 1 |                     |                                            |
-| 2 |                     |                                            |
-| 3 |                     |                                            |
-| 4 |                     |                                            |
+| # | Acceptance Criteria                                                                                                                                        | Current Status (Met / Partially / Not Met) |
+| - | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1 | Use my code access to investigate issues, identify the root cause in the code, and guide developers by pointing to the exact place where the issue occurs. | Partially                                  |
+| 2 | Build or integrate AI-based tools that reduce manual effort and repetitive testing tasks in the QA workflow                                                | Partially                                  |
+| 3 | Contribute ideas and strategy during discussions to help the team improve testing, automation, and overall quality practices.                              | Partially                                  |
+| 4 | Improve and complete the full automation suite with the help of AI so that most critical flows are automated and easier to maintain.                       | Not Met                                    |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
-| # | Edge Case / Risk | Mitigation Plan |
-| - | ---------------- | --------------- |
-| 1 |                  |                 |
-| 2 |                  |                 |
-| 3 |                  |                 |
+| # | Edge Case / Risk                                                                                                        | Mitigation Plan                                                                                                                                                        |
+| - | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Not improving enough in AI tools and automation, which could make my skills outdated as testing becomes more AI-driven. | Continuously learn and experiment with AI tools, build small internal tools, and apply them to reduce manual testing tasks.                                            |
+| 2 | Staying only in execution-based QA work without contributing to design or strategy discussions.                         | Actively participate in technical discussions, share ideas for improving automation and testing workflows, and take ownership of small quality initiatives.            |
+| 3 | Difficulty in debugging issues at the code level even after getting code access                                         | Spend time understanding the codebase, read developer fixes, practice debugging, and collaborate closely with developers to learn how issues are identified and fixed. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
-```
-[Your honest assessment]
-```
+[t]
+
+I would ship it, but I know it’s not complete yet. The direction is clear — improving in AI-driven testing, strengthening automation, and taking more leadership in quality decisions. However, some parts are still in progress, like building more AI-based tools, improving the automation suite, and getting more comfortable debugging issues in the codebase.
+
+So I would say the plan is good enough to start with, but it will need continuous improvement as I gain more experience and take on more responsibility.
 
 ---
 
