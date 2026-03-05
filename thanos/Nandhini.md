@@ -142,8 +142,6 @@ My goal is to move beyond executing tests and start **leading quality initiative
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
-[t]
-
 I would ship it, but I know it’s not complete yet. The direction is clear — improving in AI-driven testing, strengthening automation, and taking more leadership in quality decisions. However, some parts are still in progress, like building more AI-based tools, improving the automation suite, and getting more comfortable debugging issues in the codebase.
 
 So I would say the plan is good enough to start with, but it will need continuous improvement as I gain more experience and take on more responsibility.
