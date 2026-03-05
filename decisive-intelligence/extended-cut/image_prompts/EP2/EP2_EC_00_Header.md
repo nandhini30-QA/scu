@@ -1,13 +1,13 @@
 # DECISIVE INTELLIGENCE — EPISODE 2: THE TEST
 ## Director's Extended Cut — Gemini Image Generation Prompts
 
-> **Version:** EC 1.0.0
-> **Date:** 2026-03-04
-> **Total Slides:** ~148 (main story + post-credits + transition cards)
+> **Version:** EC 2.0.0
+> **Date:** 2026-03-05
+> **Total Slides:** 144 (main story + post-credits + transition cards)
 > **Duration:** ~35 min story + ~5 min post-credits
 > **Visual Style:** Dark Knight noir — photorealistic, high-contrast, Nolan-esque cinematography
 > **Aspect Ratio:** 16:9 (1920×1080px)
-> **Source:** EP2_THE_TEST_Extended_Screenplay.md (EC 1.0.0 — 207 panels + 15 post-credits)
+> **Source:** EP2_THE_TEST_Extended_Screenplay.md (EC 2.0.0 — 34 scenes, film-chronological order)
 
 ---
 
@@ -110,18 +110,18 @@ A SWAMI K FILM (2× larger, letter-spaced, gold glow)
 
 ## EC STRUCTURE
 
-| # | File | Scenes | Est. Slides | Range |
-|---|------|--------|-------------|-------|
+| # | File | Scenes | Slides | Range |
+|---|------|--------|--------|-------|
 | 0 | Header (this file) | — | — | — |
-| 1 | Cover + Chaos | 1, 2, 3A, 3 | 14 | 0-13 |
-| 2 | Paralysis + Framework + Batpod | 4, 5, 6, 9B | 12 | 14-25 |
-| 3 | Clarity | 7, 8, 9, 10 | 18 | 26-43 |
-| 4 | Courage | 11, 12, 13, 13B, 14 | 25 | 44-68 |
-| 5 | Commitment | 14B, 15, 16, 17, 18, 19, 19B | 24 | 69-92 |
-| 6 | Movement + Dark Knight | 20, 21, 22, 23, 24, 25, 26, 27, 28 | 28 | 93-120 |
-| 7 | Post-Credits + Transition Cards | WP 1-15, TC 1-6 | 19 | 121-139 |
+| 1 | Cover + Chaos | 1 (Cover), 2 (Opening), 3 (Bank Heist), 4 (Escalation) | 14 | 0-13 |
+| 2 | Paralysis → Choice | 5 (Paralyzed), 6 (Voice), 7 (Framework), 8 (Alfred/Burma), 9 (Choice) | 19 | 14-32 |
+| 3 | Courage | 10 (Batpod), 11 (Interrogation), 12 (Race), 13 (Arrival), 14 (Explosion) | 25 | 33-57 |
+| 4 | Commitment Part 1 | 15 (Hospital), 16 (Walk-Away), 17 (Fox Sonar), 18 (Ferry), 19 (Construction) | 23 | 58-80 |
+| 5 | Commitment Part 2 | 20 (Two-Face), 21 (Gordon's Family), 22 (Tackle), 23 (Body), 24 (Fourth Choice) | 15 | 81-95 |
+| 6 | Movement + Dark Knight | 25-32 (Lie, Hunt, Signal, Dark Knight, Pillars, Chessboard, Joker Final, Black Page) | 28 | 96-123 |
+| 7 | Post-Credits + Cards | 33 (Workplace), 34 (Bane Tease), TC 1-6 | 20 | 124-143 |
 | 8 | Summary | — | — | — |
-| | **TOTAL** | | **~140** | **0-139** |
+| | **TOTAL** | **34 scenes** | **144** | **0-143** |
 
 ---
 
@@ -130,13 +130,13 @@ A SWAMI K FILM (2× larger, letter-spaced, gold glow)
 | File | Content | Slides |
 |------|---------|--------|
 | `EP2_EC_00_Header.md` | Production rules, text styling, Gemini notes | — |
-| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist + Four Crises | 0-13 |
-| `EP2_EC_02_Paralysis_Framework.md` | Batman frozen + Joker call + Ra's flashback + Batpod | 14-25 |
-| `EP2_EC_03_Clarity.md` | Alfred + Burma Story + Choice + Race + The Lie | 26-43 |
-| `EP2_EC_04_Courage.md` | Explosion + Interrogation + Hospital + Walk-Away + Ferry | 44-68 |
-| `EP2_EC_05_Commitment.md` | Construction Site + Two-Face + Gordon's Family + Tackle + Fox Sonar | 69-92 |
-| `EP2_EC_06_Movement_DarkKnight.md` | The Lie + Hunt + Bat-Signal + Dark Knight + Closing + Bane Tease | 93-120 |
-| `EP2_EC_07_PostCredits_TransitionCards.md` | Workplace Story + Transition Cards | 121-139 |
+| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist + Escalation Campaign | 0-13 |
+| `EP2_EC_02_Paralysis_Framework.md` | Paralyzed + Joker's Voice + Framework + Alfred/Burma + Choice | 14-32 |
+| `EP2_EC_03_Courage.md` | Batpod Chase + Interrogation + Address Reveal + Race + Arrival + Explosion | 33-57 |
+| `EP2_EC_04_Commitment_Part1.md` | Hospital + Walk-Away + Fox Sonar + Ferry + Construction | 58-80 |
+| `EP2_EC_05_Commitment_Part2.md` | Two-Face + Gordon's Family + Tackle + Body + Fourth Choice | 81-95 |
+| `EP2_EC_06_Movement_DarkKnight.md` | The Lie + Hunt + Bat-Signal + Dark Knight + Pillars + Chessboard + Joker Final + Black Page | 96-123 |
+| `EP2_EC_07_PostCredits_TransitionCards.md` | Workplace Story + Bane Tease + Transition Cards | 124-143 |
 | `EP2_EC_08_Summary.md` | Production summary, verification, version history | — |
 
 ---
