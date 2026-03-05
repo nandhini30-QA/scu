@@ -130,6 +130,7 @@ I want to move beyond executing test cases into Designing automation frameworks 
 | 1 | Designed, built, and deployed a production-grade automation framework that covers at least 70% of critical flows and is actively used by the team. | Met | 
 | 2 | complex debugging and production issue root cause analysis in analytics module | Partially | 
 | 3 | Integrated AI into at least one structured QA workflow that continues to create value without manual dependency. | Not met yet | 
+| 4 | Independently led an initiative end-to-end (Design → Develop → Deploy → Operate), including stakeholder walkthrough, documentation, and at least one post-release improvement based on feedback. | Not met yet | 
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
@@ -137,6 +138,7 @@ I want to move beyond executing test cases into Designing automation frameworks 
 |---|-----------------|-----------------|
 | 1 |Staying dominant in Develop and not pushing myself into Deploy and Operate stages. Becoming a strong executor but not a system owner. | Intentionally own at least one initiative end-to-end every 6 months (Design → Operate). Request stakeholder walkthroughs and post-release reviews instead of stopping at build stage. | 
 | 2 | Relying too heavily on AI tools for execution and not strengthening core technical fundamentals (architecture thinking, debugging depth, system design). | Continue structured learning in automation architecture and system debugging. Practice solving problems first before using AI, then use AI for optimization rather than replacement.  |  
+| 3 | Building solutions based mainly on my own perspective without early stakeholder alignment, which may lead to rework later. | Engage stakeholders early in the design phase by sharing initial concepts, gathering feedback, and validating requirements before deep development begins. Schedule periodic check-ins to ensure the solution continues to align with team needs. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
