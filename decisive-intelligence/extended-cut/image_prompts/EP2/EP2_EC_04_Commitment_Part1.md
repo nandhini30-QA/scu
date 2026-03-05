@@ -1,528 +1,16 @@
 > **Part of:** EP2 Extended Cut Prompts | **Production Rules:** See `EP2_EC_00_Header.md`
-> **Slides:** 44-68 | **Scenes:** 11 (The Explosion) + 12 (Interrogation Room) + 13 (Harvey's Hospital) + 13B (Hospital Walk-Away) + 14 (Ferry Gambit)
+> **Slides:** 58-80 | **Scenes:** 15 (Harvey's Hospital) + 16 (Hospital Walk-Away) + 17 (Fox Sonar) + 18 (Ferry Gambit) + 19 (Construction Site)
 
-# COURAGE: ACT BEFORE YOU'RE READY
-
----
-
-# SCENE 11: THE EXPLOSION — 4 Slides
+# COMMITMENT PART 1: THE COST OF STAYING
 
 ---
 
-### SLIDE 44 — Panel 11.1 SINGLE
-**SINGLE SPLASH — DIVING THROUGH FIRE**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
-
-SCENE: Batman dives toward Harvey, tackling him through a warehouse wall as fire ERUPTS behind them.
-
-COMPOSITION:
-- Batman mid-dive, body fully extended, arms reaching for Harvey
-- Harvey visible in the instant of impact — the tackle happening NOW
-- The warehouse wall FRAGMENTING around them — wood, brick, glass exploding outward
-- BEHIND them: a massive gasoline fireball ERUPTING — wall of orange-white flame filling the left half of the frame
-- The two figures are silhouetted against the blast, projected FORWARD through the wall
-- Harvey's left face caught in the full light of the gasoline blast — radiant, terrible
-- Smoke, debris, wood splinters mid-air
-
-ATMOSPHERE:
-- Pure kinetic action — no time to think, only move
-- The fire is the dominant visual element — massive, engulfing, final
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed. Mid-conflict wear.
-- Expression: Determined, eyes fixed on Harvey
-- Action: Full-body dive, arms outstretched, mid-tackle
-- Position: Center frame, propelling both figures through the wall
-
-HARVEY DENT (TRANSITION) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, RIGHT side handsome, LEFT side beginning to catch the blast light — skin beginning to burn, 6'0"
-- Costume: Navy suit beginning to scorch on left side
-- Expression: Shock and pain beginning
-- Action: Caught by the tackle, propelled through the wall
-
-TEXT OVERLAY:
-- None — pure action, no text
-
-WHAT NOT TO DRAW:
-- NO Rachel — she is in the other warehouse, not visible here
-- NO slow motion quality — this is violent, immediate, kinetic
-
-STYLE: Photorealistic, cinematic, action. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
-```
+# SCENE 15: HARVEY'S HOSPITAL — 6 Slides (58-63)
 
 ---
 
-### SLIDE 45 — Panel 11.2 SPLIT PANEL (KEY)
-**SPLIT PANEL — THE COST OF THE CHOICE**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: In the same moment — Batman saves Harvey while Rachel's warehouse explodes.
-
-LEFT PANEL — BATMAN AND HARVEY:
-- Batman and Harvey crashing through the warehouse wall onto the ground outside
-- Debris and splinters around them
-- Batman on top, shielding Harvey
-- Fire visible in the warehouse behind them through the hole in the wall
-- Harvey's left face — the burns beginning, raw, damaged
-- Gotham night air, wet pavement
-
-RIGHT PANEL — RACHEL'S WAREHOUSE:
-- WIDE SHOT of a different warehouse across Gotham — Rachel's location
-- A MASSIVE EXPLOSION tearing the building apart from within
-- Enormous orange-white fireball blooming from the windows, roof lifting, walls fragmenting
-- Debris arcing outward
-- A single second of terrible finality
-- No figures visible — just the explosion and the building
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed. Mid-conflict wear.
-- Expression: Grimacing, shielding Harvey, unaware of what's happening across the city
-- Action: Crashing down onto the pavement, Harvey beneath him
-- Position: Left panel, foreground
-
-HARVEY DENT (TRANSITION) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, RIGHT side handsome, LEFT side severely burned — skin charred, eye area damaged, 6'0"
-- Costume: Navy suit half-burned on left side, scorched
-- Expression: Screaming, agony — the burns have landed
-- Action: On the ground beneath Batman
-- Position: Left panel, beneath Batman
-
-TEXT OVERLAY:
-- Caption (red #EF4444 background, white text): "COURAGE: Act before you're ready."
-
-WHAT NOT TO DRAW:
-- NO Rachel visible — her warehouse is empty of people in this shot, building only
-- NO graphic burn detail beyond movie-accurate scarring
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 46 — Panel 11.3 SINGLE
-**SINGLE PANEL — HARVEY SCREAMING**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
-
-SCENE: Batman and Harvey on the ground outside the warehouse. Harvey's left face burned. He is screaming. Batman is trying to help him, looking at the distant glow on the horizon.
-
-COMPOSITION:
-- Ground level — wet Gotham pavement, scattered debris, smoke drifting
-- Harvey on his back or side, hands trying to reach his left face, screaming
-- Batman crouched beside him — one hand on Harvey's shoulder, head turning toward the distant skyline
-- In the FAR BACKGROUND — a soft orange glow on the horizon, barely visible — Rachel's warehouse still burning
-- Smoke rising in the distance
-- Night air, Gotham industrial area
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed. Mid-conflict wear.
-- Expression: Devastated recognition — the distant glow tells him everything
-- Action: Crouched beside Harvey, head turning toward the distant fire
-- Position: Right of frame, crouching
-
-HARVEY DENT (TRANSITION) FULL DESCRIPTION:
-- Face & Body: Aaron Eckhart, late 30s, RIGHT side handsome, LEFT side severely burned — skin charred, eye area damaged, 6'0"
-- Costume: Navy suit half-burned on left side, scorched shirt, collapsed on the ground
-- Expression: Agony, screaming, hands reaching toward his burned face
-- Action: On ground, clutching face, screaming
-
-TEXT OVERLAY:
-- Speech bubble (Harvey, rounded edges, white fill, black text): "Rachel... RACHEL!"
-
-WHAT NOT TO DRAW:
-- NO graphic wound detail beyond movie-accurate burn scarring — suggest severity, not gore
-- NO Rachel visible anywhere
-
-STYLE: Photorealistic, cinematic, ground level. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 47 — Panels 11.4+11.5 SPLIT PANEL
-**SPLIT PANEL — AFTERMATH**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: The aftermath — Batman looks at the distant fire; close on Batman's broken face.
-
-LEFT PANEL — WIDE SHOT:
-- Wide establishing shot — industrial area, night
-- Batman standing in foreground, back slightly to camera, looking at the horizon
-- Harvey on the ground behind him, curled, still
-- In the FAR BACKGROUND — a fireball still rising, orange against the dark Gotham sky — Rachel's warehouse
-- Rain beginning to fall, mixing with smoke
-- The distance between Batman and that fireball is uncrossable
-
-RIGHT PANEL — CLOSE ON BATMAN:
-- CLOSE-UP on Batman's lower face — jaw line, mouth, the edge of the cowl
-- Rain drops on the armour, mixing with ash and dust
-- Expression: Devastated, jaw tight, something broken behind the eyes
-- Not crying — worse than that. Still. Empty.
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed. Mid-conflict wear.
-- Expression (left): Standing, staring at distant fire, back partially to viewer
-- Expression (right): Close — hollow, devastated, jaw set against the grief
-- Position: Left panel foreground, right panel close-up
-
-TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) left panel: "The cost might break you."
-- Caption (dark navy) right panel: "He acted. He moved. And he lost anyway."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-# SCENE 12: INTERROGATION ROOM — 7 Slides
-
----
-
-### SLIDE 48 — Panels 12.1+12.2 SPLIT PANEL
-**SPLIT PANEL — THE TRAP SET**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: The Joker in GCPD custody — waiting, calm, already winning.
-
-LEFT PANEL — GCPD EXTERIOR CHAOS:
-- GCPD Headquarters exterior and holding area — night, harsh fluorescent light
-- Cops rushing, radios crackling, chaos in the corridors
-- Through a reinforced window or glass panel: THE JOKER seated at a metal table in a holding cell, ALONE
-- He is the still point inside the storm — completely calm
-- Hands cuffed in front, sitting back, head slightly tilted
-- Watching everything with amusement
-
-RIGHT PANEL — INSIDE THE CELL:
-- Interior of the holding room — bare metal table, two chairs, single overhead fluorescent light
-- The Joker alone at the table, hands cuffed in front
-- Head tilted slightly, humming to himself
-- The room is designed to break people. He looks at home.
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, Caucasian man, early 30s, gaunt face, manic calculating eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint more worn than usual — rubbed slightly from handling. Red lipstick partially rubbed off. Black eye makeup smeared.
-- Hair: Greasy, stringy, green-tinged dirty blonde hair, more disheveled than usual
-- Costume: Rumpled green (#2D5A27) waistcoat over patterned shirt, no purple coat, hands cuffed in front
-- Expression (left): Calm, entertained, watching the chaos
-- Expression (right): Head tilted, humming, completely at ease
-- Position: Left panel seen through glass. Right panel at table.
-
-TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) left panel: "The Joker wanted to be caught."
-- Speech bubble (right panel, jagged edges, white fill, black text): "Da da da da da..."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 49 — Panels 12.3+12.4 SPLIT PANEL
-**SPLIT PANEL — BATMAN EMERGES**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: The Joker senses Batman before he sees him. Batman steps out of the dark.
-
-LEFT PANEL — EYES IN DARKNESS:
-- The interrogation room in near-total darkness — light source cut or dimmed
-- Almost everything BLACK
-- Only the Joker's EYES visible — reflecting a thin sliver of light
-- His eyes: manic, lit, delighted — pupils catching the light
-- A faint suggestion of white face paint in the surrounding dark
-- He is smiling into the void
-
-RIGHT PANEL — BATMAN EMERGES:
-- Batman stepping out of shadow at the far side of the interrogation room
-- Not through the door — he was simply THERE, in the dark, waiting
-- The overhead light catches the edges of his armour — faint blue-black gleam
-- He is fully formed, present, looming
-- The Joker visible in foreground, delighted
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed. Mid-conflict wear.
-- Expression: Controlled fury — grief channeled into steel
-- Action: Stepping from shadow, presence filling the room
-- Position: Right panel background, emerging from dark
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, manic calculating eyes, 6'1"
-- Makeup: Smeared white paint, rubbed red lipstick, smeared black eye rings
-- Hair: Disheveled green-tinged greasy hair
-- Costume: Green waistcoat, patterned shirt, hands cuffed
-- Expression (left): Eyes only — delighted recognition in the dark
-- Expression (right): Head lifting, grinning — the guest he expected
-- Position: Left panel eyes only in darkness. Right panel seated foreground.
-
-TEXT OVERLAY:
-- Speech bubble (left panel, jagged edges): "There you are."
-- Speech bubble (right panel, jagged edges): "I wanted this."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 50 — Panels 12.5+12.6 SPLIT PANEL
-**SPLIT PANEL — ACCUSATION AND MIRROR**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: Batman accuses. The Joker holds up a mirror.
-
-LEFT PANEL — TWO-SHOT:
-- Batman standing over the Joker who remains seated at the table
-- Batman's full height dominant — armour, cape, cowl filling the upper portion
-- The Joker seated below, looking UP at Batman — but not intimidated. Interested.
-- Fluorescent overhead light between them
-- Harsh, clinical environment
-
-RIGHT PANEL — CLOSE ON JOKER:
-- CLOSE on the Joker's face — lean forward, studying Batman like a specimen under glass
-- Eyes moving over Batman's face with clinical fascination
-- That slight smile — not mocking, genuinely curious
-- White face paint, smeared lipstick, manic eyes
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed.
-- Expression: Controlled fury, jaw clenched, barely holding back
-- Action: Standing over seated Joker, leaning slightly forward
-- Position: Left panel, looming above
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, manic calculating eyes, 6'1"
-- Makeup: Smeared white paint, rubbed red lipstick, smeared black eye rings
-- Hair: Disheveled green-tinged greasy hair
-- Costume: Green waistcoat, patterned shirt, hands cuffed
-- Expression (left): Seated, looking up at Batman, utterly unbothered
-- Expression (right): Close, clinical fascination, leaning into the examination
-- Position: Left panel seated below Batman. Right panel close-up.
-
-TEXT OVERLAY:
-- Speech bubble (left panel, rounded edges, white fill, black text — Batman): "You switched the addresses. You LIED."
-- Speech bubble (right panel, jagged edges — Joker): "You chose not to save one of them. That makes you just like me."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 51 — Panels 12.7+12.8 SPLIT PANEL
-**SPLIT PANEL — VIOLENCE AND LAUGHTER**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: Batman grabs the Joker. The Joker laughs harder.
-
-LEFT PANEL — THE GRAB:
-- Batman's gauntleted hands gripping the Joker's collar — lifting him PARTIALLY from the chair
-- The Joker's cuffed hands flailing slightly
-- Batman's face close, jaw set, fury barely contained
-- The chair has tipped, Joker half-standing half-lifted
-- Overhead light swaying from the violence of the motion
-
-RIGHT PANEL — SLAMMED AGAINST WALL:
-- The Joker's back against the interrogation room wall
-- Batman pressing him there with one forearm
-- The Joker's feet may barely be on the ground
-- HEAD THROWN BACK, LAUGHING — open-mouthed, genuine, delighted
-- This is the funniest thing that has ever happened to him
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed.
-- Expression (left): Fury barely leashed — teeth gritted, eyes burning
-- Expression (right): Controlled violence — pressing Joker to wall, jaw set
-- Position: Left panel, lifting Joker. Right panel, pressing him to wall.
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, manic wide eyes, 6'1"
-- Makeup: Smeared white paint, rubbed red lipstick, smeared black eye rings — now further disturbed from physical handling
-- Hair: More disheveled, flung from the motion
-- Costume: Green waistcoat grabbed and twisted at collar, patterned shirt, cuffed hands
-- Expression (left): Mid-lift — eyes wide, surprised, then breaking into a grin
-- Expression (right): Head thrown back, laughing openly, feet barely touching floor
-- Position: Left panel being lifted. Right panel against wall, laughing.
-
-TEXT OVERLAY:
-- Speech bubble (left panel, rounded — Batman): "I am NOTHING like you."
-- Speech bubble (right panel, jagged — Joker): "You ARE! You just don't know it yet."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 52 — Panels 12.9+12.10 SPLIT PANEL
-**SPLIT PANEL — THE ONE RULE**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: The Joker finds the weakness. The rule. Batman's gauntlet tightens.
-
-LEFT PANEL — FACES INCHES APART:
-- Extreme close two-shot — the Joker's face and Batman's face, inches apart
-- The Joker studying Batman with clinical intensity — eyes moving across his face
-- Batman's jaw tight, eyes burning — holding but barely
-- The Joker's expression: finding something. A thread. A crack.
-- Both faces filling the frame, fluorescent light harsh between them
-
-RIGHT PANEL — THE GAUNTLET:
-- CLOSE on Batman's gauntlet gripping the Joker's collar
-- Knuckles WHITE through the armour — maximum pressure
-- The Joker's shirt and waistcoat bunched in the grip
-- Cuffed hands visible below
-- NOTE: Both speakers must be visible or implied — Joker speaking then Batman responding
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape with minor tears. Pointed cowl with surface scratches. Gauntlets scraped. Utility belt dusty. Boots scuffed.
-- Expression (left): Jaw set — holding a line the Joker is testing
-- Action (right): Gauntlet gripping at maximum force, knuckles white
-- Position: Left panel face close. Right panel gauntlet only.
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, manic calculating eyes, 6'1"
-- Makeup: Smeared white paint, rubbed red lipstick, smeared black eye rings
-- Hair: Disheveled green-tinged greasy hair
-- Costume: Green waistcoat bunched in Batman's grip, patterned shirt
-- Expression (left): Found it — a gleam of discovery, eyes sharpening
-- Position: Left panel, face inches from Batman's.
-
-TEXT OVERLAY:
-- Speech bubble (left panel, jagged — Joker): "You have RULES."
-- Speech bubble (left panel, rounded — Batman): "I have ONE rule."
-- Speech bubble (right panel, jagged — Joker): "Then that's the one I'm going to make you break."
-
-WHAT NOT TO DRAW:
-- NO third characters in frame
-- NO physical injury implied beyond the grip
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 53 — Panel 12.11 SINGLE
-**SINGLE PANEL — THE CONFESSION**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
-
-SCENE: The Joker released — straightening himself with absolute ease, as if nothing happened.
-
-COMPOSITION:
-- Interrogation room — Batman has stepped back, released him
-- The Joker standing, both hands coming up to STRAIGHTEN HIS WAISTCOAT — fingers adjusting the lapels with deliberate care
-- Completely casual. The violence may as well not have happened.
-- Batman visible in background, watching — larger, but somehow outmaneuvered
-- The Joker's expression: mild, almost professorial. Getting to the point at last.
-- The cuffed hands make the gesture oddly formal — adjusting clothes while still restrained
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, manic calculating eyes, 6'1", lean wiry build
-- Makeup: Smeared white face paint further worn from the confrontation. Red lipstick more rubbed. Black eye rings smeared wider.
-- Hair: Disheveled from physical handling, green-tinged greasy strands across face
-- Costume: Rumpled green (#2D5A27) waistcoat being straightened with cuffed hands, patterned shirt, no purple coat
-- Expression: Mild, casual, almost amused at his own confession — getting to the point
-- Action: Both cuffed hands adjusting waistcoat lapels with deliberate calm
-- Position: Center frame, foreground
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s
-- Costume: Full black Batsuit — matte black, scuffed, worn
-- Expression: Still, watching — recognizing he cannot win this with force
-- Position: Background, standing, observing
-
-TEXT OVERLAY:
-- Speech bubble (jagged edges, white fill, black text — Joker): "Of course I lied. That's the POINT."
-
-STYLE: Photorealistic, cinematic. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-### SLIDE 54 — Panels 12.12+12.13 SPLIT PANEL
-**SPLIT PANEL — MIRROR HELD**
-
-```
-PROMPT:
-Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
-
-SCENE: Batman releases the Joker and steps back. Wide shot — two figures in the interrogation room.
-
-LEFT PANEL — BATMAN RELEASES:
-- Batman stepping backward, hands opening — fists unclenching
-- He is releasing the Joker — not because he won. Because force has no answer here.
-- The Joker straightening, untouched in spirit
-- Batman's body language: not defeat, but recognition — this cannot be solved this way
-- Interrogation room environment, harsh light
-
-RIGHT PANEL — WIDE SHOT:
-- Wide view of the entire interrogation room
-- Batman and Joker at OPPOSITE ENDS of the frame — a single overhead light between them
-- The table between them like a chessboard
-- No one has won. Everything has shifted.
-- The room itself feels like a stage they're both performing on
-- The space between them: electric, significant
-
-BATMAN (BATTLE-WORN) FULL DESCRIPTION:
-- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl with minor cuts, intense tired eyes, athletic muscular build, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates with visible scuffs, scratches, and dust. Black cape. Pointed cowl. Utility belt dusty. Boots scuffed.
-- Expression (left): Recognizing — cannot use force here. Not resignation. Recalibration.
-- Expression (right): Standing across the room — imposing but contained
-- Position: Left panel stepping back. Right panel one end of the room.
-
-THE JOKER (INTERROGATION) FULL DESCRIPTION:
-- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, early 30s, gaunt face, 6'1"
-- Makeup: Smeared white paint, worn red lipstick, smeared black eye rings
-- Costume: Green waistcoat, patterned shirt, cuffed hands
-- Expression (right): Watching Batman across the room — satisfied, patient
-- Position: Right panel, other end of the room
-
-TEXT OVERLAY:
-- Caption (dark navy #1a1a4e, white text) left panel: "The Joker wasn't fighting him."
-- Caption (dark navy) left panel: "He was showing him a mirror."
-- Caption (red #EF4444 background, white text) right panel: "COURAGE held — but at terrible cost."
-
-STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
-```
-
----
-
-# SCENE 13: HARVEY'S HOSPITAL — 6 Slides
-
----
-
-### SLIDE 55 — Panels 13.1+13.2 SPLIT PANEL
-**SPLIT PANEL — THE WRONG NURSE**
+### SLIDE 58 — The Wrong Nurse (Panels 15.1+15.2 SPLIT PANEL)
+**SPLIT PANEL — BEDSIDE HORROR**
 
 ```
 PROMPT:
@@ -570,8 +58,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 56 — Panels 13.3+13.4 SPLIT PANEL
-**SPLIT PANEL — THE BEDSIDE MANNER**
+### SLIDE 59 — The Bedside Manner (Panels 15.3+15.4 SPLIT PANEL)
+**SPLIT PANEL — RECOGNITION AND THE COIN**
 
 ```
 PROMPT:
@@ -621,8 +109,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 57 — Panels 13.5+13.6 SPLIT PANEL
-**SPLIT PANEL — THE PHILOSOPHY**
+### SLIDE 60 — The Philosophy (Panels 15.5+15.6 SPLIT PANEL)
+**SPLIT PANEL — THE LOGIC**
 
 ```
 PROMPT:
@@ -668,8 +156,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 58 — Panels 13.7+13.8 SPLIT PANEL
-**SPLIT PANEL — THE SEDUCTION**
+### SLIDE 61 — The Seduction (Panels 15.7+15.8 SPLIT PANEL)
+**SPLIT PANEL — THE COIN TRANSFER**
 
 ```
 PROMPT:
@@ -716,8 +204,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 59 — Panel 13.9 SINGLE (KEY MOMENT)
-**SINGLE SPLASH — THE EYES CHANGE**
+### SLIDE 62 — The Eyes Change (Panel 15.9 SINGLE PANEL — KEY)
+**SINGLE SPLASH — TWO-FACE BORN**
 
 ```
 PROMPT:
@@ -753,8 +241,8 @@ STYLE: Photorealistic, extreme close-up. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 60 — Panels 13.10+13.11 SPLIT PANEL
-**SPLIT PANEL — TWO-FACE BORN**
+### SLIDE 63 — Two-Face Born (Panels 15.10+15.11 SPLIT PANEL)
+**SPLIT PANEL — THE HAND CLOSES**
 
 ```
 PROMPT:
@@ -804,12 +292,12 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-# SCENE 13B: HOSPITAL WALK-AWAY — 4 Slides
+# SCENE 16: HOSPITAL WALK-AWAY — 4 Slides (64-67)
 
 ---
 
-### SLIDE 61 — Panel 13B.1 SINGLE
-**SINGLE PANEL — THE EXIT**
+### SLIDE 64 — The Exit (Panel 16.1 SINGLE PANEL)
+**SINGLE PANEL — WALKING OUT**
 
 ```
 PROMPT:
@@ -846,8 +334,8 @@ STYLE: Photorealistic, cinematic. Full bleed. WATERMARK: "DI × SCU" bottom-left
 
 ---
 
-### SLIDE 62 — Panel 13B.2 SINGLE (DARK COMEDY)
-**SINGLE PANEL — THE DUD**
+### SLIDE 65 — The Dud (Panel 16.2 SINGLE PANEL — DARK COMEDY)
+**SINGLE PANEL — NOTHING HAPPENS**
 
 ```
 PROMPT:
@@ -885,8 +373,8 @@ STYLE: Photorealistic, cinematic, dark comedy. Full bleed. WATERMARK: "DI × SCU
 
 ---
 
-### SLIDE 63 — Panel 13B.3 SINGLE (KEY IMAGE)
-**SINGLE SPLASH — THE EXPLOSION**
+### SLIDE 66 — The Explosion (Panel 16.3 SINGLE PANEL — KEY IMAGE)
+**SINGLE SPLASH — WALKING AWAY**
 
 ```
 PROMPT:
@@ -929,8 +417,8 @@ STYLE: Photorealistic, cinematic, iconic. Full bleed. WATERMARK: "DI × SCU" bot
 
 ---
 
-### SLIDE 64 — Panels 13B.4+13B.5 SPLIT PANEL
-**SPLIT PANEL — THE GETAWAY**
+### SLIDE 67 — The Getaway (Panels 16.4+16.5 SPLIT PANEL)
+**SPLIT PANEL — BUS AND MIRROR**
 
 ```
 PROMPT:
@@ -972,12 +460,190 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-# SCENE 14: FERRY GAMBIT — 4 Slides
+# SCENE 17: FOX SONAR — 5 Slides (68-72)
 
 ---
 
-### SLIDE 65 — Panels 14.1+14.2 SPLIT PANEL
-**SPLIT PANEL — BOTH BOATS**
+### SLIDE 68 — The Machine (Panel 17.1 SINGLE PANEL)
+**SINGLE PANEL — ESTABLISHING**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL — establishing.
+
+SCENE: Wayne Enterprises Applied Sciences. The sonar machine — beautiful, unethical, powerful.
+
+COMPOSITION:
+- Vast, dark Applied Sciences laboratory — high ceilings, minimal lighting, technological scale
+- Massive banks of screens covering an entire wall — blue sonar waveforms pulsing
+- The sonar display: every street in Gotham rendered in blue (#4A90D9) acoustic waves — every building, every alley, a sonic map of the entire city
+- Data streams flowing — every cell phone in Gotham converted to a microphone
+- LUCIUS FOX standing before the display — arms crossed, small against the machine's scale
+- The blue light casting everything in cool technical glow
+
+LUCIUS FOX FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African American man, late 60s, grey hair closely cropped, wise knowing eyes behind glasses, calm measured demeanor, tall lean build, 6'2"
+- Costume: Tailored dark charcoal (#374151) suit, light blue (#93C5FD) dress shirt, dark tie, polished shoes
+- Expression: Arms crossed, disapproving — weighing the moral cost of something beautiful
+- Action: Standing before the sonar display, arms crossed, measuring
+- Position: Foreground, center, small against the scale of screens
+
+TEXT OVERLAY:
+- Caption (dark navy): "Batman had built something that could find anyone. Anywhere."
+
+STYLE: Photorealistic, cinematic, establishing shot. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 69 — Fox's Judgment (Panels 17.2+17.3 SPLIT PANEL)
+**SPLIT PANEL — FACE AND DECISION**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+
+SCENE: Fox looks at the machine and finds it wanting. Then faces the choice.
+
+LEFT PANEL — FOX'S FACE:
+- Close on Lucius Fox's face — looking at the sonar screens
+- NOT angry. Something heavier: disappointed, measuring
+- The blue sonar light playing across his features — the beauty of the engineering making the moral cost worse
+- Eyes behind glasses: clear, certain, this is wrong no matter how it works
+- The weight of being the person who understands exactly what this machine can do
+
+RIGHT PANEL — FOX TURNS:
+- Fox turning away from the screens to face a SPEAKERPHONE on the console
+- Batman is listening remotely — the phone his only presence in the room
+- Fox's body language: resolved, turning to deliver a verdict
+- The screens still pulsing with Gotham's sonar map behind him
+- His posture: upright, measured, choosing carefully
+
+LUCIUS FOX FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African American man, late 60s, grey hair closely cropped, wise eyes behind glasses, 6'2"
+- Costume: Dark charcoal (#374151) suit, light blue (#93C5FD) dress shirt, dark tie, polished shoes
+- Expression: Left panel: disappointed, moral weight. Right panel: resolved, delivering judgment
+- Action: Left panel: looking at screens. Right panel: turning to speakerphone
+- Position: Left panel close face; Right panel three-quarter turning
+
+TEXT OVERLAY:
+- Speech bubble (left panel, white fill, black text): "Beautiful. Unethical. Dangerous."
+- Speech bubble (right panel, white fill, black text): "You've turned every cell phone in Gotham into a microphone."
+
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 70 — The Request and Refusal (Panels 17.4+17.5 SPLIT PANEL)
+**SPLIT PANEL — VOICE AND HAND**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+
+SCENE: Batman asks. Fox refuses — not with anger, but with principle.
+
+LEFT PANEL — THE SPEAKERPHONE:
+- Close on the speakerphone unit on the console
+- Its indicator light glowing — Batman's distorted voice coming through
+- Behind the phone: sonar screens pulsing blue in the darkness
+- The phone is Batman's only presence here — disembodied, asking for the unethical
+
+RIGHT PANEL — FOX'S HAND:
+- Close on Lucius Fox's hand resting on the console
+- His hand is NEAR the controls — but not pressing anything
+- Not activating it. Not destroying it. Refusing to use it.
+- His posture behind the hand: resolved, upright — this is his COMMITMENT
+- Fox's face visible behind and above the hand — expression: this is where he draws the line
+
+LUCIUS FOX FULL DESCRIPTION (RIGHT PANEL):
+- Face & Body: Morgan Freeman, late 60s, grey hair, wise eyes behind glasses, 6'2"
+- Costume: Dark charcoal suit, light blue dress shirt
+- Expression: Resolute, at peace with this refusal — this is exactly who he is
+- Action: Hand resting on console, not pressing. Not activating. Not destroying.
+- Position: Right panel, hand foreground, face and upper body behind
+
+TEXT OVERLAY:
+- Speech bubble (left panel, Batman's distorted voice — jagged text style, white fill): "I need to find the Joker. Just this once."
+- Speech bubble (right panel, white fill, black text): "As long as this machine is at Wayne Enterprises, I won't be."
+
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 71 — The Principle (Panel 17.6 SINGLE PANEL)
+**SINGLE PANEL — MAN VS MACHINE**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL — thematic statement.
+
+SCENE: Fox alone against the machine. The power to find anyone. The choice to refuse.
+
+COMPOSITION:
+- WIDE SHOT — Fox small against the vast sonar display filling the entire wall
+- The sonar screens pulse with blue (#4A90D9) light — Gotham mapped in sound waves
+- Every street, every building, every person in the city rendered in acoustic data
+- Fox stands in the foreground — diminutive against the scale but UNBOWED
+- His posture: arms at his sides, facing the machine — a man refusing to be diminished by power he could use
+- The contrast: enormous power on the screens, one man's principle in the room
+
+LUCIUS FOX FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African American man, late 60s, grey hair, wise eyes behind glasses, 6'2"
+- Costume: Dark charcoal (#374151) suit, light blue (#93C5FD) dress shirt, dark tie
+- Expression: Still, resolved — at peace with refusal
+- Action: Standing facing the sonar display — small against it, unbent
+- Position: Foreground center, facing the screens, back partially toward viewer
+
+TEXT OVERLAY:
+- Caption (WHITE BACKGROUND, black text — COMMITMENT color): "COMMITMENT isn't just what you'll sacrifice."
+- Caption (dark navy): "It's what you refuse to become — even when it would work."
+
+STYLE: Photorealistic, cinematic, wide establishing — man vs machine scale. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 72 — The Easter Egg (Panel 17.7 SINGLE PANEL)
+**SINGLE PANEL — S.P. EASTER EGG**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL — close detail.
+
+SCENE: Fox's work area. A small note that means everything.
+
+COMPOSITION:
+- Close-up on a section of the console/desk area near the sonar controls
+- Fox's work space: precise, organized — a few technical manuals, a coffee mug, labeled cables
+- On the console: a small yellow STICKY NOTE, handwritten
+- The note reads exactly: "SP: The right tool doesn't make the wrong choice right."
+- Handwriting: small, neat, deliberate
+- The sonar screens visible and pulsing in soft blue in the background, out of focus
+- The note is the sharp focus of the entire frame
+
+TEXT OVERLAY:
+- No additional text — the sticky note IS the text
+- Exact note text: "SP: The right tool doesn't make the wrong choice right."
+
+WHAT NOT TO DRAW:
+- NO characters — this is the empty workspace
+- NO other prominent text anywhere in the frame
+- The note must be the only sharp text element
+
+STYLE: Photorealistic, cinematic, intimate close detail. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+# SCENE 18: FERRY GAMBIT — 4 Slides (73-76)
+
+---
+
+### SLIDE 73 — Both Boats (Panels 18.1+18.2 SPLIT PANEL)
+**SPLIT PANEL — TWO FERRIES**
 
 ```
 PROMPT:
@@ -1022,8 +688,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 66 — Panels 14.3+14.4 SPLIT PANEL (KEY COURAGE MOMENT)
-**SPLIT PANEL — THE CHOICE AND THE THROW**
+### SLIDE 74 — The Choice and the Throw (Panels 18.3+18.4 SPLIT PANEL — KEY)
+**SPLIT PANEL — COURAGE MOMENT**
 
 ```
 PROMPT:
@@ -1067,8 +733,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 67 — Panels 14.5+14.6 SPLIT PANEL
-**SPLIT PANEL — BOTH BOATS STAND DOWN**
+### SLIDE 75 — Both Boats Stand Down (Panels 18.5+18.6 SPLIT PANEL)
+**SPLIT PANEL — THE EXHALE**
 
 ```
 PROMPT:
@@ -1107,8 +773,8 @@ STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bott
 
 ---
 
-### SLIDE 68 — Panel 14.7 SINGLE
-**SINGLE PANEL — THE JOKER'S CONFUSION**
+### SLIDE 76 — The Joker's Confusion (Panel 18.7 SINGLE PANEL)
+**SINGLE PANEL — SOMETHING UNPREDICTED**
 
 ```
 PROMPT:
@@ -1143,6 +809,182 @@ WHAT NOT TO DRAW:
 - NO other characters in the command post with the Joker
 
 STYLE: Photorealistic, cinematic, low light. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+# SCENE 19: CONSTRUCTION SITE — 4 Slides (77-80)
+
+---
+
+### SLIDE 77 — Joker's Command Post (Panel 19.1 SINGLE PANEL)
+**SINGLE PANEL — ESTABLISHING**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL.
+
+SCENE: An unfinished Gotham skyscraper — the Joker's command post overlooking the harbor.
+
+COMPOSITION:
+- Unfinished skyscraper interior — exposed steel beams, raw concrete floors, open edges
+- Joker's command post: banks of monitors showing BOTH ferries, detonator wires rigged to beams
+- Several DOGS chained to structural columns — large, snarling, barely restrained
+- THE JOKER standing at the open building edge, back to viewer, overlooking Gotham harbor
+- Both ferries visible far below as tiny lights on dark water
+- Night sky, city lights below, wind suggesting height
+
+THE JOKER FULL DESCRIPTION:
+- Face & Body: Heath Ledger as a theatrical villain with smeared white face paint, Caucasian man, early 30s, gaunt face, manic wide eyes, 6'1", lean wiry build
+- Makeup: Smeared white face paint covering entire face, messy red lipstick extending into Glasgow smile scars on both cheeks, black eye makeup smudged around both eyes
+- Hair: Greasy, stringy, green-tinged dirty blonde hair, medium length, pushed back
+- Costume: Purple (#4A0080) long coat over rumpled green (#2D5A27) waistcoat, patterned shirt
+- Expression: Surveying his work, back to camera
+- Action: Standing at open building edge, looking down at harbor
+- Position: Foreground, silhouetted against city lights below
+
+TEXT OVERLAY:
+- Caption (dark navy): "Batman found him where chaos had a view."
+
+WHAT NOT TO DRAW:
+- NO Joker face visible — back to camera only
+- NO graphic detail on dogs — implied threat, silhouettes snarling
+
+STYLE: Photorealistic, cinematic, establishing. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 78 — The Arrival (Panels 19.2+19.3 SPLIT PANEL)
+**SPLIT PANEL — LANDING AND RECOGNITION**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+
+SCENE: Batman lands behind the Joker. The Joker expected this.
+
+LEFT PANEL — BATMAN LANDS:
+- Batman descending onto the unfinished floor behind the Joker
+- Cape settling around him, dust rising from impact
+- Three large dogs between them, chains taut, snarling — teeth bared
+- Joker still facing away, not reacting
+- Steel beams framing the scene, open sky beyond
+
+RIGHT PANEL — THE TURN:
+- The Joker turning slowly, face coming into view
+- That smile — wide, welcoming, utterly unsurprised
+- Through open building edge behind him: both ferries visible as lights in the harbor far below
+- Arms slightly open — welcoming an old friend
+
+CHARACTER 1 — BATMAN (BATTLE-WORN) LEFT PANEL:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, tired intense eyes, athletic build, 6'0"
+- Costume: Full black Batsuit — matte black (#0A0A0A) scuffed armoured plates, torn cape edges, scratched cowl, scraped gauntlets, dusty utility belt, scuffed boots. Battle-worn.
+- Expression: Grim determination, assessing
+- Action: Landing, cape settling around him
+- Position: Left panel, behind dogs, facing Joker
+
+CHARACTER 2 — THE JOKER RIGHT PANEL:
+- Face & Body: Heath Ledger as theatrical villain, early 30s, gaunt face, manic eyes, 6'1"
+- Makeup: Smeared white paint, messy red lipstick into Glasgow scars, black eye rings
+- Hair: Green-tinged, greasy, pushed back
+- Costume: Purple (#4A0080) coat, green (#2D5A27) waistcoat
+- Expression: Delighted, welcoming — he expected this
+- Action: Turning slowly from harbor view
+- Position: Right panel, turning to face Batman
+
+TEXT OVERLAY:
+- Speech bubble (right panel, jagged edges, white fill, black text): "We really should stop meeting like this."
+
+WHAT NOT TO DRAW:
+- NO graphic dog detail — snarling shapes, implied threat
+- NO weapons visible yet
+
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 79 — The Argument (Panels 19.4+19.5 SPLIT PANEL)
+**SPLIT PANEL — PHILOSOPHY AND WILL**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+
+SCENE: The Joker makes his case. Batman doesn't flinch.
+
+LEFT PANEL — THE JOKER GESTURES:
+- The Joker gesturing grandly toward the harbor behind him — toward the ferries
+- Theatrical, making a point, arms wide
+- Both ferries visible through the open building edge — two lights in the dark water
+- Expression: Philosophical, almost reasonable
+
+RIGHT PANEL — BATMAN ADVANCES:
+- Batman stepping forward through the space between steel beams
+- Dogs lunging against chains at his sides — chains pulled taut
+- He doesn't break stride, doesn't flinch
+- Closing the distance with deliberate calm
+
+CHARACTER 1 — THE JOKER LEFT PANEL:
+- Face & Body: Heath Ledger, early 30s, 6'1"
+- Makeup: Full face — white paint, red lip scars, black eye rings
+- Costume: Purple (#4A0080) coat, green (#2D5A27) waistcoat
+- Expression: Expansive, persuasive, arms wide
+- Action: Gesturing toward ferries
+- Position: Left panel, ferries visible beyond him
+
+CHARACTER 2 — BATMAN (BATTLE-WORN) RIGHT PANEL:
+- Face & Body: Christian Bale, mid-30s, jaw with cuts, tired intense eyes, 6'0"
+- Costume: Scuffed matte black (#0A0A0A) Batsuit, torn cape edges, scratched cowl
+- Expression: Resolute, advancing
+- Action: Walking forward, dogs lunging at chains beside him
+- Position: Right panel, moving toward Joker
+
+TEXT OVERLAY:
+- Speech bubble (left panel, jagged edges): "Your four rules. They only work until people get scared enough."
+- Speech bubble (right panel, white fill, black text): "Those ferries are still floating."
+
+STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+```
+
+---
+
+### SLIDE 80 — Through the Dogs (Panel 19.6 SINGLE PANEL)
+**SINGLE PANEL — FORWARD MOTION**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SINGLE PANEL — dynamic action.
+
+SCENE: The Joker releases the dogs. Batman fights through them — armoured, controlled, closing.
+
+COMPOSITION:
+- Dynamic action composition — motion blur on Batman's gauntlets and cape
+- Batman mid-movement: armoured gauntlets deflecting lunging dogs, not harming them
+- One dog's chain wrapping around a structural beam — restrained by environment
+- Second dog caught in Batman's cape — tangled, not harmed
+- Batman's trajectory aimed forward — at the Joker, visible ahead
+- Dust, motion lines, kinetic energy
+- Steel beams and open floor edges framing the chaos
+
+BATMAN (BATTLE-WORN) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, jaw with cuts, tired intense eyes, 6'0"
+- Costume: Matte black (#0A0A0A) scuffed armoured plates, torn cape edges, scratched cowl, scraped gauntlets, dusty belt, scuffed boots
+- Expression: Focused, forcing through
+- Action: Moving through dogs — one chain wrapping beam, one dog caught in cape, gauntlets deflecting
+- Position: Center frame, mid-movement forward
+
+TEXT OVERLAY:
+- Caption (dark navy): "He didn't fight chaos with chaos."
+- Caption (dark navy): "He moved through it."
+
+WHAT NOT TO DRAW:
+- NO graphic dog harm — Batman redirects chains, wraps in cape. Dogs restrained, not hurt.
+- NO blood
+- NO Joker in this panel — frame is Batman's forward momentum
+
+STYLE: Photorealistic, cinematic, dynamic action. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
