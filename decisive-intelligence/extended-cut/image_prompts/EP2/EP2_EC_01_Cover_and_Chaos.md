@@ -301,32 +301,44 @@ STYLE: Photorealistic, triptych. Full bleed. WATERMARK: "DI × SCU" bottom-left,
 PROMPT:
 Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL.
 
-SCENE: The school bus escape and Batman watching too late.
+SCENE: The school bus escape — casual, genius — and Batman watching from far above, too late.
 
-LEFT PANEL — THE BUS:
-- A yellow school bus crashing THROUGH the bank wall
-- Bricks and glass exploding outward
-- The bus merges into a LINE OF OTHER SCHOOL BUSES on the street
-- Field trip convoy — the robbery disappears into morning traffic
+LEFT PANEL — THE BUS MERGES INTO TRAFFIC:
+- Street-level view — a Gotham city street, morning
+- A yellow school bus pulling away from the bank, rear end still near the damaged wall (hole in the brick facade behind it, dust settling)
+- The bus is NOT flying or airborne — it is on the street, wheels on pavement, driving forward casually
+- AHEAD of it: a line of 3-4 other yellow school buses in a convoy, field trip traffic
+- The Joker's bus merging into the back of the line — indistinguishable from the rest
+- Morning light, normal traffic on the other side of the street
+- The genius is in the ordinariness — a robbery disappearing into a school run
 
-RIGHT PANEL — BATMAN WATCHING:
-- High angle — rooftop across from the bank
-- Batman standing at the edge, watching the bus merge into traffic
-- Too late — the bus is already one of many
+RIGHT PANEL — BATMAN ON ROOFTOP FAR ABOVE:
+- Shot from BEHIND Batman, looking OVER his shoulder and DOWN at the street far below
+- Batman standing at a rooftop ledge, high above — the street is 15+ stories down
+- FAR BELOW: the line of yellow school buses is visible as SMALL shapes on the street, merging into traffic
+- Batman's cape hanging still, his silhouette dark against the grey morning sky
+- The distance between him and the buses emphasizes: too late, too far
 
 CHARACTER — BATMAN (RIGHT PANEL):
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, 6'0"
-- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean.
-- Expression: Jaw clenched, calculating — this enemy is different
-- Action: Standing at rooftop edge
-- Position: Right panel, foreground
+- Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean, undamaged.
+- Expression: NOT VISIBLE — shot from behind, looking down at the street
+- Action: Standing at rooftop edge, looking down at the bus convoy far below
+- Position: Right panel, foreground, back to viewer
 
 TEXT OVERLAY:
 - Caption (dark navy): "He wasn't just a criminal. He was a system."
 - Caption (dark navy): "Ra's had rules. This one had none."
 
-STYLE: Photorealistic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
+WHAT NOT TO DRAW:
+- NO bus flying or airborne — the bus is on the street, driving normally
+- NO dramatic explosion or bricks flying — the wall damage is already done, just a hole with settling dust
+- NO Batman face visible — shot from behind, looking down
+- NO Batman at street level — he is HIGH on a rooftop, the street is far below
+- NO desks, chairs, coffee cups
+
+STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
 
 ---
