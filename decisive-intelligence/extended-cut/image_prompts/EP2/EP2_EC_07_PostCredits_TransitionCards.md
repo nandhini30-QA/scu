@@ -1,9 +1,9 @@
 > **Part of:** EP2 Extended Cut Prompts | **Production Rules:** See `EP2_EC_00_Header.md`
-> **Slides:** 121-139 | **Post-Credits Workplace Story + Transition Cards**
+> **Slides:** 124-143 | **Scenes:** 33 (Workplace Story) + 34 (Bane Tease) + Transition Cards (TC 1-6)
 
 ---
 
-# POST-CREDITS: "THIS WAS THE CRISIS" — WORKPLACE STORY
+# SCENE 33: "THIS WAS THE CRISIS" — WORKPLACE STORY — 13 Slides (124-136)
 
 > **Placement:** Plays immediately after EP2 THE TEST ends
 > **Format:** Post-credits mini-story (~3-5 min)
@@ -17,7 +17,7 @@
 
 ---
 
-### SLIDE 121 — THE ARRIVAL / ALL SCREENS RED (WP Panels 1-2 COMBINED)
+### SLIDE 124 — THE ARRIVAL / ALL SCREENS RED (WP Panels 1-2 COMBINED)
 **SPLIT PANEL — CRISIS MORNING**
 
 ```
@@ -63,7 +63,7 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 
 ---
 
-### SLIDE 122 — THE INSTINCT (WP Panel 3)
+### SLIDE 125 — THE INSTINCT (WP Panel 3)
 **SINGLE PANEL — THE TEMPTATION OF DOING ALL FOUR**
 
 ```
@@ -104,7 +104,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 123 — ALFRED ARRIVES (WP Panel 4)
+### SLIDE 126 — ALFRED ARRIVES (WP Panel 4)
 **SINGLE PANEL — THE STEADYING PRESENCE**
 
 ```
@@ -141,7 +141,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 124 — CLARITY (WP Panel 5)
+### SLIDE 127 — CLARITY (WP Panel 5)
 **SINGLE PANEL — PILLAR 1: THE CHOICE**
 
 ```
@@ -174,7 +174,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 125 — THE OUTAGE CALL (WP Panel 6)
+### SLIDE 128 — THE OUTAGE CALL (WP Panel 6)
 **SINGLE PANEL — HANDLING IT**
 
 ```
@@ -214,7 +214,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 126 — COURAGE (WP Panel 7)
+### SLIDE 129 — COURAGE (WP Panel 7)
 **SINGLE PANEL — PILLAR 2: THE COST**
 
 ```
@@ -251,7 +251,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 127 — RA'S ASSESSES (WP Panels 8-9 COMBINED)
+### SLIDE 130 — RA'S ASSESSES (WP Panels 8-9 COMBINED)
 **SPLIT PANEL — THE BOSS ARRIVES**
 
 ```
@@ -293,7 +293,7 @@ STYLE: Photorealistic, cinematic, split panel. Full bleed to all edges. WATERMAR
 
 ---
 
-### SLIDE 128 — COMMITMENT (WP Panel 10)
+### SLIDE 131 — COMMITMENT (WP Panel 10)
 **SINGLE PANEL — PILLAR 3: THE BOARD ROOM**
 
 ```
@@ -330,7 +330,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 129 — GORDON IN THE HALLWAY (WP Panel 11)
+### SLIDE 132 — GORDON IN THE HALLWAY (WP Panel 11)
 **SINGLE PANEL — THE PEER WHO COVERED YOU**
 
 ```
@@ -368,7 +368,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 130 — MOVEMENT (WP Panel 12)
+### SLIDE 133 — MOVEMENT (WP Panel 12)
 **SINGLE PANEL — PILLAR 4: END OF DAY**
 
 ```
@@ -405,7 +405,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 131 — THE FOUR WORDS (WP Panel 13)
+### SLIDE 134 — THE FOUR WORDS (WP Panel 13)
 **SINGLE PANEL — END OF DAY REFLECTION**
 
 ```
@@ -442,7 +442,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 132 — S.P. EASTER EGG (WP Panel 14)
+### SLIDE 135 — S.P. EASTER EGG (WP Panel 14)
 **SINGLE PANEL — BLINK AND YOU MISS IT**
 
 ```
@@ -482,7 +482,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 133 — THE EP3 BRIDGE (WP Panel 15)
+### SLIDE 136 — THE EP3 BRIDGE (WP Panel 15)
 **SINGLE PANEL — SOMETHING NEW IS COMING**
 
 ```
@@ -519,6 +519,55 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 ```
 
 ---
+# SCENE 34: BANE TEASE — 1 Slide (137)
+
+---
+
+### SLIDE 137 — Panels 34.1+34.2 SPLIT PANEL
+**SPLIT PANEL — THE PIT AND THE MASK**
+
+```
+PROMPT:
+Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight noir style. SPLIT PANEL — two scenes divided by thin 1-2px white vertical line.
+
+SCENE: A stone pit. A massive figure. A mask. Something is waiting.
+
+LEFT PANEL — THE PIT:
+- A stone pit — walls impossibly high, vertical, ancient
+- A pinhole of light visible far above — the only way out, seemingly unreachable
+- The scale of imprisonment — the distance from here to light
+- In the pit's shadow: a MASSIVE SILHOUETTE — enormous shoulders, a MASK with tubes — undetailed, just shape and size
+- The figure is not struggling. He is still. He is patient.
+
+RIGHT PANEL — CLOSE ON BANE'S MASK:
+- Tight on BANE's face — the breathing apparatus mask filling the lower frame
+- Metal and leather construction, tubes connecting to the harness
+- Cold eyes above the mask — patient, calculating, looking upward at the light
+- The eyes of a man who has been waiting and does not mind waiting
+
+CHARACTER — BANE FULL DESCRIPTION (RIGHT PANEL):
+- Face & Body: Tom Hardy, Caucasian man, late 30s, massive muscular build, shaved head, cold calculating eyes, thick neck, enormous shoulders, 6'2"
+- Mask: Iconic breathing apparatus — metal and leather structure covering lower face entirely, tubes running down from the mask along the jaw and neck
+- Costume: Military tactical vest (olive/brown #5D5436) over bare massive arms visible at vest edges, dark cargo pants (#3D3D3D), heavy combat boots, fingerless gloves
+- Expression: Cold patience, calculating — looking up toward the light
+- Action: Looking upward, still, waiting
+- Position: Right panel, tight on mask and eyes, foreground
+
+TEXT OVERLAY:
+- Caption (dark navy, white text) left panel: "Eight years later... Someone was climbing out."
+- Speech bubble (white fill, black text — heavy, muffled style border) Bane, right panel: "When Gotham is ashes... you have my permission to die."
+- Caption (very small, bottom of right panel, dark navy): "DECISIVE INTELLIGENCE / Episode 2: THE TEST — Complete / Episode 3: THE ADAPTATION — Coming Soon"
+
+WHAT NOT TO DRAW:
+- NO Batman in any panel
+- NO other characters — Bane only
+- NO light in the pit other than the distant pinhole above
+- NO desks, chairs, coffee cups
+
+STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
+```
+
+---
 
 ---
 
@@ -531,7 +580,7 @@ STYLE: Photorealistic, cinematic, single panel. Full bleed to all edges. WATERMA
 
 ---
 
-### SLIDE 134 — TAKEAWAY OPENER
+### SLIDE 138 — TAKEAWAY OPENER
 **TEXT CARD — BLACK**
 
 ```
@@ -556,7 +605,7 @@ STYLE: Clean black background, white text. Full bleed. WATERMARK: "DI × SCU" bo
 
 ---
 
-### SLIDE 135 — TAKEAWAY: CLARITY
+### SLIDE 139 — TAKEAWAY: CLARITY
 **TEXT CARD — BLUE ACCENT**
 
 ```
@@ -573,7 +622,7 @@ COMPOSITION:
 
 TEXT OVERLAY:
 - HEADER (bold, blue #4A90D9, large): "CLARITY"
-- STORY ECHO (white, italic): "Batman had four crises. Four timers. Four locations. He stood frozen — trying to see all of it at once. Alfred said: choose one. Batman chose the ferries. The rest could wait."
+- STORY ECHO (white, italic): "Batman had four crises. Escalating attacks. Multiple targets. He stood frozen — trying to see all of it at once. Alfred said: choose one. Batman chose the Joker. Stop the source, stop everything. The rest could wait."
 - YOUR MOMENT (white, italic): "Your inbox. Your Slack. Your escalation and your board deck and your team issue — all at once. Someone steadied you. What's the one thing that collapses everything else if it fails? That's the one."
 
 STYLE: Clean black background, blue accent header. Full bleed. WATERMARK: "DI × SCU" bottom-left corner, nearly invisible, faded white.
@@ -581,7 +630,7 @@ STYLE: Clean black background, blue accent header. Full bleed. WATERMARK: "DI ×
 
 ---
 
-### SLIDE 136 — TAKEAWAY: COURAGE
+### SLIDE 140 — TAKEAWAY: COURAGE
 **TEXT CARD — RED ACCENT**
 
 ```
@@ -606,7 +655,7 @@ STYLE: Clean black background, red accent header. Full bleed. WATERMARK: "DI × 
 
 ---
 
-### SLIDE 137 — TAKEAWAY: COMMITMENT
+### SLIDE 141 — TAKEAWAY: COMMITMENT
 **TEXT CARD — SILVER ACCENT**
 
 ```
@@ -631,7 +680,7 @@ STYLE: Clean black background, silver accent header. Full bleed. WATERMARK: "DI 
 
 ---
 
-### SLIDE 138 — TAKEAWAY: MOVEMENT
+### SLIDE 142 — TAKEAWAY: MOVEMENT
 **TEXT CARD — ORANGE ACCENT**
 
 ```
@@ -656,7 +705,7 @@ STYLE: Clean black background, orange accent header. Full bleed. WATERMARK: "DI 
 
 ---
 
-### SLIDE 139 — TAKEAWAY CLOSER
+### SLIDE 143 — TAKEAWAY CLOSER
 **TEXT CARD — BLACK WITH EP3 BRIDGE**
 
 ```

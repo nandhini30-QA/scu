@@ -4,18 +4,18 @@
 
 ## Slide Count
 
-| Section | Slides | Range |
-|---------|--------|-------|
-| Cover | 1 | 0 |
-| Cover + Chaos (Scenes 1, 2, 3A, 3) | 13 | 1-13 |
-| Paralysis + Framework + Batpod (Scenes 4, 5, 6, 9B) | 12 | 14-25 |
-| CLARITY (Scenes 7, 8, 9, 10) | 18 | 26-43 |
-| COURAGE (Scenes 11, 12, 13, 13B, 14) | 25 | 44-68 |
-| COMMITMENT (Scenes 14B, 15, 16, 17, 18, 19, 19B) | 24 | 69-92 |
-| MOVEMENT + Dark Knight (Scenes 20-28) | 28 | 93-120 |
-| Post-Credits Workplace Story | 13 | 121-133 |
-| Transition Cards | 6 | 134-139 |
-| **TOTAL** | **~140** | **0-139** |
+| Section | Scenes | Slides | Range |
+|---------|--------|--------|-------|
+| Cover + Chaos | 1-4 | 14 | 0-13 |
+| Paralysis → Choice | 5-9 | 19 | 14-32 |
+| Courage | 10-14 | 25 | 33-57 |
+| Commitment Part 1 | 15-19 | 23 | 58-80 |
+| Commitment Part 2 | 20-24 | 15 | 81-95 |
+| Movement + Dark Knight | 25-32 | 28 | 96-123 |
+| Post-Credits Workplace Story | 33 | 13 | 124-136 |
+| Bane Tease | 34 | 1 | 137 |
+| Transition Cards | TC 1-6 | 6 | 138-143 |
+| **TOTAL** | **34 scenes + 6 cards** | **144** | **0-143** |
 
 ## Verification Checklist
 
@@ -35,16 +35,21 @@
 | WHAT NOT TO DRAW present for complex panels | ✅ Throughout all files |
 | Pillar colors in text overlays | ✅ Blue/Red/White-Black/Orange throughout |
 | "DI × SCU" watermark every slide | ✅ All slides |
-| S.P. Easter Eggs | ✅ Slide 92 (Fox scene), Slide 132 (whiteboard) |
+| S.P. Easter Eggs | ✅ Fox scene (EC_04), Whiteboard (EC_07 slide 135) |
 | Pillars NAMED explicitly | ✅ All four pillar naming moments preserved |
-| FULL DEPTH — every panel represented | ✅ 207 main + 15 post-credits + 6 cards |
-| EP3 bridge beat in post-credits | ✅ Slide 133 ("#restructuring") |
+| Film chronological order | ✅ EC 2.0.0 — scenes follow TDK film sequence |
+| No ferry/warehouse refs in Scenes 2, 4, 5, 6, 8, 9 | ✅ Escalation campaign replaces ferry crisis |
+| Address reveal in Scene 11 (not Scene 6) | ✅ Moved to end of interrogation |
+| Scene 9 = "confront the Joker" (not "save Rachel") | ✅ Choice reworked |
+| Batpod (Scene 10) in EC_03 Courage | ✅ Correctly placed |
+| Fox Sonar (Scene 17) before Ferry (Scene 18) in EC_04 | ✅ Chronological |
+| EP3 bridge beat in post-credits | ✅ Slide 136 ("#restructuring") |
 | Credits format exact | ✅ Closing slide |
 
 ## Character Appearances
 
-| Character | Actor | Slides |
-|-----------|-------|--------|
+| Character | Actor | Est. Slides |
+|-----------|-------|-------------|
 | Batman / Bruce Wayne | Christian Bale | ~60 slides |
 | The Joker (Standard) | Heath Ledger | ~12 slides |
 | The Joker (Interrogation) | Heath Ledger | ~7 slides |
@@ -59,7 +64,7 @@
 | Lucius Fox | Morgan Freeman | ~5 slides |
 | Massive Prisoner | Michael Jai White | ~2 slides |
 | Gordon's Son | Nathan Gamble | ~4 slides |
-| Bane (tease) | Tom Hardy | ~1 slide |
+| Bane (tease) | Tom Hardy | 1 slide |
 | Bruce (Workplace) | Christian Bale | 13 slides |
 | Ra's (Workplace) | Liam Neeson | 3 slides |
 | Alfred (Workplace) | Michael Caine | 2 slides |
@@ -69,22 +74,23 @@
 
 | Pillar | Scene | Treatment | Slides |
 |--------|-------|-----------|--------|
-| CLARITY | Scene 7 (Alfred) | 9 dedicated slides — Burma story, screen shutoff | 26-34 |
-| COURAGE | Scene 11-14 (Explosion → Ferry) | 25 dedicated slides — interrogation, hospital, walk-away, ferry | 44-68 |
-| COMMITMENT | Scene 14B-19B (Construction → Sonar) | 24 dedicated slides — Two-Face, Gordon's family, Fox | 69-92 |
-| MOVEMENT | Scenes 20-23 (Lie → Dark Knight) | 18 dedicated slides — hunt, signal, monologue | 93-110 |
-| ALL FOUR (Pillars Grid) | Scene 24 | 3 slides — four pillars named, 2x2 grid | 111-113 |
+| CLARITY | Scene 8 (Alfred/Burma) | 9 dedicated slides — Burma story, screen shutoff | 20-28 |
+| COURAGE | Scene 14 (Explosion) | Named in explosion aftermath | 54-57 |
+| COMMITMENT | Scene 21 (Gordon's Family) | Named in tackle/sacrifice sequence | 83-85 |
+| MOVEMENT | Scene 25 (The Lie) | Named when Batman turns away from Gordon | 96-99 |
+| ALL FOUR (Pillars Grid) | Scene 29 | 3 slides — four pillars named, 2×2 grid | 114-116 |
 
 ## Iconic Scene Restorations
 
 | Scene | Source | Slides | Decision |
 |-------|--------|--------|----------|
-| Bank Heist Opening (3A) | NEW — restored from Dark Knight | 5-9 | Director Decision #1: A |
-| "Hit Me!" Batpod Chase (9B) | NEW — restored from Dark Knight | 21-25 | Director Decision #2: A |
-| Hospital Explosion Walk-Away (13B) | NEW — restored from Dark Knight | 57-60 | Director Decision #3: A |
-| Fox Sonar Scene (19B) | NEW — restored from Dark Knight | 88-92 | Director Decision #4: A |
-| Construction Site Face-to-Face (14B) | NEW — restored from Dark Knight | 69-72 | Director Decision #5: A |
-| Post-Credits Tone | Starts dark, ends warm | 121-133 | Director Decision #6: C |
+| Bank Heist Opening (Scene 3) | Restored from Dark Knight | 5-9 | Director Decision #1: A |
+| Escalation Campaign (Scene 4) | NEW — replaces four crises montage | 10-13 | EC 2.0.0 rework |
+| "Hit Me!" Batpod Chase (Scene 10) | Restored from Dark Knight | 33-37 | Director Decision #2: A |
+| Hospital Explosion Walk-Away (Scene 16) | Restored from Dark Knight | 62-65 | Director Decision #3: A |
+| Fox Sonar Scene (Scene 17) | Restored from Dark Knight | 66-70 | Director Decision #4: A |
+| Construction Site (Scene 19) | Restored from Dark Knight | 77-80 | Director Decision #5: A |
+| Post-Credits Tone | Starts dark, ends warm | 124-136 | Director Decision #6: C |
 
 ## EP2-Specific Safety Mitigations
 
@@ -102,13 +108,13 @@
 | File | Content | Slides |
 |------|---------|--------|
 | `EP2_EC_00_Header.md` | Production rules, text styling, Gemini notes | — |
-| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist + Four Crises | 0-13 |
-| `EP2_EC_02_Paralysis_Framework.md` | Batman frozen + Joker call + Ra's flashback + Batpod | 14-25 |
-| `EP2_EC_03_Clarity.md` | Alfred + Burma Story + Choice + Race + The Lie | 26-43 |
-| `EP2_EC_04_Courage.md` | Explosion + Interrogation + Hospital + Walk-Away + Ferry | 44-68 |
-| `EP2_EC_05_Commitment.md` | Construction Site + Two-Face + Gordon's Family + Tackle + Fox Sonar | 69-92 |
-| `EP2_EC_06_Movement_DarkKnight.md` | The Lie + Hunt + Bat-Signal + Dark Knight + Closing + Bane Tease | 93-120 |
-| `EP2_EC_07_PostCredits_TransitionCards.md` | Workplace Story + Transition Cards | 121-139 |
+| `EP2_EC_01_Cover_and_Chaos.md` | Cover + Opening + Bank Heist + Escalation Campaign | 0-13 |
+| `EP2_EC_02_Paralysis_Framework.md` | Paralyzed + Joker's Voice + Framework + Alfred/Burma + Choice | 14-32 |
+| `EP2_EC_03_Courage.md` | Batpod Chase + Interrogation + Address Reveal + Race + Arrival + Explosion | 33-57 |
+| `EP2_EC_04_Commitment_Part1.md` | Hospital + Walk-Away + Fox Sonar + Ferry + Construction | 58-80 |
+| `EP2_EC_05_Commitment_Part2.md` | Two-Face + Gordon's Family + Tackle + Body + Fourth Choice | 81-95 |
+| `EP2_EC_06_Movement_DarkKnight.md` | Lie + Hunt + Bat-Signal + Dark Knight + Pillars + Chessboard + Joker Final + Black Page | 96-123 |
+| `EP2_EC_07_PostCredits_TransitionCards.md` | Workplace Story + Bane Tease + Transition Cards | 124-143 |
 | `EP2_EC_08_Summary.md` | Production summary, verification, version history (this file) | — |
 
 ---
@@ -118,6 +124,7 @@
 | Version | Date | Changes |
 |---------|------|---------|
 | EC 1.0.0 | 2026-03-04 | Initial Extended Cut prompts — ~140 slides from 207+15+6 source panels |
+| EC 2.0.0 | 2026-03-05 | Film-chronological restructuring — 34 scenes reordered to match TDK. Escalation campaign replaces four crises montage. Address reveal moved to interrogation. Choice reworked from "save Rachel" to "confront the Joker". 144 slides across 9 files. |
 
 ---
 
