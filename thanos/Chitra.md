@@ -127,9 +127,9 @@ I want to move beyond executing test cases into Designing automation frameworks 
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | Designed, built, and deployed a production-grade automation framework that covers at least 70% of critical flows and is actively used by the team. | Partially
-| 2 | | complex debugging and production issue root cause analysis in analytics module | Partially
-| 3 | | Integrated AI into at least one structured QA workflow that continues to create value without manual dependency. | Not met yet
+| 1 | Designed, built, and deployed a production-grade automation framework that covers at least 70% of critical flows and is actively used by the team. | Met | 
+| 2 | complex debugging and production issue root cause analysis in analytics module | Partially | 
+| 3 | Integrated AI into at least one structured QA workflow that continues to create value without manual dependency. | Not met yet | 
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
