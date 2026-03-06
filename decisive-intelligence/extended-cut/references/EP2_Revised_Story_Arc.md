@@ -661,7 +661,7 @@ Our current screenplay (v1.0.0) has a Scene 26: "Arkham / Joker Last Word." Ther
 | **Act 3: COMMITMENT** | M1-M7 | 26-30 |
 | **Act 4: MOVEMENT** | V1-V4 | 24-28 |
 | Closing: The Cost | — | 6-8 |
-| **Post-Credits: "This Was the Crisis"** | Short Movie | 18-22 |
+| **Post-Credits: "This Was the Crisis"** | Short Movie (incl. Jack/Joker) | 25 |
 | Transition Cards | — | 6 |
 | **TOTAL** | | **~155-180 slides** |
 
@@ -673,7 +673,7 @@ Our current screenplay (v1.0.0) has a Scene 26: "Arkham / Joker Last Word." Ther
 | Main story slides | ~100 | ~125-145 |
 | Post-credits slides | ~15 | ~18-22 |
 | Transition cards | 6 | 6 |
-| Total slides | ~118 | **~155-180** |
+| Total slides | ~118 | **~160-185** |
 | New characters | Fox, Young Gordon | Rachel, Harvey, Two-Face, Joker (4 costumes), Prisoner, Gordon's Son, Bane, Scarecrow, Gambol, Maroni, Lau, Bank Manager |
 | Gemini risk | Low | **High** (Joker makeup, burns, captive scenes, explosion, child danger) |
 | Emotional tone | Mentor journey → triumph | Chaos → loss → sacrifice → exile |

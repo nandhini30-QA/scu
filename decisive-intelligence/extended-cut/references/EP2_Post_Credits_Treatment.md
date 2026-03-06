@@ -2,7 +2,7 @@
 ## Short Movie Treatment
 
 > **Episode:** EP2: THE TEST — Extended Cut
-> **Format:** Post-credits short movie (~18-22 slides)
+> **Format:** Post-credits short movie (~25 story slides + 6 transition cards)
 > **Tone:** Starts dark, ends warm (Decision #6)
 > **Connection:** Direct sequel to EP1 EC post-credits ("Your First Year")
 > **Date:** 2026-03-06
@@ -38,74 +38,108 @@ EP2's post-credits picks up RIGHT THERE. Same office. Same characters. Same face
 | **Harvey** | Aaron Eckhart | Star performer — golden boy of the team. Confident, idealistic, everyone's pick for the next promotion. | Harvey Dent — the White Knight who breaks |
 | **Rachel** | Maggie Gyllenhaal | Trusted colleague — the one who sees things clearly, speaks truth. Close to both Bruce and Harvey. | Rachel Dawes — the loss that changes everything |
 | **Fox** | Morgan Freeman | Senior technical advisor — the expert everyone trusts. Calm, principled, doesn't bluff. | Lucius Fox — draws the line on principle |
+| **Jack** | Heath Ledger | **The client's new point of contact.** Replaced the original client contact overnight. Sharp, charming, unpredictable. Asks innocent questions designed to expose cracks. Doesn't want the project to fail — wants to prove the team is performing, not delivering. Plays team members against each other. Every meeting with him, the rules change. | The Joker — the agent of chaos who exposes the system's weaknesses |
 
-**The Disruptor (NOT a person):**
+### The Joker in the Workplace
 
-In EP1, there was no villain — it was a growth story. In EP2, the "Joker" isn't a person. It's **THE CRISIS ITSELF.** A project collapse, a client disaster, something external that hits the team from all sides. The chaos isn't someone's plan — it's the nature of the thing.
+In EP1, there was no villain — it was a growth story. In EP2, chaos has a face.
 
-This is deliberate. The Joker's lesson is that chaos doesn't need a face. It just needs a system to attack.
+**Jack** (the name is deliberate — no last name given, no background, he just... appeared) is the new client stakeholder who replaces the team's stable relationship overnight. He doesn't yell. He doesn't threaten. He **asks questions.** And every question reveals something the team didn't want to see.
+
+"Do I really look like a guy who reads scope documents?"
+"I'm not here to make your life harder. I'm here to see if what you built is real."
+"The last team told me the same thing. Want to know what happened to them?"
+
+He's not malicious. He's TESTING. And the test is: does your framework hold when someone refuses to play by your rules?
+
+**Visual Design:** Heath Ledger in a slim-cut charcoal suit, no tie, top button undone, shirt slightly untucked. Hair neat but with a carelessness to it. A smile that says "I already know the answer, I'm curious if YOU do." He sits at the conference table like he owns it — leaned back, one arm over the chair. Never raises his voice. The chaos is in the calm.
+
+The contrast with TDK's Joker is the point: same face, same energy, zero paint. The audience recognizes him IMMEDIATELY. The workplace Joker doesn't need scars — he has a smile that does the same work.
 
 ---
 
 ## THE STORY — Beat by Beat
 
-### COLD OPEN: The Emergency (2 slides)
+### COLD OPEN: The Emergency (3 slides)
 
 **Slide 1 — The All-Hands**
 **Visual:** Modern conference room, early morning. Same office from EP1. Bruce, Ra's, Alfred, Gordon, Harvey, Rachel, Fox all present. Screens showing charts going the wrong direction. Everyone's face is tense. Coffee cups forgotten.
 
 **Caption:** "Six months after 'Your First Year.' The team had found its rhythm."
 
-**Ra's (standing):** "I'll be direct. We've lost the Meridian account. They're pulling out in 72 hours unless we deliver a full rebuild of what was promised."
+**Ra's (standing):** "I'll be direct. Meridian has a new point of contact. He's reviewed everything we've delivered. He's... not happy."
 
 ---
 
-**Slide 2 — The Scale**
-**Visual:** Same room. Tighter shot. Harvey is already on his feet, confident. Bruce looks at the screens — the scope is massive. Rachel has her laptop open, already triaging. Alfred watches quietly.
+**Slide 2 — Jack Arrives**
+**Visual:** Conference room door opens. A man walks in. Heath Ledger — slim-cut charcoal suit, no tie, top button undone, hair neat but careless. He smiles at the room like he already knows everyone's name. Sits down at the head of the table. Leans back. One arm draped over the empty chair next to him.
+
+**Jack:** "Hi. I'm Jack. I'll be your new point of contact."
+*(Beat.)*
+**Jack:** "I've read everything you've sent us. Impressive documentation. Beautiful slide decks."
+*(Smile.)*
+**Jack:** "Now — what did you actually BUILD?"
+
+**Caption:** "He didn't raise his voice. He didn't need to."
+
+---
+
+**Slide 3 — The Scale**
+**Visual:** Same room. Tighter shot. Harvey is already on his feet, confident. Bruce looks at the screens — the scope is massive. Rachel has her laptop open, already triaging. Alfred watches quietly. Jack is watching Harvey with interest — studying him.
 
 **Harvey:** "We can do this. Split into two teams, parallel workstreams, 72-hour sprint."
 
-**Ra's (looking at Bruce):** "Bruce. You led the original delivery. This is yours."
+**Jack (to Harvey, amused):** "I like the energy. Let me ask you something — did you build the original scope, or did you inherit it?"
 
-**Caption:** "The first crisis always looks like a project problem. It isn't."
+**Harvey (caught off guard):** "...I inherited it."
+
+**Jack:** "So you're sprinting toward someone else's promise. Interesting."
+
+**Ra's (cutting in, looking at Bruce):** "Bruce. You led the original delivery. This is yours."
+
+**Caption:** "The first crisis always looks like a project problem. It isn't. Sometimes it looks like a person."
 
 ---
 
 ### ACT 1: CLARITY — Seeing What It Really Is (4 slides)
 
-**Slide 3 — The Noise**
-**Visual:** Bruce at his desk. THREE screens. Slack channels exploding. Email threads forking. Harvey's already made a plan and shared it with the client. Gordon is fielding calls from other teams asking if they're impacted. Rachel is in Bruce's doorway with a printout.
+**Slide 4 — Jack's First Meeting**
+**Visual:** Conference room. Jack has called a "quick sync" — but it's an interrogation. He's asking questions that sound casual but each one exposes a gap. The team is around the table. Jack has their project plan open on the screen, annotated with handwritten-style red marks.
 
-**Rachel:** "Bruce. Stop. Before you react — READ this."
+**Jack:** "This feature here — who asked for it?"
+**Harvey:** "It was in the original requirements."
+**Jack:** "Right. But who ASKED for it? Which person? What problem were they solving?"
+*(Silence.)*
+**Jack (leaning back):** "Do I really look like a guy who reads scope documents? I read RESULTS. Show me what you built. Not what you planned."
 
-**Caption:** "When the crisis hits, the first instinct is to DO something. Anything."
-
----
-
-**Slide 4 — The Real Problem**
-**Visual:** Bruce and Rachel at a quiet table. The printout is a timeline — showing the original promises vs. what was actually built. The gap isn't technical. It's that the SCOPE was wrong from the start. The client was promised something that was never scoped correctly.
-
-**Rachel:** "This isn't a 72-hour rebuild. This is a scope problem that's been invisible for months. Harvey's sprint plan delivers the wrong thing faster."
-
-**Caption:** "CLARITY isn't seeing everything. It's seeing what MATTERS."
+**Caption:** "He wasn't wrong. That was the problem."
 
 ---
 
-**Slide 5 — Alfred's Story**
-**Visual:** Break room. Bruce and Alfred. Low light. Coffee. The same quiet energy as the Burma story. Alfred has seen this before — not this specific crisis, but this SHAPE of crisis.
+**Slide 5 — The Real Problem**
+**Visual:** Bruce and Rachel at a quiet table afterward. Rachel has a printout — the original promises vs. what was actually built. The gap isn't technical. It's that the SCOPE was wrong from the start. Jack didn't create this gap. He just shined a light on it.
 
-**Alfred:** "I worked a project like this once. Twelve years ago. Everyone wanted to fix it. No one wanted to NAME it. So they fixed faster and faster, and the real problem got bigger and bigger. Until someone finally said: 'We promised the wrong thing.'"
+**Rachel:** "Bruce. Jack's not the problem. He's the MIRROR. This isn't a 72-hour rebuild. This is a scope problem that's been invisible for months. Harvey's sprint plan delivers the wrong thing faster."
 
-**Bruce:** "What happened?"
-
-**Alfred:** "The person who named it got blamed for it. But the project survived."
+**Caption:** "CLARITY isn't seeing everything. It's seeing what MATTERS. Sometimes it takes someone who refuses to play along to make you look."
 
 ---
 
-**Slide 6 — ★ CLARITY NAMED**
-**Visual:** Bruce standing at a whiteboard. He's drawn two paths: "WHAT THE CLIENT WANTS" and "WHAT WE PROMISED." They diverge. He's circled the gap. Harvey is in the room, arms crossed, not happy. Gordon is nodding slowly.
+**Slide 6 — Alfred's Story**
+**Visual:** Break room. Bruce and Alfred. Low light. Coffee. The same quiet energy as the Burma story. Alfred has seen this before — not this specific crisis, but this SHAPE of person.
 
-**Bruce:** "We're not behind. We're pointed in the wrong direction. The sprint doesn't fix this — a conversation with the client does."
+**Alfred:** "I worked with someone like Jack once. Twelve years ago. Everyone hated him. He asked the questions no one wanted to hear. He didn't care about being liked — he cared about being RIGHT. And the thing is... he usually was."
+
+**Bruce:** "So how do you work with someone like that?"
+
+**Alfred:** "You stop trying to manage him. You start listening to what he's actually saying. The uncomfortable questions are the ones you need most."
+
+---
+
+**Slide 7 — ★ CLARITY NAMED**
+**Visual:** Bruce standing at a whiteboard. He's drawn two paths: "WHAT JACK IS ASKING FOR" and "WHAT WE PROMISED." They diverge. He's circled the gap. Harvey is in the room, arms crossed, not happy. Gordon is nodding slowly.
+
+**Bruce:** "Jack's not trying to kill this project. He's trying to see if it's real. We're not behind — we're pointed in the wrong direction. The sprint doesn't fix this — honesty does."
 
 **Caption Box (pillar card):**
 > **CLARITY: Not managing the noise. Understanding the nature of the problem.**
@@ -115,37 +149,41 @@ This is deliberate. The Joker's lesson is that chaos doesn't need a face. It jus
 
 ### ACT 2: COURAGE — Saying It Anyway (4 slides)
 
-**Slide 7 — Harvey's Objection**
-**Visual:** Hallway. Harvey and Bruce, face to face. Harvey is frustrated — he's already told the client they'll deliver. He's put his reputation on the line. Pulling back now makes HIM look bad.
+**Slide 8 — Harvey's Objection**
+**Visual:** Hallway. Harvey and Bruce, face to face. Harvey is frustrated — he's already told Jack they'll deliver in 72 hours. He's put his reputation on the line. Jack specifically praised Harvey's "bias for action." Pulling back now makes Harvey look bad in front of the one person who noticed him.
 
-**Harvey:** "I already told them we'd deliver. If we go back now and say we scoped it wrong, that's MY credibility on the line."
+**Harvey:** "Jack respects speed. He TOLD me that. If we go back and say we scoped it wrong, that's MY credibility — with the one client contact who actually took me seriously."
 
-**Bruce:** "I know. But delivering the wrong thing on time doesn't fix anything. It just delays the reckoning."
+**Bruce:** "Harvey. Jack's not respecting your speed. He's watching to see if you'll promise something you can't deliver. And you just did."
 
 ---
 
-**Slide 8 — Ra's Watches**
+**Slide 9 — Ra's Watches**
 **Visual:** Ra's in his office, glass wall, watching the team through the window. He can see the tension between Bruce and Harvey. He does NOT intervene. His hands are clasped. He's letting Bruce lead.
 
 **Caption:** "Ra's could have stepped in. He chose not to. Some lessons can only be learned in the field."
 
 ---
 
-**Slide 9 — The Call**
-**Visual:** Conference room. Bruce on a video call with the client (screen visible, client's face blurred/generic). Harvey is in the room too — arms crossed, watching. Rachel sits beside Bruce for support. Gordon at the door.
+**Slide 10 — The Call**
+**Visual:** Conference room. Bruce across the table from Jack. Face to face. Harvey is in the room too — standing against the wall, arms crossed. Rachel sits beside Bruce. Gordon at the door. Jack is leaned back, fingers steepled, LISTENING. Not hostile. Not friendly. Curious.
 
-**Bruce:** "We owe you honesty. The timeline we promised was based on a scope that doesn't match what you actually need. We can deliver what was promised in 72 hours — but it won't solve your problem. Or we can take five days, rescope with you, and build what you actually need."
+**Bruce:** "Jack. The timeline Harvey promised was based on a scope that doesn't match what you actually need. We can deliver what was promised in 72 hours — but it won't solve your problem. Or we can take five days, rescope WITH you, and build what you actually need."
 
-**Caption:** "The client went silent for eleven seconds."
+**Jack stares at Bruce for a long beat.** Then:
+
+**Jack:** "Everyone else would have just delivered the 72-hour version and hoped I didn't notice." *(Leans forward.)* "Five days. Show me something real."
+
+**Caption:** "The Joker doesn't reward bravery. He ACKNOWLEDGES it. There's a difference."
 
 ---
 
-**Slide 10 — ★ COURAGE NAMED**
-**Visual:** Bruce after the call. The client agreed to the rescope. But Harvey has left the room. Bruce looks at the empty chair where Harvey was sitting. Rachel puts a hand on his shoulder.
+**Slide 11 — ★ COURAGE NAMED**
+**Visual:** Bruce after the meeting. Jack has left. Harvey has left — his chair pushed back hard. Bruce looks at the empty chairs. Rachel puts a hand on his shoulder.
 
-**Rachel:** "That took guts."
+**Rachel:** "That took guts. Saying that to Jack's face."
 
-**Bruce:** "Harvey's not going to forgive me for this."
+**Bruce:** "Jack wasn't the hard part. Harvey was."
 
 **Rachel:** "You didn't do it for Harvey. You did it because it was right."
 
@@ -157,30 +195,32 @@ This is deliberate. The Joker's lesson is that chaos doesn't need a face. It jus
 
 ### ACT 3: COMMITMENT — What Holds, What Breaks (5 slides)
 
-**Slide 11 — Harvey's Turn**
-**Visual:** Two days later. Harvey's desk. He's working on the rescoped plan — but with a shortcut. He's cutting corners on the technical validation because "the client won't notice." His screen shows a doc with sections marked "TBD — skip for now."
+**Slide 12 — Harvey's Turn**
+**Visual:** Two days later. Harvey's desk. He's working on the rescoped plan — but with a shortcut. He's cutting corners on the technical validation because "Jack won't test for that." His screen shows a doc with sections marked "TBD — skip for now." On his phone: a Slack DM thread with Jack. They've been talking directly.
 
-**Caption:** "Harvey didn't disagree with the rescope. He disagreed with doing it THOROUGHLY."
+**Caption:** "Harvey didn't disagree with the rescope. He disagreed with doing it THOROUGHLY. And Jack... Jack had given Harvey his direct number."
 
 ---
 
-**Slide 12 — The Shortcut**
+**Slide 13 — The Shortcut**
 **Visual:** Harvey presents to the team. His plan is faster. It's elegant. It gets them done in THREE days instead of five. Everyone is impressed — except Fox, who's reading the fine print.
 
 **Fox:** "Harvey. You've skipped the load testing."
 
-**Harvey:** "We don't need it. The client won't push those volumes for months."
+**Harvey:** "Jack doesn't care about load testing. He cares about features. I asked him."
 
-**Fox:** "And when they do?"
+**Fox:** "You asked the client what TESTING to skip? And when the system breaks under load?"
 
-**Harvey (shrugging):** "We'll fix it then."
+**Harvey (shrugging):** "We'll fix it then. Jack said he'd rather see something working than something perfect."
+
+**Caption:** "Jack didn't TELL Harvey to cut corners. He just made it feel like the smart move. 'I'd rather see something working.' The little push."
 
 ---
 
-**Slide 13 — Fox Draws the Line**
+**Slide 14 — Fox Draws the Line**
 **Visual:** Fox and Bruce. Private conversation. Fox has printed Harvey's plan with the skipped sections highlighted in red.
 
-**Fox:** "This is elegant. And it'll break under real load inside of six weeks."
+**Fox:** "This is elegant. And it'll break under real load inside of six weeks. Harvey says Jack approved skipping it. Jack didn't approve anything — he just didn't object. There's a difference."
 
 **Bruce:** "Can we add the testing back in and still hit Harvey's timeline?"
 
@@ -196,17 +236,25 @@ This is deliberate. The Joker's lesson is that chaos doesn't need a face. It jus
 
 ---
 
-**Slide 14 — Harvey Breaks**
-**Visual:** Harvey at the client meeting. He's gone around Bruce. He's presenting his three-day plan directly to the client contact, over coffee, one-on-one. Charm on full display. The client loves it.
+**Slide 15 — Harvey Breaks**
+**Visual:** Coffee shop near the office. Harvey and Jack, one-on-one. Harvey is presenting his three-day plan on a laptop. Jack is listening with that smile — studying Harvey the way a chess player studies an opponent who thinks he's winning. Harvey is animated, charming.
 
-**Caption:** "Harvey didn't break all at once. He broke the way everyone does — one small compromise at a time. He told himself it was confidence. It was ego."
+**Jack:** "I like this. This is what I was hoping to see from your team."
+
+**Harvey:** "Bruce is being cautious. The five-day plan is his. This" — taps screen — "this is what we can ACTUALLY do."
+
+**Jack (studying Harvey):** "So there's two plans. And you're bringing me the one your lead doesn't know about."
+
+**Harvey (beat — realizes what he just did, pushes past it):** "I'm bringing you the one that WORKS."
+
+**Caption:** "Harvey didn't break all at once. Jack didn't push him. He just... held the door open. And Harvey walked through."
 
 ---
 
-**Slide 15 — The Fallout**
-**Visual:** Team room. Bruce finds out Harvey went to the client directly. Ra's is now in the room. Rachel looks stricken. Gordon is quiet.
+**Slide 16 — The Fallout**
+**Visual:** Team room. Bruce finds out Harvey went to Jack directly. Ra's is now in the room. Rachel looks stricken. Gordon is quiet.
 
-**Rachel (to Bruce):** "He told the client the five-day plan was YOUR idea and the three-day plan was the team's real recommendation."
+**Rachel (to Bruce):** "Harvey told Jack the five-day plan was YOUR caution and the three-day plan was the team's real recommendation. Jack accepted the three-day plan. On record."
 
 **Bruce (long beat, then quiet):** "Okay."
 
@@ -214,48 +262,79 @@ This is deliberate. The Joker's lesson is that chaos doesn't need a face. It jus
 
 ---
 
-### ACT 4: MOVEMENT — Showing Up Anyway (5 slides)
+### ACT 4: MOVEMENT — Showing Up Anyway (6 slides)
 
-**Slide 16 — The Third Day**
-**Visual:** Day 3. Harvey's plan is live. The client demo is in two hours. Harvey is confident. The team is split — half followed Harvey's shortcut, half followed Bruce's thorough path (quietly, after hours). Bruce looks exhausted.
+**Slide 17 — The Third Day**
+**Visual:** Day 3. Harvey's plan is live. The client demo is in one hour. Harvey is confident, prepping slides. The team is split — half followed Harvey's shortcut, half followed Bruce's thorough path (quietly, after hours). Bruce looks exhausted. Jack has sent a calendar invite: "Demo Day — looking forward to it."
 
-**Caption:** "Harvey shipped fast. Bruce built right. Now the question was which one the client needed."
-
----
-
-**Slide 17 — The Demo Breaks**
-**Visual:** Conference room. Client on screen. Harvey's demo starts strong — then the load test simulation (that Fox warned about) crashes it. Live. On camera. Harvey's face falls. The client goes quiet.
-
-**Caption:** "The shortcut didn't break eventually. It broke NOW."
+**Caption:** "Harvey shipped fast. Bruce built right. Now the question was which one Jack actually wanted."
 
 ---
 
-**Slide 18 — Bruce Steps In**
-**Visual:** Bruce stands up. Calm. Pulls up HIS version — the one he and Fox and Gordon built after hours. It works. The client sees both versions side by side. Rachel is watching from the doorway.
+**Slide 18 — The Demo Breaks**
+**Visual:** Conference room. Jack in person, at the head of the table. That posture — leaned back, watching. Harvey presents. It starts strong. Smooth. Fast. Jack nods, takes notes. Then Jack does something no one expected: he asks for a load simulation. "Let's see how it handles real traffic." Harvey's face flickers. The load test crashes the demo. Live. In front of Jack. Harvey's face falls.
 
-**Bruce (to client):** "This is the version that was built right. It took longer. It'll hold."
+**Jack (quiet, almost gentle):** "You know what's interesting? The guy who built this" — gestures at the broken screen — "is the same guy who promised me three days. And the guy who said five days is sitting right there."
 
-**Caption:** "He didn't say 'I told you so.' He didn't have to."
+Jack looks directly at Bruce.
 
-**But then — and this is the turn:**
+**Jack:** "What do YOU have?"
+
+**Caption:** "Jack knew. He always knew. He was waiting to see who would say it first."
 
 ---
 
-**Slide 19 — Bruce Takes the Fall**
-**Visual:** After the demo. Ra's, Bruce, Harvey in Ra's office. The client chose Bruce's version. Harvey's reputation is damaged. Ra's looks at both of them.
+**Slide 19 — Bruce Steps In**
+**Visual:** Bruce stands up. Calm. Pulls up HIS version on the screen — the one he and Fox and Gordon built after hours. It loads. Jack leans forward for the first time. The load test runs. It holds. Rachel is watching from the doorway.
 
-**Ra's:** "The client needs to trust this team. Both of you. If Harvey takes the blame publicly, we lose him. And we need him — not the shortcut Harvey, the REAL Harvey."
+**Bruce:** "This is the version that was built right. It took longer. It'll hold."
 
-**Bruce (beat):** "Tell the client it was a miscommunication in project management. My fault. I should have aligned the team better."
+**Jack (long look at Bruce):** "Why didn't you show me this first?"
 
-**Harvey stares at Bruce.** He knows what just happened.
+**Bruce:** "Because Harvey's plan was the team's commitment. I wasn't going to undermine my own team in front of the client."
+
+**Jack (something shifts in his expression — respect, maybe):** "Interesting."
+
+**Caption:** "He didn't say 'I told you so.' He didn't have to. And Jack... Jack filed that answer away."
+
+---
+
+**Slide 20 — Bruce Takes the Fall**
+**Visual:** After the demo. Ra's, Bruce, Harvey in Ra's office. Jack has left. Harvey's reputation is shattered. Ra's looks at both of them.
+
+**Ra's:** "Jack called me. He wants to go with Bruce's version. But he also said something else — he said Harvey 'has potential but needs to learn the difference between speed and substance.' If that gets back to the team, Harvey's done here."
+
+**Bruce (beat):** "Tell Jack it was a miscommunication in project management. My fault. I should have aligned the team better. Harvey was executing what he thought was the plan."
+
+**Harvey stares at Bruce.** He knows what just happened. His eyes are wet.
 
 **Caption:** "He took the blame. Not because Harvey deserved it. Because the team needed Harvey to still be Harvey."
 
 ---
 
-**Slide 20 — ★ MOVEMENT NAMED**
-**Visual:** Next morning. Bruce walks into the office. Same entrance as EP1's first day — but now the walk is heavier. He's the one who "messed up" in the client's eyes. Harvey nods at him from across the room — a complicated nod. Gratitude and shame mixed.
+**Slide 21 — Jack's Last Word**
+**Visual:** Lobby. End of day. Bruce is walking out. Jack is in the lobby, putting on his coat. They're alone. Jack turns and looks at Bruce with that smile — but different now. Warmer. Almost human.
+
+**Jack:** "You know what I do, right? I come in, I shake the tree, I see what falls. Most teams? The guy with the shortcut blames the guy with the plan. The guy with the plan lets him. Everyone protects themselves."
+
+*(Beat.)*
+
+**Jack:** "You did the opposite. You protected the guy who went behind your back."
+
+**Bruce:** "He's worth protecting."
+
+**Jack (putting on his coat, heading for the door):** "That's what makes you dangerous, Bruce. Not the work. The fact that you'll take the hit and show up tomorrow."
+
+*(He pauses at the door. Looks back.)*
+
+**Jack:** "We're going to work together for a while, I think."
+
+**Caption:** "The Joker didn't lose. He found what he was looking for: someone whose framework was real."
+
+---
+
+**Slide 22 — ★ MOVEMENT NAMED**
+**Visual:** Next morning. Bruce walks into the office. Same entrance as EP1's first day — but now the walk is heavier. He's the one who "messed up" in Jack's official report. Harvey nods at him from across the room — a complicated nod. Gratitude and shame mixed.
 
 Alfred is at the coffee machine. Small smile.
 
@@ -271,9 +350,9 @@ Alfred is at the coffee machine. Small smile.
 
 ---
 
-### CLOSER: Both Worlds (2-3 slides)
+### CLOSER: Both Worlds (3 slides)
 
-**Slide 21 — The Overhead**
+**Slide 23 — The Overhead**
 **Visual:** Same overhead office shot from EP1 Slide 12 — but now we see more. Bruce at his desk, working. Harvey across the room, head down, working harder than before. Rachel between them, bridging. Gordon in a call, steady. Fox reviewing architecture docs. Alfred walking past Bruce's desk, leaving a coffee without a word.
 
 **Four caption boxes (corners of the frame):**
@@ -284,22 +363,22 @@ Alfred is at the coffee machine. Small smile.
 
 ---
 
-**Slide 22 — S.P. Easter Egg + The Connection**
+**Slide 24 — S.P. Easter Egg + The Connection**
 **Visual:** Close-up of Bruce's desk. Post-it note from EP1 still there ("SP's first rule: Focus on what matters. — Alfred"). But now there's a NEW post-it next to it, in different handwriting:
 
 > "SP's second rule: The crisis isn't the enemy. Your shortcuts are. — Fox"
 
-**Below the post-its:** A framed photo on the desk, small — a group shot of the team from EP1. The "Your First Year" team. All smiling. Before the crisis.
+**Below the post-its:** A framed photo on the desk, small — a group shot of the team from EP1. The "Your First Year" team. All smiling. Before the crisis. Next to it: Jack's business card. Just a name. No title. No company. Just: **JACK.**
 
 ---
 
-**Slide 23 — Ra's Final Beat**
+**Slide 25 — Ra's Final Beat**
 **Visual:** End of day. Office emptying. Ra's at the glass wall, looking out. Bruce passes by, bag over shoulder, heading home. Ra's catches his eye. Doesn't speak. Just... a nod. The same nod Gordon gave Bruce in EP1. The recognition.
 
-**Caption:** "Ra's taught the framework. The crisis tested it. Bruce proved it."
+**Caption:** "Ra's taught the framework. Jack tested it. Bruce proved it."
 
 **Final caption (small, bottom of frame):**
-> "Six months later, Harvey would rebuild his reputation. Not with shortcuts — with work. The framework doesn't prevent the crisis. It survives it."
+> "Six months later, Harvey would rebuild his reputation. Not with shortcuts — with work. And Jack? Jack moved on to his next engagement. Same smile. Same questions. Looking for the next team worth testing."
 
 ---
 
@@ -338,16 +417,24 @@ Alfred is at the coffee machine. Small smile.
 
 | TDK Scene | Workplace Parallel | Pillar |
 |---|---|---|
-| Alfred's Burma Story — "some men just want to watch the world burn" | Alfred's project story — "no one wanted to NAME it" | CLARITY |
+| Joker crashes mob meeting — enters uninvited, takes over | Jack arrives as new client contact — "What did you actually BUILD?" | SETUP |
+| Joker: "Do I really look like a guy with a plan?" | Jack: "Do I really look like a guy who reads scope documents?" | CLARITY |
+| Alfred's Burma Story — "some men just want to watch the world burn" | Alfred: "He asked the questions no one wanted to hear" | CLARITY |
 | Alfred's "Endure" speech — "the choice no one else can make" | Rachel: "You did it because it was right" | COURAGE |
+| Interrogation — Joker tests Batman face to face | Bruce tells Jack the scope is wrong — face to face | COURAGE |
+| Joker: "Everyone else would have just..." (acknowledges Batman) | Jack: "Everyone else would have just delivered the 72-hour version" | COURAGE |
+| Hospital speech — Joker gives Harvey permission to break | Jack gives Harvey his direct number — "I'd rather see something working" | COMMITMENT |
 | Fox's "Beautiful. Unethical. Dangerous." | Fox: "Three days OR it's right. Not both." | COMMITMENT |
-| Harvey's hospital corruption — shortcuts to chaos | Harvey goes around Bruce to the client | COMMITMENT (broken) |
+| Harvey goes to Maroni (goes around the system) | Harvey goes to Jack directly (goes around Bruce) | COMMITMENT (broken) |
+| Joker: "Madness is like gravity. All it takes is a little push." | Jack didn't push Harvey — "he just held the door open" | COMMITMENT |
+| Ferry resolution — Joker watches, waiting | Jack at the demo — asks for load test, watches what happens | MOVEMENT |
 | Batman takes the fall for Dent's murders | Bruce takes the blame for "miscommunication" | MOVEMENT |
-| Final montage — Gordon/axe, Alfred/letter, Fox/sonar | Alfred's coffee, Harvey's nod, Ra's recognition nod | MOVEMENT |
-| Joker: "Madness is like gravity. All it takes is a little push." | Harvey's shortcut: "We'll fix it then." (the little push) | — |
-| Rachel's letter — she chose Harvey | Rachel sees clearly, speaks truth — the conscience | CLARITY |
+| Joker hanging upside down: "We're going to do this forever" | Jack in the lobby: "We're going to work together for a while" | MOVEMENT |
 | Tattooed Prisoner throws the remote | Fox drawing the line on the shortcut | COMMITMENT |
 | "I'm whatever Gotham needs me to be." | "I'm whatever this team needs me to be." | MOVEMENT |
+| Rachel's letter — she chose Harvey | Rachel sees clearly, speaks truth — the conscience | CLARITY |
+| Final montage — Gordon/axe, Alfred/letter, Fox/sonar | Alfred's coffee, Harvey's nod, Ra's recognition nod | MOVEMENT |
+| Jack's business card (no title, no company) | Joker: no matches on prints, DNA, dental. Custom clothing, no labels. | EASTER EGG |
 
 ---
 
@@ -361,15 +448,18 @@ Alfred is at the coffee machine. Small smile.
 - Alfred's coffee delivery echoes his EP1 supportive role
 
 ### New Character Blocks Needed
-- **Harvey (workplace):** Aaron Eckhart in business attire — navy suit, confident posture, polished
-- **Rachel (workplace):** Maggie Gyllenhaal — smart casual, laptop bag, reading glasses on head
-- **Fox (workplace):** Morgan Freeman — same as EP1 block but add reading glasses, architecture docs
+- **Jack (workplace):** Heath Ledger — slim-cut charcoal suit, no tie, top button undone, shirt slightly untucked. Hair neat but careless. Lean build, confident posture, always seems like he's watching more than participating. Smile that says "I already know." Sits leaned back, one arm over the empty chair. Never raises his voice.
+- **Harvey (workplace):** Aaron Eckhart in business attire — navy suit, confident posture, polished. Golden boy energy. The guy everyone expects to be promoted next.
+- **Rachel (workplace):** Maggie Gyllenhaal — smart casual, laptop bag, reading glasses on head. Sharp, direct, doesn't sugarcoat.
+- **Fox (workplace):** Morgan Freeman — same as EP1 block but add reading glasses, architecture docs. The calm authority.
 
 ### Tone Calibration
-- Slides 1-15: DARKER than EP1. Tension. Conflict. Stakes.
-- Slides 16-17: THE LOW POINT. Harvey's demo breaks.
-- Slides 18-20: THE TURN. Bruce takes the hit. Warmth begins.
-- Slides 21-23: WARM. Quiet. Earned. The team survives.
+- Slides 1-3: THE ARRIVAL. Jack changes everything by showing up.
+- Slides 4-11: DARKER than EP1. Tension. Jack's questions. Harvey's ego.
+- Slides 12-16: THE FRACTURE. Harvey breaks. Jack enables it without pushing.
+- Slides 17-18: THE LOW POINT. Harvey's demo breaks in front of Jack.
+- Slides 19-22: THE TURN. Bruce steps up, takes the hit, Jack acknowledges it.
+- Slides 23-25: WARM. Quiet. Earned. The team survives. Jack moves on.
 - Cards: Reflective. Direct address to audience. "You've been here."
 
 ### S.P. Easter Egg
@@ -379,4 +469,4 @@ Alfred is at the coffee machine. Small smile.
 
 ---
 
-*"Your First Year taught the framework. This Was the Crisis tested it. Same characters. Same office. Different stakes. The pillars hold."* 🦇
+*"Your First Year taught the framework. This Was the Crisis tested it. Same characters. Same office. One new face with a smile that changed everything. The pillars hold."* 🦇
