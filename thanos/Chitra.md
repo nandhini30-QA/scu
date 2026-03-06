@@ -154,27 +154,23 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
-```
-[Your answer]
-```
+I believe I am currently one step ahead of other QA team members in terms of handling and managing incoming production tickets. Over the past 13 sprints, while most QA members have handled approximately 25 tickets each in the Sprint Guardian role, I have managed more than 70 tickets in the same capacity. This experience has given me deeper exposure to ticket triaging, prioritization, and resolution workflows, allowing me to better support and guide others in effectively managing incoming issues.
+
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
-```
-[Your answer]
-```
+I could share practical guidance on how to efficiently handle incoming production tickets as a Sprint Guardian. This includes how to quickly triage tickets, identify the right module or owner, prioritize based on impact and SLA, and document updates clearly for stakeholders. I can also share patterns I have noticed from handling a high volume of tickets, which can help others resolve issues faster and avoid common delays.
+
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
-```
-[Your answer]
-```
+One factor that has held me back from mentoring more actively is a sense of hesitation due to my career transition. Although I have around 8 years of experience and started as a manual tester, my shift to automation happened later compared to some other team members who moved into automation earlier. Because of this, I sometimes feel that they may have stronger automation depth than me, which creates a fear of being “late” or not knowledgeable enough. However, I also recognize that my broader testing experience and hands-on exposure to production ticket handling still give me valuable practical insights that I can share with others.
+
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
-```
-[Your answer]
-```
+Yes, there have been times when I held back from helping someone because I felt I might not be qualified enough, especially in areas related to automation or deeper technical topics. Since some team members transitioned to automation earlier than I did, I sometimes assumed they might already know better approaches. As a result, I focused more on completing my own tasks rather than proactively sharing my thoughts. However, looking back, I realize that even partial knowledge or practical experience—especially from handling production tickets and debugging issues could still be useful to others who are facing similar situations.
+
 
 ---
 
