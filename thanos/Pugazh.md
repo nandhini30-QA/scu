@@ -164,25 +164,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+My honest first answer is 'my previous self.' My focus is on ensuring the person I am today is more capable than the person I was yesterday. However, the real test of that progress isn't just internal. It's being able to guide someone else. So, the person I am one step ahead of is a new engineer(for eg: kabilan) on our team, or anyone just getting started with our observability stack.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+This week, I learned the specifics of how the `/healthz` API endpoint is configured on Betterstack. I can now explain what it checks and what the final response signifies—knowledge I didn't have last week.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+The primary thing that stops me is the feeling that I'm not 'expert enough'. As a fresher, I'm acutely aware of how much I don't know, and this makes me hesitate to share my knowledge for fear of being wrong or misleading someone. It's a classic case of impostor syndrome.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes, this is a common situation for me. I've been in discussions where I had an idea about what might be causing a problem, but I held back because the people in the room had more experience. I assumed their approach must be correct and I didn't want to look foolish by questioning it. The outcome was a lesson for me: while experience is valuable, I also need to trust my own judgment and speak up, even if I'm the most junior person in the room. The worst that can happen is that I'm wrong and I learn something new.
 ```
 
 ---
