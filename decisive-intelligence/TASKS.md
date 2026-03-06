@@ -76,7 +76,7 @@ ONLY after Director signs off on the screenplay. Rebuild all EC image prompts us
 
 | # | Task | Status | Notes |
 |---|------|--------|-------|
-| 4.1 | Rebuild EC_01 — Cover + Chaos (Slides 0-13) | ⏸ ON HOLD | Partially done in previous sessions. Paused per Director's orders. |
+| 4.1 | Rebuild EC_01 — Cover + Chaos (Slides 0-13) | ✅ DONE | Slides 0-7 preserved (Nolan-grade). Slides 8-13 rebuilt: P2 Scarecrow (2), P3 New Suit (1), P4 Mob/Pencil (3). Full DP angle. |
 | 4.2 | Rebuild EC_02 — Paralysis + Framework (Slides 14-25) | ☐ PENDING | |
 | 4.3 | Rebuild EC_03 — Clarity (Slides 26-43) | ☐ PENDING | |
 | 4.4 | Rebuild EC_04 — Courage (Slides 44-68) | ☐ PENDING | |
