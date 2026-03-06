@@ -64,9 +64,9 @@ Rewrite the EP2 Extended Cut screenplay from scratch. Full TDK coverage. Every s
 | 3.5 | Act 3: COMMITMENT — M1-M7 (26 panels) | ✅ DONE | Money burn (3), Letter (2), Hospital speech ★ (6), Walk-away (3), Sonar ★ (2), Revenge (3), Ferry ★ (5) |
 | 3.6 | Act 4: MOVEMENT — V1-V4 (22 panels) | ✅ DONE | Prewitt (4), Ace in Hole (3), Two-Face last stand (4), Dark Knight ★ (6) + montage (4) + ride (1) |
 | 3.7 | Closing: Cost + Arkham + Bane — X1-X3 (10 panels) | ✅ DONE | Pillar cards (3), Joker prophecy (4), Bane tease (3) |
-| 3.8 | Post-Credits: "This Was the Crisis" (~55-65 panels) | ☐ PENDING | Jack (Joker), Harvey breaks, Bruce takes fall. From treatment doc. Placeholder in screenplay. |
+| 3.8 | Post-Credits: "This Was the Crisis" (25 panels) | ✅ DONE | Cold Open (3), CLARITY (4), COURAGE (4), COMMITMENT (5), MOVEMENT (6), Closer (3). Jack (Heath Ledger), full character blocks. |
 | 3.9 | Transition Cards (6 slides) | ✅ DONE | CLARITY/COURAGE/COMMITMENT/MOVEMENT + audience + closer |
-| 3.10 | **Director review + consensus on full screenplay** | ☐ BLOCKED | Blocked on 3.8 (post-credits) |
+| 3.10 | **Director review + consensus on full screenplay** | ⏳ AWAITING SIGN-OFF | All scenes complete. ~165 panels across 30 TDK scenes + 25 post-credits panels + 6 transition cards. |
 
 ---
 

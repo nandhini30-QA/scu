@@ -2628,15 +2628,523 @@ BANE (TEASE) FULL DESCRIPTION:
 ---
 
 # POST-CREDITS: "THIS WAS THE CRISIS"
-*See: `EP2_Post_Credits_Treatment.md` for full treatment*
+*The workplace parallel. Same actors. Same framework. One new face with a smile that changed everything.*
 
-> **Format:** ~25 story slides + 6 transition cards
-> **Characters:** Bruce (Bale), Harvey (Eckhart), Rachel (Gyllenhaal), Alfred (Caine), Gordon (Oldman), Fox (Freeman), Jack (Heath Ledger as workplace Joker)
-> **Tone:** Starts dark, ends warm. Per Director's order.
-> **Structure:** Workplace parallel of TDK — project crisis tests all four pillars. Jack (Joker) disrupts. Harvey takes shortcuts. Bruce takes the fall.
-> **Connection:** EP1 post-credits characters return. Jack is NEW.
+> **Format:** 25 story panels + 6 transition cards
+> **Tone:** Starts dark, ends warm. (Decision #6)
+> **Connection:** Direct sequel to EP1 EC post-credits ("Your First Year")
+> **Source:** `EP2_Post_Credits_Treatment.md`
 
-*[Post-Credits screenplay to be written from treatment document — Task 3.8]*
+---
+
+## COLD OPEN: THE EMERGENCY
+
+---
+
+### Panel PC.1 — THE ALL-HANDS
+**Composition:** Modern conference room, early morning. Same office from EP1 post-credits — glass walls, city view, whiteboards, clean lines. Seven people present: Bruce, Ra's, Alfred, Gordon, Harvey, Rachel, Fox. Screens behind them show charts going the wrong direction — red arrows, declining metrics. Every face is tense. Coffee cups forgotten on the table. The room from EP1 where the framework was LEARNED is now the room where it gets TESTED.
+
+**Character Block:**
+```
+BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw, blue eyes, dark brown hair neatly styled, athletic build, 6'0"
+- Costume: Navy blue (#1B2A4A) blazer over white dress shirt, no tie, dark trousers, leather shoes. Professional but approachable — a team lead, not a CEO
+- Expression: Alert, concerned, reading the room
+- Action: Seated at conference table, leaning forward, hands clasped
+- Position: Mid-table, facing the screens
+
+RA'S AL GHUL / HENRI DUCARD (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Liam Neeson, Caucasian Irish man, late 50s, grey-streaked brown hair swept back, intense blue eyes, tall lean build, 6'4"
+- Costume: Charcoal (#333333) suit jacket, white dress shirt, no tie — same as EP1. The leader who doesn't need the tie to command the room
+- Expression: Grave, controlled — he knows what's coming
+- Action: Standing at the head of the table, hands on the back of his chair
+- Position: Head of table, standing, authority posture
+
+ALFRED PENNYWORTH (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Michael Caine, Caucasian British man, mid-60s, thinning grey hair, warm blue eyes, kind weathered face, dignified posture, 5'10"
+- Costume: Light grey (#B0B0B0) cardigan over white shirt, reading glasses on a chain around neck. The calm presence.
+- Expression: Watchful, reading the room's temperature
+- Action: Seated, coffee in hand, observing
+- Position: Near Bruce, one seat over
+
+JIM GORDON (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Gary Oldman, Caucasian man, late 40s, brown-grey hair, glasses, mustache, medium build, 5'9"
+- Costume: Blue (#3A5BA0) button-down shirt, sleeves rolled to forearms, khakis. The dependable peer.
+- Expression: Steady, ready, awaiting the briefing
+- Action: Seated, notebook open, pen ready
+- Position: Across from Bruce
+
+HARVEY DENT (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Aaron Eckhart, Caucasian man, late 30s, square jaw, blond hair neatly parted, bright blue eyes, confident posture, 6'0"
+- Costume: Navy (#1A237E) suit, white dress shirt, blue tie — polished, ambitious, the guy everyone expects to be promoted next
+- Expression: Already problem-solving, confident
+- Action: On his feet, reading the screens, ready to propose solutions
+- Position: Standing near the screens, slightly apart from the table
+
+RACHEL DAWES (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Maggie Gyllenhaal, Caucasian woman, mid-30s, dark brown hair pulled back loosely, warm brown eyes, slender build, 5'9"
+- Costume: Dark green (#2D4A2D) blouse, black trousers, reading glasses pushed up on head. Smart casual, sharp.
+- Expression: Already triaging mentally, laptop open
+- Action: Seated, laptop open, scanning data
+- Position: Beside Bruce, slightly leaned toward her screen
+
+LUCIUS FOX (WORKPLACE) FULL DESCRIPTION:
+- Face & Body: Morgan Freeman, African American man, late 60s, grey hair close-cropped, warm brown eyes, dignified bearing, 6'2"
+- Costume: Dark charcoal (#2B2B2B) three-piece suit, burgundy pocket square, reading glasses. Impeccable — the senior technical advisor
+- Expression: Calm, assessing, already three steps ahead
+- Action: Seated at the far end, reviewing printed architecture docs
+- Position: End of table, the quiet authority
+```
+
+**Caption:** "Six months after 'Your First Year.' The team had found its rhythm."
+
+**Ra's (standing):** "I'll be direct. Meridian has a new point of contact. He's reviewed everything we've delivered. He's... not happy."
+
+---
+
+### Panel PC.2 — JACK ARRIVES
+**Composition:** Conference room door opens. A man walks in. Heath Ledger — slim-cut charcoal suit, no tie, top button undone, shirt slightly untucked at the back. Hair neat but with a deliberate carelessness. He smiles at the room like he already knows everyone's name. Walks to the head of the table — Ra's' end — and sits. Leans back. Drapes one arm over the empty chair beside him. He OWNS the space immediately. The team tenses.
+
+**Character Block:**
+```
+JACK (WORKPLACE JOKER) FULL DESCRIPTION:
+- Face & Body: Heath Ledger, Caucasian man, late 20s-early 30s, lean build, 6'1". NO scars. NO makeup. Clean-shaven, angular jawline, dark blond hair with deliberate carelessness — neat but one gesture from messy. Light stubble. Eyes that are always watching more than they appear to
+- Costume: Charcoal (#3A3A3A) slim-cut suit jacket, white (#FFFFFF) dress shirt with top button undone and collar open, NO tie, shirt slightly untucked at the back. Dark trousers, brown leather shoes. The suit fits perfectly but he wears it like he doesn't care
+- Expression: Pleasant, curious, a smile that says "I already know the answer, I'm curious if YOU do"
+- Action: Sitting down at head of table, leaning back, one arm draped over empty chair
+- Position: Head of table, opposite Ra's, instantly commanding
+```
+
+**Jack:** "Hi. I'm Jack. I'll be your new point of contact."
+
+*(Beat.)*
+
+**Jack:** "I've read everything you've sent us. Impressive documentation. Beautiful slide decks."
+
+*(Smile.)*
+
+**Jack:** "Now — what did you actually BUILD?"
+
+**Caption:** "He didn't raise his voice. He didn't need to."
+
+---
+
+### Panel PC.3 — THE SCALE
+**Composition:** Same room, tighter. Harvey is already on his feet — confident, solution-oriented, exactly the golden boy everyone expects. Bruce studies the screens, calculating scope. Rachel has her laptop pivoted, triaging priorities. Alfred watches quietly from his chair. And Jack — Jack is watching HARVEY. Studying him the way a chess player studies an opponent's opening move.
+
+**Jack (to Harvey, amused):** "I like the energy. Let me ask you something — did you build the original scope, or did you inherit it?"
+
+**Harvey (caught off guard):** "...I inherited it."
+
+**Jack:** "So you're sprinting toward someone else's promise. Interesting."
+
+**Ra's (cutting in, looking at Bruce):** "Bruce. You led the original delivery. This is yours."
+
+**Caption:** "The first crisis always looks like a project problem. It isn't. Sometimes it looks like a person."
+
+---
+
+## ACT 1: CLARITY — Seeing What It Really Is
+
+---
+
+### Panel PC.4 — JACK'S FIRST MEETING
+**Composition:** Conference room, different day. Jack has called a "quick sync" — but it's an interrogation. The team's project plan is on the screen behind him, annotated with red handwritten-style marks — Jack's notes. Each red mark is a gap, a question, a "who asked for this?" The team sits around the table. Jack stands at the screen, gesturing casually. The room's energy is tight.
+
+**Character Block:**
+```
+JACK (WORKPLACE JOKER) FULL DESCRIPTION:
+[Same as PC.2]
+- Expression: Genuinely curious — each question is real, not performative
+- Action: Pointing at the screen, gesturing at the red-marked sections
+- Position: Standing at the screen, the team seated before him
+```
+
+**Jack:** "This feature here — who asked for it?"
+
+**Harvey:** "It was in the original requirements."
+
+**Jack:** "Right. But who ASKED for it? Which person? What problem were they solving?"
+
+*(Silence.)*
+
+**Jack (leaning back against the screen):** "Do I really look like a guy who reads scope documents? I read RESULTS. Show me what you built. Not what you planned."
+
+**Caption:** "He wasn't wrong. That was the problem."
+
+---
+
+### Panel PC.5 — THE REAL PROBLEM
+**Composition:** Quiet table in a break area. Bruce and Rachel, side by side, a printout between them. Rachel has annotated it: LEFT column = "What we promised Meridian," RIGHT column = "What we actually built." The gap isn't technical. It's that the scope was wrong from the start. Jack didn't create the gap. He held up a mirror.
+
+**Rachel:** "Bruce. Jack's not the problem. He's the MIRROR. This isn't a 72-hour rebuild. This is a scope problem that's been invisible for months. Harvey's sprint plan delivers the wrong thing faster."
+
+**Caption:** "CLARITY isn't seeing everything. It's seeing what MATTERS."
+
+---
+
+### Panel PC.6 — ALFRED'S STORY
+**Composition:** Break room. Low light. Bruce and Alfred at a small table. Two coffee cups. The same quiet energy as the Burma story — different setting, same weight. Alfred's eyes are distant for a moment, remembering someone from years ago.
+
+**Character Block:**
+```
+ALFRED PENNYWORTH (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Thoughtful, remembering — he's seen this shape of person before
+- Action: Both hands around coffee cup, speaking from experience
+- Position: Across the small table from Bruce, intimate, low light
+```
+
+**Alfred:** "I worked with someone like Jack once. Twelve years ago. Everyone hated him. He asked the questions no one wanted to hear. He didn't care about being liked — he cared about being RIGHT."
+
+**Alfred:** "And the thing is... he usually was."
+
+**Bruce:** "So how do you work with someone like that?"
+
+**Alfred:** "You stop trying to manage him. You start listening to what he's actually saying. The uncomfortable questions are the ones you need most."
+
+---
+
+### Panel PC.7 — ★ CLARITY NAMED
+**Composition:** Conference room. Bruce at a whiteboard. He's drawn two paths in marker: "WHAT JACK IS ASKING FOR" (green arrow) and "WHAT WE PROMISED" (red arrow). The paths DIVERGE. He's circled the gap — a wide space between the lines. Harvey is in the room, arms crossed, jaw tight. Gordon nods slowly. Fox watches from the corner. This is Bruce naming the problem.
+
+**Bruce:** "Jack's not trying to kill this project. He's trying to see if it's real. We're not behind — we're pointed in the wrong direction. The sprint doesn't fix this — honesty does."
+
+**Caption Box — PILLAR CARD:** ★ **CLARITY:** *Not managing the noise. Understanding the nature of the problem. "Some problems can't be outrun. They have to be named."*
+
+---
+
+## ACT 2: COURAGE — Saying It Anyway
+
+---
+
+### Panel PC.8 — HARVEY'S OBJECTION
+**Composition:** Office hallway. Harvey and Bruce, face to face. Harvey's posture is defensive — he's already told Jack they'll deliver in 72 hours. His reputation is on the line. Jack praised Harvey's "bias for action" personally. Pulling back now makes Harvey look bad in front of the one person who noticed him.
+
+**Character Block:**
+```
+HARVEY DENT (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Frustrated, defensive — his credibility is at stake
+- Action: One hand on hip, the other gesturing, facing Bruce
+- Position: Hallway, face-to-face, close quarters
+
+BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Calm, firm — he knows this will cost their friendship
+- Action: Standing still, hands at sides, making eye contact
+- Position: Opposite Harvey, neither backing down
+```
+
+**Harvey:** "Jack respects speed. He TOLD me that. If we go back and say we scoped it wrong, that's MY credibility — with the one client contact who actually took me seriously."
+
+**Bruce:** "Harvey. Jack's not respecting your speed. He's watching to see if you'll promise something you can't deliver. And you just did."
+
+---
+
+### Panel PC.9 — RA'S WATCHES
+**Composition:** Ra's in his office. Glass wall. Through the glass: the hallway where Bruce and Harvey are having their confrontation. Ra's can see the tension — the body language, the gestures. He does NOT intervene. His hands are clasped behind his back. He's letting Bruce lead. The glass wall = the barrier between mentorship and interference.
+
+**Character Block:**
+```
+RA'S AL GHUL (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Watchful, restrained — he WANTS to step in, he chooses not to
+- Action: Standing at glass wall, hands clasped behind back, observing
+- Position: Inside his office, looking through glass at the hallway
+```
+
+**Caption:** "Ra's could have stepped in. He chose not to. Some lessons can only be learned in the field."
+
+---
+
+### Panel PC.10 — THE CALL
+**Composition:** Conference room. Bruce across the table from Jack. Face to face. The room is loaded: Harvey against the wall, arms crossed, jaw set. Rachel beside Bruce, steady. Gordon at the door, ready. Jack is leaned back, fingers steepled, LISTENING. Not hostile. Not friendly. Curious. The table between them is the battlefield.
+
+**Character Block:**
+```
+JACK (WORKPLACE JOKER) FULL DESCRIPTION:
+[Same as PC.2]
+- Expression: Interested — genuinely watching to see what Bruce will do
+- Action: Leaned back, fingers steepled, studying Bruce
+- Position: Across the table, the client's seat, the power position
+
+BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Steady — the cost is calculated and accepted
+- Action: Seated, hands flat on table, direct eye contact with Jack
+- Position: Across from Jack, Rachel beside him
+```
+
+**Bruce:** "Jack. The timeline Harvey promised was based on a scope that doesn't match what you actually need. We can deliver what was promised in 72 hours — but it won't solve your problem. Or we can take five days, rescope WITH you, and build what you actually need."
+
+**Jack stares at Bruce for a long beat.**
+
+**Jack:** "Everyone else would have just delivered the 72-hour version and hoped I didn't notice."
+
+*(Leans forward.)*
+
+**Jack:** "Five days. Show me something real."
+
+**Caption:** "The Joker doesn't reward bravery. He ACKNOWLEDGES it. There's a difference."
+
+---
+
+### Panel PC.11 — ★ COURAGE NAMED
+**Composition:** After the meeting. Jack has left. Harvey has left — his chair pushed back hard, a statement. Bruce sits alone in the conference room. The whiteboard behind him still shows the diverging paths. Rachel appears at the doorway. A hand on the doorframe. The quiet after the storm.
+
+**Rachel:** "That took guts. Saying that to Jack's face."
+
+**Bruce:** "Jack wasn't the hard part. Harvey was."
+
+**Rachel:** "You didn't do it for Harvey. You did it because it was right."
+
+**Caption Box — PILLAR CARD:** ★ **COURAGE:** *Not knowing if you'll be thanked. Doing it because it's right. "The choice that no one else can make. The right choice."*
+
+---
+
+## ACT 3: COMMITMENT — What Holds, What Breaks
+
+---
+
+### Panel PC.12 — HARVEY'S TURN
+**Composition:** Two days later. Harvey's desk, late evening. His screen shows a project document with sections marked "TBD — skip for now" in yellow highlights. He's cutting corners on technical validation — "Jack won't test for that." His phone screen is visible: a Slack DM thread with JACK. Direct messages. Going around Bruce. The golden boy finding a shortcut.
+
+**Caption:** "Harvey didn't disagree with the rescope. He disagreed with doing it THOROUGHLY. And Jack... Jack had given Harvey his direct number."
+
+---
+
+### Panel PC.13 — THE SHORTCUT
+**Composition:** Team room. Harvey presents. His plan is on the screen — elegant, streamlined, THREE days instead of five. The team looks impressed. Except Fox, who's leaning forward, reading the fine print on the screen, glasses pushed down his nose.
+
+**Character Block:**
+```
+LUCIUS FOX (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Concerned — reading what's NOT on the screen
+- Action: Leaning forward, glasses pushed down, studying the plan
+- Position: Seated at the table, the detail reader
+
+HARVEY DENT (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Confident, charming, selling it
+- Action: Standing at the screen, gesturing at the timeline
+- Position: Presenting, commanding the room
+```
+
+**Fox:** "Harvey. You've skipped the load testing."
+
+**Harvey:** "Jack doesn't care about load testing. He cares about features. I asked him."
+
+**Fox:** "You asked the client what TESTING to skip? And when the system breaks under load?"
+
+**Harvey:** "We'll fix it then. Jack said he'd rather see something working than something perfect."
+
+**Caption:** "Jack didn't TELL Harvey to cut corners. He just made it feel like the smart move. 'I'd rather see something working.' The little push."
+
+---
+
+### Panel PC.14 — FOX DRAWS THE LINE
+**Composition:** Private office. Fox and Bruce. Fox has printed Harvey's plan — the skipped sections highlighted in red marker. He holds it like evidence. His expression is calm but immovable.
+
+**Fox:** "This is elegant. And it'll break under real load inside of six weeks. Harvey says Jack approved skipping it. Jack didn't approve anything — he just didn't object. There's a difference."
+
+**Bruce:** "Can we add the testing back in and still hit Harvey's timeline?"
+
+**Fox:** "No. It's three days OR it's right. Not both."
+
+**Bruce:** "Then it's right."
+
+**Fox (small nod):** "That's the answer I was hoping for."
+
+**Caption Box — PILLAR CARD:** ★ **COMMITMENT:** *Drawing the line. Holding it. Even when the shortcut is tempting. "Beautiful. Efficient. Dangerous."*
+
+---
+
+### Panel PC.15 — HARVEY BREAKS
+**Composition:** Coffee shop near the office. Harvey and Jack, one-on-one. Harvey's laptop open, showing his three-day plan. Jack sits across from him — that lean-back posture, the studying smile. Harvey is animated, charming, pitching. He doesn't realize he's being studied.
+
+**Character Block:**
+```
+JACK (WORKPLACE JOKER) FULL DESCRIPTION:
+[Same as PC.2]
+- Costume: Same charcoal suit, now with a dark scarf loosely draped — off-site meeting energy
+- Expression: The chess player watching an opponent who thinks he's winning
+- Action: Leaned back, coffee untouched, watching Harvey present
+- Position: Across the coffee shop table, relaxed, dominant
+
+HARVEY DENT (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Expression: Eager, performing, not seeing the trap
+- Action: Animated, gesturing at the laptop screen, selling
+- Position: Leaned forward, laptop between them
+```
+
+**Jack:** "I like this. This is what I was hoping to see from your team."
+
+**Harvey:** "Bruce is being cautious. The five-day plan is his. This" — *(taps screen)* — "this is what we can ACTUALLY do."
+
+**Jack (studying Harvey):** "So there's two plans. And you're bringing me the one your lead doesn't know about."
+
+**Harvey (beat — realizes what he just did, pushes past it):** "I'm bringing you the one that WORKS."
+
+**Caption:** "Harvey didn't break all at once. Jack didn't push him. He just held the door open. And Harvey walked through."
+
+---
+
+### Panel PC.16 — THE FALLOUT
+**Composition:** Team room. Bruce stands still, absorbing the news. Ra's is in the doorway — he's been called in. Rachel looks stricken. Gordon is quiet, hands in pockets. Harvey is NOT in the room.
+
+**Rachel:** "Harvey told Jack the five-day plan was YOUR caution and the three-day plan was the team's real recommendation. Jack accepted the three-day plan. On record."
+
+**Bruce (long beat, then quiet):** "Okay."
+
+**Caption:** "When someone you trust breaks, the instinct is to fight. Bruce chose to keep building."
+
+---
+
+## ACT 4: MOVEMENT — Showing Up Anyway
+
+---
+
+### Panel PC.17 — THE THIRD DAY
+**Composition:** Day 3. The office is split. Harvey's half of the team is prepping demo slides — polished, fast, confident. Bruce's half is still coding — exhausted, after-hours work, Fox reviewing architecture, Gordon testing. Bruce has dark circles. Two versions of the same project. One built fast, one built right. On the screen: a calendar invite from Jack — "Demo Day — looking forward to it."
+
+**Caption:** "Harvey shipped fast. Bruce built right. Now the question was which one Jack actually wanted."
+
+---
+
+### Panel PC.18 — THE DEMO BREAKS
+**Composition:** Conference room. Jack in person, at the head of the table. His posture — leaned back, watching, the smile present but neutral. Harvey presents. It starts strong: smooth interface, clean slides, features clicking into place. Jack nods, takes notes. Then Jack does something: he leans forward and says, very casually, "Let's see how it handles real traffic." The load simulation begins. The metrics spike. The interface FREEZES. Then crashes. Live. In front of Jack. Harvey's face falls — the mask cracking.
+
+**Jack (quiet, almost gentle):** "You know what's interesting? The guy who built this" — *(gestures at the broken screen)* — "is the same guy who promised me three days. And the guy who said five days is sitting right there."
+
+**Jack looks directly at Bruce.**
+
+**Jack:** "What do YOU have?"
+
+**Caption:** "Jack knew. He always knew. He was waiting to see who would say it first."
+
+---
+
+### Panel PC.19 — BRUCE STEPS IN
+**Composition:** Bruce stands. Calm. Walks to the screen. Pulls up HIS version — the one he and Fox and Gordon built after hours. The interface loads. Clean. Stable. Jack leans forward for the first time in the meeting. Bruce runs the load test. The metrics rise. Hold. Stabilize. It WORKS. Rachel watches from the doorway, one hand on the frame.
+
+**Bruce:** "This is the version that was built right. It took longer. It'll hold."
+
+**Jack (long look at Bruce):** "Why didn't you show me this first?"
+
+**Bruce:** "Because Harvey's plan was the team's commitment. I wasn't going to undermine my own team in front of the client."
+
+**Jack (something shifts in his expression — respect, maybe):** "Interesting."
+
+**Caption:** "He didn't say 'I told you so.' He didn't have to."
+
+---
+
+### Panel PC.20 — BRUCE TAKES THE FALL
+**Composition:** Ra's' office. After the demo. Three men: Ra's behind his desk, Bruce and Harvey in chairs across from him. Jack has left. Harvey's face is ashen — his reputation exposed. Ra's looks at both of them. The glass wall behind Ra's shows the empty conference room, the screens dark.
+
+**Ra's:** "Jack called me. He wants to go with Bruce's version. But he also said something else — he said Harvey 'has potential but needs to learn the difference between speed and substance.' If that gets back to the team, Harvey's done here."
+
+**Bruce (beat):** "Tell Jack it was a miscommunication in project management. My fault. I should have aligned the team better. Harvey was executing what he thought was the plan."
+
+**Harvey stares at Bruce.** He knows what just happened. His eyes are wet.
+
+**Caption:** "He took the blame. Not because Harvey deserved it. Because the team needed Harvey to still be Harvey."
+
+---
+
+### Panel PC.21 — JACK'S LAST WORD
+**Composition:** Office lobby. End of day. The light through the glass doors is golden — sunset. Bruce is walking out, bag over shoulder. Jack is in the lobby, putting on his coat — the same dark coat, deliberate carelessness. They're alone. Jack turns and looks at Bruce. The smile is different now. Warmer. Almost human. Two men who tested each other and found something real.
+
+**Character Block:**
+```
+JACK (WORKPLACE JOKER) FULL DESCRIPTION:
+[Same as PC.2]
+- Costume: Same suit, now with a dark overcoat being put on
+- Expression: DIFFERENT — warmer, almost human, the mask dropped for one moment
+- Action: Putting on coat, pausing at the door, turning to Bruce
+- Position: Lobby, near the exit, golden sunset through glass
+
+BRUCE WAYNE (WORKPLACE) FULL DESCRIPTION:
+[Same as PC.1]
+- Costume: Same blazer, slightly rumpled from the long day, bag over shoulder
+- Expression: Tired but centered — the cost accepted
+- Action: Walking toward exit, stopping when Jack speaks
+- Position: Lobby, a few feet from Jack
+```
+
+**Jack:** "You know what I do, right? I come in, I shake the tree, I see what falls. Most teams? The guy with the shortcut blames the guy with the plan. The guy with the plan lets him. Everyone protects themselves."
+
+*(Beat.)*
+
+**Jack:** "You did the opposite. You protected the guy who went behind your back."
+
+**Bruce:** "He's worth protecting."
+
+**Jack (putting on coat, heading for the door):** "That's what makes you dangerous, Bruce. Not the work. The fact that you'll take the hit and show up tomorrow."
+
+*(He pauses at the door. Looks back.)*
+
+**Jack:** "We're going to work together for a while, I think."
+
+**Caption:** "The Joker didn't lose. He found what he was looking for: someone whose framework was real."
+
+---
+
+### Panel PC.22 — ★ MOVEMENT NAMED
+**Composition:** Next morning. Bruce walks into the office. Same entrance as EP1's first day — but the walk is heavier, slower. He's the one who "messed up" in Jack's official report. Across the room, Harvey sees Bruce arrive. Harvey nods — a complicated nod. Gratitude and shame mixed. It's not forgiveness. It's acknowledgment.
+
+Alfred is at the coffee machine. He sees Bruce. Small smile. He already knows.
+
+**Alfred:** "You know what they'll say about you."
+
+**Bruce:** "I know what the team needs."
+
+**Alfred:** "The ones who stay are the ones who show up tomorrow. Even when yesterday cost them everything."
+
+**Caption Box — PILLAR CARD:** ★ **MOVEMENT:** *It fell apart. Someone had to take the hit. You showed up anyway. "I'm whatever this team needs me to be."*
+
+---
+
+## CLOSER: BOTH WORLDS
+
+---
+
+### Panel PC.23 — THE OVERHEAD
+**Composition:** Bird's-eye view of the office — same angle as EP1 overhead shot. The team at work: Bruce at his desk, focused. Harvey across the room, head down, working harder than before. Rachel between them, bridging. Gordon on a call, steady hand. Fox reviewing architecture docs with reading glasses. Alfred walks past Bruce's desk and sets down a coffee — without a word. No celebration. Just work. The framework held. The team survived.
+
+**Four caption boxes (corners of frame):**
+> "See what matters."
+> "Say it anyway."
+> "Hold the line."
+> "Show up tomorrow."
+
+---
+
+### Panel PC.24 — S.P. EASTER EGG + JACK'S CARD
+**Composition:** Close-up of Bruce's desk. The familiar post-it note from EP1: *"SP's first rule: Focus on what matters. — Alfred."* Next to it, a NEW post-it in different handwriting: *"SP's second rule: The crisis isn't the enemy. Your shortcuts are. — Fox."*
+
+Below the post-its: a framed photo — the team from EP1. All smiling. Before the crisis. And next to it: a business card. White. Minimal. Just a name. No title. No company. No phone number.
+
+Just: **JACK.**
+
+**WHAT NOT TO DRAW:** Do not draw any company logo, phone number, or title on the business card. It is deliberately bare — just the name.
+
+---
+
+### Panel PC.25 — RA'S' NOD
+**Composition:** End of day. Office emptying. Ra's stands at his glass wall, looking out at the city — sunset, warm golden light. Bruce passes by in the background, bag over shoulder, heading home. Ra's catches his eye through the glass. Doesn't speak. Just... a nod. The same nod Gordon gave Bruce at the end of EP1. Recognition. The student has been tested. The student held.
+
+**Caption:** "Ra's taught the framework. Jack tested it. Bruce proved it."
+
+**Final caption (small, bottom of frame):**
+> "Six months later, Harvey would rebuild his reputation. Not with shortcuts — with work. And Jack? Jack moved on to his next engagement. Same smile. Same questions. Looking for the next team worth testing."
+
+---
+
+**[END POST-CREDITS]**
 
 ---
 
