@@ -152,25 +152,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+If I had to mention one specific person, it would be Nandhini, because she is always willing to learn and improve, both personally and professionally. I feel that whenever I am one step ahead in certain areas, I will be share my experience and help her learn or understand things better.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+This week, I could share with her how to better manage situations and be confident in the actions and decisions she takes. I would also help her recognize how much she has improved compared to before and encourage her to trust her growth. Since she is already capable of making decisions, I would guide her on how to take a stronger stand for those decisions, take ownership, and be bold in expressing her ideas and responsibilities
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+I didn’t always think my experience was enough to guide someone else. Since I am also still learning and growing, I sometimes felt that I might not give the perfect advice. Whenever someone specifically asked for my help or advice, I would share my thoughts. But in more general situations, I sometimes hesitated because I wondered how they would perceive my suggestion or whether they would take my advice seriously.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes, there have been times when I held back because I felt I wasn’t experience is not enough to guide someone. I thought that maybe someone with more experience on this would give a better explanation for a real time example will be in the automation. But looking back, I realized that even sharing what I already knew or how I approached a problem could have been helpful, especially for someone who was just starting.
 ```
 
 ---

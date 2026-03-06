@@ -320,3 +320,139 @@ The brutal truth: I've been treating my career like a product I'd never ship.
 I need to apply the same rigor to this test plan that I'd apply to production
 infrastructure.
 ```
+
+## PHASE 4: THE MENTOR MAP
+*From S2E4 — "You don't have to be an expert to help someone. You just have to be one step ahead."*
+
+### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
+
+```
+I'm one step ahead of my colleagues from my past organization and my friends
+from college.
+
+I'm also new to this company after my past organization, so I'm still building
+relationships here and proving myself. That's why I'm comparing with my past
+colleagues and college friends — people who started around the same time I did,
+but took different paths.
+
+Compared to my past organization colleagues:
+- They only worked with AWS. I worked with AWS there, and now I'm working
+  with GCP at my current company. I know both AWS and GCP.
+- They're still doing infrastructure work the traditional way. I'm now getting
+  into Vibe Engineering using Claude — stepping into the AI world and learning
+  how AI agents can assist with DevOps work.
+
+Compared to my friends from college:
+- They're software engineers, but they haven't gotten into cloud yet. They're
+  still focused on application development without infrastructure experience.
+- They don't know AWS, GCP, or cloud-native architectures.
+- They're not exploring Vibe Engineering or how AI is changing the way we
+  build and operate systems.
+
+I'm not comparing with junior engineers or freshers at my current company —
+that's not a fair comparison. I'm comparing with peers who started around the
+same time I did, but took different paths.
+
+I'm one step ahead because I deliberately expanded my scope:
+- From AWS-only to AWS + GCP (multi-cloud experience)
+- From pure infrastructure to infrastructure + AI-assisted workflows (Vibe
+  Engineering)
+- From waiting for tools to exploring how to build better with AI
+
+I'm growing into someone who can bridge multiple cloud platforms and integrate
+AI into DevOps workflows. I'm reaching higher by continuously expanding what
+I know and what I can build.
+```
+
+---
+
+### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
+
+```
+THIS WEEK, I could teach or share:
+
+1. **How to approach a GKE zonal-to-regional migration** — the exact steps I
+   followed, the gotchas I hit, what monitoring to check, how to ensure zero
+   downtime. I have real production experience doing this across 3 regions.
+
+2. **How to structure a POC effectively** — what to include, how to document
+   findings so the team can implement it without you, how to identify what
+   success looks like before you start.
+
+3. **How to work with senior mentors when you're learning** — how to use PR
+   reviews as learning opportunities, how to ask "why did you change this?"
+   instead of just accepting corrections, how to share ideas even when you're
+   not sure.
+
+4. **Cost analysis after infrastructure changes** — how I structured the
+   post-migration analysis, what metrics matter, how to present findings that
+   help the team make decisions.
+
+5. **Getting started with Vibe Engineering and Claude Code** — how to set it up,
+   how to use AI agents to assist with DevOps tasks, what I've learned so far
+   about working with AI in infrastructure work.
+
+I don't need months to prepare. I could sit down with someone THIS week and
+walk them through any of these based on what I just did.
+```
+
+---
+
+### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
+
+```
+I AM mentoring my junior teammates currently.
+
+Whenever they ask me doubts, if I know the answer, I guide them correctly.
+I'm new here, so I help them up to the level I know about the current
+infrastructure. Sometimes they call me even at night to resolve issues —
+even if I don't know the full solution, I guide them on how to approach the
+problem and whom to ask.
+
+I teach them debugging:
+- How to check logs and identify the root cause
+- How to narrow down where the issue is coming from
+- What questions to ask when they're stuck
+- How to break down complex problems into smaller steps
+
+I'm doing all of this up to the level I know.
+
+I will be more confident as I get to know more things. I think that confidence
+will come slowly — it's a process. The more I learn about the infrastructure
+and systems here, the more I can share and mentor others effectively.
+```
+
+---
+
+### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
+
+```
+Yes. "What if my advice goes wrong?" — I have this doubt.
+
+For juniors at my current company, experienced people are already guiding them.
+But I have small doubts about myself — am I telling them the correct thing or
+not? I know things, but I'm still new to this company.
+
+Here's how I handle it:
+
+I guide them when I know I'm completely right. I tell them answers that I know
+will work based on my experience. But if I don't know something, I step back
+immediately and ask them to check with someone else who has more context.
+
+I don't take risks with guidance I'm uncertain about.
+
+**What's happened so far:**
+
+Up to now, nothing has gone wrong in my guidance. When I've helped junior
+teammates, the solutions I provided worked. When I didn't know, I was honest
+about it and directed them to the right people.
+
+But Viktor's fear is real for me: "What if my advice is wrong?"
+
+That's why I'm careful. That's why I only guide when I'm confident. That's
+why I admit when I don't know.
+
+I'm learning and growing. As I learn more about this company's infrastructure
+and systems, my confidence in what I can guide on will grow too. It's a
+process — and I'd rather be cautious and helpful than overconfident and wrong.
+```

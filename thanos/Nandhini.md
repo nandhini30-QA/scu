@@ -157,25 +157,29 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+[Since I am the junior in the house I currently don’t have any juniors to mentor However, I can still describe the kind of person I would like to guide. At the same time, I feel that mentorship should not be limited only to juniors even seniors can sometimes benefit from another perspective While they may have already walked the path before I did I can still contribute by pointing out things like, “this might have been missed,” or “this could also have been approached in a different way.”
+
+Coming to the main point, when a fresher steps into the IT industry, they don’t need to be perfect from the beginning. What truly matters is having confidence in what they do, along with curiosity and passion for the work. Since I have gone through that stage myself, I can relate to it well. It is also important not to feel shy about asking questions or seeking to learn new things ]
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+[What I would teach them is to have an open mind to learn. There are so many things to explore, and they should be happy to learn from juniors, seniors, or anyone around them. If they have that mindset, they will naturally grow and shine.
+
+In the initial stage itself, I would also set some clarity about time management and encourage them to be confident in what they do. Another important thing I would emphasize is not to postpone the work that has been taken up. Whether it gets completed perfectly or not is okay, because even during the process there will be good progress and learning. So being clear about these things from the beginning will help, and the rest will fall into place smoothly.]]
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+[In the initial stage, what stopped me from mentoring or sharing was fear — especially the fear of being wrong. But now it is not the same anymore. From my experience, what I have gained is confidence. I realized that whatever I know, I should share, because it helps others learn as well. At the same time, it also gives me a chance to correct myself if I am wrong]
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+[No, I didn’t step back because of that. Yes, of course I had some fear, but it never stopped me from sharing or mentoring. Anyway, I continued to do it.]
 ```
 
 ---

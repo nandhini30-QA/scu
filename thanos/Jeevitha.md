@@ -165,27 +165,19 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
-```
-[Your answer]
-```
+I am one step ahead of the my sister. She is working as a Junior UI/UX designer. She is having 1 year of experience in that field. She is also working IT industry. She is interested in baking as well.
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
-```
-[Your answer]
-```
+This week, I want to teach her how to systematize her learning. I’ll show her how to stop 'mugging up' and start building a practical knowledge loop. Specifically, I’m going to push her to integrate AI into her work. Don’t just do manual tasks. build a project using AI tools to see how they can accelerate her delivery. I’ll help her set up a GitHub account and a LinkedIn presence. I want her to 'document in public'—to show in public what she’s building as she learns it. Learn continuously. I dont want her to make the same mistake i made when i was a fresher. I will tell her one main thing/moto," What we know is drop, what we dont know is Ocean".
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
-```
-[Your answer]
-```
+To be honest, it’s a bit of hindsight guilt. I look back at my own start and see the mistakes I made times I wasn't active on LinkedIn or didn't maintain a GitHub, and I think, 'Who am I to tell someone else to do it when I started late?' But I realize that my delay is a problem. I’ve seen the cost of not being visible, and I don't want her to pay that same price. I’ve had to overcome the fear that my advice isn't perfect, exper enough, realizing that being one step ahead is enough to save someone else a year of struggling.
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
-```
-[Your answer]
-```
+Yes. I’ve often held back because of the old saying, 'What we know is a drop; what we don't know is an ocean.' I used that as an excuse to stay silent, thinking, 'If I only know a drop, I should keep quiet.' But I’ve learned that for someone who is just starting, my 'drop' of experience is their 'lifeboat.' By holding back, I was actually being selfish with my lessons. Now, I understand that even if I don’t know the whole ocean, I can definitely show her how to swim in the part of the water we're in right now. But most of the times, i am bold enough to share my experiece and give advice to the people who are in need. I feel that i am good at advising / suggesting.
 
 ---
 

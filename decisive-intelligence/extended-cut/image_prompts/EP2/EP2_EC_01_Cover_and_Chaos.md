@@ -312,32 +312,33 @@ LEFT PANEL — STREET LEVEL, EYE HEIGHT:
 - The point: you cannot tell which bus is his. The robbery just vanished into a school run.
 - Morning light, grey sky, normal Gotham street with some parked cars on the sides
 
-RIGHT PANEL — BATMAN'S POV, LOOKING STRAIGHT DOWN:
-- CAMERA POSITION: Directly behind Batman's head and shoulders, looking STRAIGHT DOWN over the rooftop edge
-- Batman's cowl and cape visible in the TOP of the frame as a dark silhouette — he is the frame through which we see the street
-- FAR BELOW (the rest of the panel): the same street from above — a line of 4-5 yellow school buses moving away, tiny from this height
-- All the buses look identical from above — yellow rectangles in a row
-- Normal morning traffic around the buses — cars, pedestrians, crosswalks
-- The SAME moment as the left panel, different angle — connecting the two panels
+RIGHT PANEL — BATMAN ON ROOFTOP:
+- CAMERA POSITION: Behind Batman, slightly to his right, at his shoulder height
+- Batman standing upright at the rooftop edge, feet on the rooftop, back to viewer
+- He is looking DOWN at the street far below — his head tilted downward
+- Cape hanging behind him, still
+- Beyond the rooftop edge: the Gotham street visible far below, with the same line of yellow school buses driving away — tiny from this height
+- Morning grey sky behind the city buildings
 
 CHARACTER — BATMAN (RIGHT PANEL):
 BATMAN (PRISTINE) FULL DESCRIPTION:
 - Face & Body: Christian Bale, Caucasian man, mid-30s, strong jaw below cowl, intense eyes, 6'0"
 - Costume: Full black Batsuit — matte black (#0A0A0A) armoured plates, cape, cowl, gauntlets, belt, boots. Clean, undamaged.
-- Expression: NOT VISIBLE — we see only the back of his cowl and shoulders
-- Action: Leaning slightly forward over the rooftop ledge, looking straight down
-- Position: Right panel, TOP of frame only — head and shoulders. The street below fills the rest.
+- Expression: NOT VISIBLE — back to viewer
+- Action: Standing upright at rooftop edge, feet planted, looking down at the street
+- Position: Right panel, foreground, standing normally, back to viewer
 
 TEXT OVERLAY:
-- Caption (dark navy) left panel: "He wasn't just a criminal. He was a system."
-- Caption (dark navy) right panel: "Ra's had rules. This one had none."
+- Caption (dark navy) left panel ONLY: "He wasn't just a criminal. He was a system."
+- Caption (dark navy) right panel ONLY: "Ra's had rules. This one had none."
 
 WHAT NOT TO DRAW:
-- NO bus flying, jumping, or airborne — all buses are on the street, wheels on pavement
+- NO bus flying, jumping, or airborne — all buses on the street, wheels on pavement
 - NO dramatic explosion or debris — the wall hole is already there, just dust settling
-- NO Batman's face — we see only the back of his head from behind
-- NO Batman at street level — he is on a HIGH rooftop, the street is far below
+- NO Batman's face — back to viewer
+- NO Batman leaning, crouching, or inverted — he is standing UPRIGHT normally
 - NO high-angle camera in the left panel — left panel camera is at EYE LEVEL on the sidewalk
+- NO duplicate captions — each panel gets exactly ONE caption
 - NO desks, chairs, coffee cups
 
 STYLE: Photorealistic, cinematic, split. Full bleed to all edges. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
@@ -359,12 +360,13 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 SCENE: Gotham's financial district — multiple mob-connected banks hit in a single night. The criminal underworld's money supply destroyed.
 
 COMPOSITION:
-- WIDE ESTABLISHING — Gotham financial district, night/early morning
-- Three bank exteriors visible, all crime scenes — shattered glass, police tape, forensic teams
-- Yellow police tape crossing the foreground
-- Evidence markers scattered across sidewalks
-- In the background: mob bosses' vehicles torched in a parking structure, smoke still rising
-- The destruction is systematic, not random — every mob bank targeted
+- WIDE ESTABLISHING — ONE bank exterior, night/early morning
+- Gotham National Bank — shattered front windows, police tape across the entrance, forensic team in white suits working the scene
+- Yellow "POLICE LINE — DO NOT CROSS" tape crossing the foreground at knee height
+- Numbered evidence markers scattered across the sidewalk
+- In the background across the street: two mob vehicles torched and still smoking, fire truck nearby
+- Police cruisers with lights flashing, parked at angles along the curb
+- This is ONE crime scene at ONE bank — the aftermath of the heist from the previous scene
 
 ATMOSPHERE:
 - Methodical devastation — not chaos, but DESIGNED chaos
@@ -377,6 +379,9 @@ WHAT NOT TO DRAW:
 - NO named characters — forensic teams and police only
 - NO Joker visible
 - NO blood or graphic violence
+- NO multiple bank buildings — this is ONE bank, ONE crime scene
+- NO "BANK" text on more than one building
+- NO visible text other than police tape and the watermark
 
 STYLE: Photorealistic, cinematic, wide establishing. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```
@@ -392,20 +397,28 @@ Create a photorealistic, cinematic comic panel in 16:9 aspect ratio. Dark Knight
 
 SCENE: The Joker targets the institutions — judiciary and law enforcement, one after the other.
 
-LEFT PANEL — JUDGE SURILLO:
-- Courthouse steps, morning
-- A charred vehicle at the curb, still smoking — JUDGE SURILLO's car, bombed
+LEFT PANEL — JUDGE SURILLO'S CAR:
+- Courthouse exterior, DAYTIME — bright midday sun, clear sky
+- A charred Mercedes-Benz at the curb, still smoking — JUDGE SURILLO's car, bombed
 - Driver's door blown open, forensic team working the blast zone
-- Courthouse behind: imposing marble, American flag at half-mast
-- Courthouse staff behind the tape, shocked
-- A small CHESS PIECE detail: a gavel-shaped piece on the courthouse step — placed, not accidental
+- Courthouse behind: imposing marble columns, American flag
+- Police tape and officers securing the perimeter
+- A small CHESS PIECE visible on the courthouse step — a gavel-shaped piece, placed deliberately
 
-RIGHT PANEL — COMMISSIONER LOEB:
-- GCPD Commissioner's office — dark wood paneling, American flag, commendations on wall
-- Commissioner LOEB slumped forward at his desk, glass of whiskey still in hand, face grey
-- Officers rushing through the door, one calling for medics
-- Whiskey bottle on desk with evidence marker already placed
-- He's been POISONED — the Joker got to the supply chain
+RIGHT PANEL — COMMISSIONER LOEB'S OFFICE:
+- GCPD Commissioner's office, DAYTIME — sunlight through blinds
+- Dark wood paneling, American flag, commendations on wall
+
+CHARACTER — COMMISSIONER LOEB (RIGHT PANEL):
+- Face & Body: Colin McFarlane, Black British man, late 50s, heavy build, clean-shaven, grey hair, 6'2"
+- Costume: GCPD Commissioner dress uniform — dark navy, gold badge, collar insignia
+- Expression: Face grey, eyes glazed — mid-collapse
+- Action: Slumped forward at his desk, glass of whiskey still in hand
+- Position: Behind his desk, center of the right panel
+
+SUPPORTING (RIGHT PANEL):
+- Lt. James Gordon (Gary Oldman) rushing through the doorway, face horrified, reaching toward Loeb
+- Whiskey bottle on desk — the source of the poison
 
 TEXT OVERLAY:
 - None — dual image, no dialogue. The devastation speaks.
@@ -413,7 +426,8 @@ TEXT OVERLAY:
 WHAT NOT TO DRAW:
 - NO Joker visible in either panel
 - NO graphic injury detail — implied through staging
-- NO desks other than Loeb's (it's his office)
+- NO nighttime lighting — BOTH scenes are DAYTIME
+- NO visible text other than the watermark
 
 STYLE: Photorealistic, cinematic, split. Full bleed. WATERMARK: "DI × SCU" bottom-left, nearly invisible, faded white.
 ```

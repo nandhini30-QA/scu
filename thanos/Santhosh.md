@@ -35,13 +35,13 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 ### Q1. List your top 5 accomplishments from the last 6 months.
 
 
-| #   | Accomplishment                                                                                                                                                                              |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Upskilled myslef in AI domain & leverage it in my day-day tasks.                                                                                                                            |
-| 2   | Moved to a new phase in my professional carrer Excited and exploring the new challanges.                                                                                                    |
-| 3   | I thought leveraging AI was tough and required more technical knowledge to use it, but after practicing daily, I now feel that we can use AI to learn AI and implement our ideas.           |
-| 4   | I thought I knew myself, but over the last six months, I have discovered different aspects of myself on various occasions. This is something I feel I should be more aware of going forward |
-| 5   | I have contributed to strengthening the QA team’s capabilities by sharing my L2 debugging knowledge and practices                                                                           |
+| #   | Accomplishment                                                                                                                                                                                                          |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Built the first version of a Playwright-based automation framework. I use it for my own regression testing now, and the QA team has started adding to the repo too. |
+| 2   | Got our Jenkins CI pipeline working and stable — tests run on every build now without someone having to manually kick them off. |
+| 3   | Made a few small QA tools (testcase management, workload tracker, automation reporting) because I was tired of doing the same manual stuff over and over. A couple of teammates use them too. |
+| 4   | Did some informal L2 debugging walkthroughs with QA teammates — showed them how I approach issues, what I look at first, shared real examples from recent incidents. |
+| 5   | Started using AI (Claude mostly) as part of how I actually work day-to-day — code reviews, trying out ideas, quick prototyping. It's not a side thing anymore, it's just how I work now. |
 
 
 ### Q2. Now be honest — for each one, mark it:
@@ -50,27 +50,33 @@ Coulson showed Daisy two agents. Same start date. Same effort. Different results
 - **B** = Built (it continues to create value without you actively doing it)
 
 
-| #   | C or B? | Why?                                                                                                                                                                                                                                                                                                                      |
-| --- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | C       | Its been a long term dream, Planned for 2 years saved, invsted, switched jobs to make it happen                                                                                                                                                                                                                           |
-| 2   | B       | Its an continous experience and where it woudld help me on a long term                                                                                                                                                                                                                                                    |
-| 3   | C       | Because Initially I did'nt know how AI works after learning few techniques and guidance I was easily able to articualte my thoughts and implement my ideas using AI                                                                                                                                                       |
-| 4   | B       | There are situations where i self doubted my self based on the situation, that created a cahos in my head (Is this who I am? all along) slowly exploring on this                                                                                                                                                          |
-| 5   | B       | Initially, I felt that although we had sufficient knowledge in L2 debugging, we were not producing the expected outcomes. This shaped the developers’ perception of the QA team. I wanted to change that perspective, so I gradually started guiding the team over the past two months. It has been a continuous journey. |
+| #   | C or B? | Why?                                                                                                                                                                                                                                                |
+| --- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | B       | The framework is there, someone else can pick it up. The folder structure, helpers, base specs — all reusable. They don’t need me to extend it. |
+| 2   | B       | Pipeline runs on its own. I tweak it sometimes but it doesn’t need me daily. People push code, get results, that’s it. |
+| 3   | B       | Simple tools but people keep using them. They sit in the repo, anyone can run them without me being in the room. |
+| 4   | C       | These were sessions, not systems. I helped people in the moment but didn’t document anything or record it. Once the call ended, the knowledge stayed with whoever was there. |
+| 5   | B       | This one’s more about how I think now. I default to pairing with AI on new problems. That habit sticks with me regardless of what project I’m on. |
 
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
 ```
-1. Taking care of my Bike & Car
-2. Though the AI can run the show where I left, But the base I built in the playwright would really matter a lot beacuse without the context even AI will halucinate.
-3. Honestly I can't think any of this beyond the above 2 points
+The Playwright framework and Jenkins pipeline would definitely still matter — someone can add test cases to the framework without starting over, and the pipeline just keeps running as long as the credentials don’t expire. The QA tools would still be in the repo too, maybe someone uses them, maybe not.
+
+The L2 walkthroughs? Probably not. I didn’t write anything down or record them, so whatever I shared in those sessions is gone unless the people who attended remember it.
+
+The AI stuff is weird to measure — it’s more that the decisions I made while working with AI (what to automate, how to structure things) are baked into the systems I left behind. But nobody would look at the code and say "oh this exists because Santhosh used AI."
 ```
 
 ### Q4. What is your career INTENTION right now? Not your job title. Not your task list. What are you actively, deliberately building?
 
 ```
-I'm not chasing the fancy title in my career, In the recent days due to the AI boom somedays I feel fear of losing the job, but at the same time I was learning rapdily where previously it takes months to build an app but now it takes days to do it, Right now I want to leverage the AI as much as possible in the QA world at the same time I have plans for leveraging the same in my personal life as well for ex: financial planning (For the reference I used AI to plan my Car budget and running budget and pre-closure efforts as well)
+Honestly, I want to stop being “the guy who runs tests” and become the guy who builds the systems that run the tests. That’s the shift I’m trying to make.
+
+Right now that looks like — building out the automation framework so the team can use it without me, getting comfortable with CI/CD end to end, and making AI just a normal part of how I work (not something I experiment with on the side).
+
+I also want to be the person people come to when they’re stuck on a hard debugging problem or need a small tool built. Not because I’m the expert on everything, but because I’ve been through enough of those situations.
 ```
 
 > **Gut check:** If you struggled to answer Q4, that IS the answer.
@@ -86,33 +92,45 @@ Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate �
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
 
-| D3O Stage                                                 | What YOU Did (be specific)                                                                | What SOMEONE ELSE Did |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- |
-| **Design** (deciding WHAT to build and WHY)               | Planned an application where we can Automate the L2 Screening completely using            | Nill                  |
-| **Develop** (building / executing it)                     | Used AI to plan & code the project                                                        | Nill                  |
-| **Deploy** (shipping / releasing / presenting it)         | Currently in the Testing phase and open for improvements                                  | Nill                  |
-| **Operate** (monitoring, learning from results, feedback) | After the 1st cut I'll deploy the application to the QA team and add the valuabe feedback | Nill                  |
+| D3O Stage                                                 | What YOU Did (be specific)                                                                                                                                                                       | What SOMEONE ELSE Did                                                                                   |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Design** (deciding WHAT to build and WHY)               | Noticed that L2 screening was taking a lot of manual time and was inconsistent between people. I wrote down the current steps, pain points, and decided to automate the repetitive checks first. | Got early feedback from one QA teammate on which parts of L2 screening slow them down the most.         |
+| **Develop** (building / executing it)                     | Built a Playwright-based prototype that can run through the basic L2 checks, used AI to help with boilerplate and code reviews, and iterated on the structure based on my own usage.             | used AI for validating the scenarios and edge cases                                                     |
+| **Deploy** (shipping / releasing / presenting it)         | Created a separate branch and demoed the tool informally to a teammate. I’m now packaging it so that it can run from Jenkins and be triggered with minimal setup.                                | I will need infra/DevOps support to hook this cleanly into our existing Jenkins jobs and environments.  |
+| **Operate** (monitoring, learning from results, feedback) | My plan (once it’s on Hellicarier) is to track how often the tool catches issues before manual L2, how much time it saves, and collect feedback from the QA team every 2–3 weeks.                | I expect the QA lead to help decide how this fits into our official process and which metrics we track. |
 
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
 ```
-Design & Develop (These are the areas where I beleive I have an upper hand, whereas with the Deploying & operate where to be specific the deployment world is a kind of grey area to me which I will learn eventually and if I become confident on the deployment, I can easily operate by gathering the pain point from the customer)
+Design and Develop — that’s where I’m comfortable. I can look at a messy manual process, figure out what to build, and get a working version out pretty fast especially with AI helping.
+
+Deploy and Operate are my weak spots, and I know it. I build stuff but then it sits on my branch or my machine. I don’t properly package it so others can use it without asking me. And I almost never go back to check if the thing I built is actually helping — I just assume it is and move on to the next thing.
+
+What I need to do (and keep not doing):
+- Actually pair with someone from DevOps on a real deployment instead of figuring it out alone
+- Write a “how to use this” doc even if it’s short
+- Check back with the team after a few weeks to see if the tool is actually being used
 ```
 
 ### Q7. Coulson told Daisy: "AI can do Develop-Deploy faster than any human now." What parts of YOUR work could AI do today? What parts require your judgment, your relationships, your context?
 
 ```
-1. Validating the information 
-2. Scanning the code & fetching the insights of the functionality (Need my judgement)
-3. Implementation of the ideas (Need my judgement)
+AI can already do a lot of what I spend time on — writing Playwright boilerplate, generating test cases from a feature description, drafting Jenkinsfile configs, even writing documentation. If I describe the scenario clearly enough, it gets me 70-80% there.
+
+But it can’t decide which L2 flows actually matter. That comes from me knowing which things broke last month, which customers complained, what the team can realistically handle. AI doesn’t know our system history — like when a weird error in the logs is actually expected because of how our environment is set up.
+
+And it definitely can’t sit in a room with the dev lead and negotiate what gets automated this sprint vs next. Or tell a junior teammate “don’t trust AI on this part, it’ll hallucinate the edge cases.” That’s still me.
 ```
 
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-1.Empowering the team by developing the tools/apps that can reduce their time on the daily basis
-2. 
+The L2 screening automation — Jan/Feb 2026. Nobody assigned it to me. I just got frustrated watching us repeat the same manual checks every single L2 investigation, so I started building it.
+
+I picked which parts to automate first, set up the project structure, figured out where AI could help with the code generation. Showed the early version to a teammate, got some feedback, and now I'm trying to get it stable enough to run from Jenkins.
+
+It's not done yet. But it's the first thing in a while where I went from "this is a problem" to "I'm going to build something" without waiting for someone to tell me to.
 ```
 
 ---
@@ -126,42 +144,45 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-In the next two years, I see myself growing into a Someone who strongly integrates AI into test engineering practices. My goal is to significantly upskill in AI-driven automation, including AI-assisted test generation, intelligent debugging, and smart test analysis. I want to contribute to building scalable AI-enabled testing frameworks that improve productivity and test coverage.
+In 2 years I want to be at a senior QA automation level — but what that actually means to me is:
 
-I also aim to take on greater technical ownership, guiding the QA team in adopting modern testing approaches that combine automation with AI capabilities. As new roles emerge in the organization around AI-driven quality engineering, I want to be well prepared to step into those opportunities.
+I want to own the automation and quality approach for at least one product end to end. Not just “write tests” but decide what we test, how we test it, what gets automated vs monitored. The L2 framework should be something the team actually relies on daily by then, not just my side project.
 
-Ultimately, my objective is to become someone who drives innovation in the QA space, helping the team move towards faster, smarter, and more efficient testing practices while contributing to the organization’s future technology direction.
+I should be comfortable with CI pipelines fully — setting them up, fixing them, not needing to ask DevOps for help every time something breaks.
+
+Basically when something new comes in, people should think “let's check with Santhosh on how to test this” instead of “let's assign Santhosh to test this.” There's a difference.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 
-| #   | Acceptance Criteria                                                                                                                                                                                                                | Current Status (Met / Partially / Not Met) |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 1   | I consistently leverage AI in most of my day-to-day engineering tasks and can clearly see a significant productivity improvement compared to how I worked six months ago.                                                          | partially met                              |
-| 2   | I am able to automate major parts of the **L2 debugging workflow**, reducing manual investigation time and improving the speed of root cause analysis.                                                                             | partially met                              |
-| 3   | I can independently design, build, and maintain **CI/CD pipelines (such as Jenkins)** using AI-assisted learning and development. The pipeline I built is currently running in production with minimal maintenance.                | Met                                        |
-| 4   | I actively use AI to improve **system design thinking**, debate architectural decisions, and refine solutions, while also building QA-empowering tools that previously would have taken months but are now delivered within weeks. | Met                                        |
+| #   | Acceptance Criteria                                                                                                                                                                                                    | Current Status (Met / Partially / Not Met) |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1   | I have at least **one automation framework** (for example, L2 screening) that is used by **more than just me**, with clear documentation and at least one release note showing improvements based on team feedback.    | Partially met                              |
+| 2   | I have **end‑to‑end ownership of a Jenkins (or similar) pipeline**: I can create, modify, and fix it without hand‑holding, and it has been running reliably for at least 3 months.                                     | met                                        |
+| 3   | I can point to **two concrete incidents** where my tools or frameworks reduced investigation/resolution time in a measurable way (e.g., “we saved ~30 minutes per incident over a month”).                             | Not met                                    |
+| 4   | I run a **regular knowledge‑sharing practice** (even if it’s once a month) where I walk teammates through debugging approaches, tools, or new automation I’ve built, and at least one person has reused what I shared. | met                                        |
 
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 
-| #   | Edge Case / Risk                                                                                                                                                                                                                     | Mitigation Plan                                                                                                                                                                                                    |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Over-reliance on AI without deep technical understanding.** While AI accelerates development, relying on it without fully understanding the underlying systems, debugging patterns, and architecture could limit long-term growth. | Ensure I always **validate and understand AI-generated solutions**, continuously strengthen fundamentals in system design, debugging, and automation architecture, and document learnings from each implementation |
-| 2   | **Rapid technology changes in AI and automation.** The pace of change in AI tooling could make current approaches outdated if I do not continuously adapt.                                                                           | Maintain a **continuous learning routine**, experiment with new AI tools, frameworks, and approaches, and regularly apply them to real QA and engineering problems.                                                |
-| 3   | **Balancing innovation with production reliability.** While experimenting with AI-driven automation and tooling, there is a risk of introducing solutions that are difficult to maintain or scale.                                   | Focus on **building production-ready solutions**, apply engineering best practices (code quality, monitoring, documentation), and ensure tools created are maintainable and beneficial for the broader QA team     |
+| #   | Edge Case / Risk                                                                                                                                                                                                                     | Mitigation Plan                                                                                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | I lean on AI heavily and sometimes I don’t fully understand what the generated code is doing. That’s fine now but it could catch up with me if I never build the deeper understanding. | I don’t have a perfect plan for this honestly. But I’m trying to manually rewrite or at least read through non-trivial AI code instead of just copy-pasting. |
+| 2   | AI tools change fast. What I’m using now might be outdated in 6 months. | Try new tools on real small problems every couple of weeks, not just read about them. If it helps, use it. If not, drop it. |
+| 3   | I sometimes build something experimental and it quietly becomes “the way we do things” without anyone deciding that. Then it’s hard to maintain. | Pilot with 1-2 people first. Keep a note on how to roll back if it doesn’t work. Don’t let experiments become permanent by accident. |
+| 4   | I try to solve everything alone. When I’m stuck on infra or deployment stuff, I waste time instead of just asking someone who knows better. | Try to do at least one pairing session a month with someone from DevOps or whoever’s strong in my weak areas. Come with specific questions, not just “help me.” |
 
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-Yes — with the current plan and progress, I would be confident shipping a product with this test strategy. Over the past several months, I have significantly improved how I approach quality engineering by leveraging AI to accelerate automation, debugging, and tooling development. I have already started automating critical workflows such as L2 debugging and building QA-enabling tools that improve team productivity.
+No. Not yet.
 
-Additionally, I have demonstrated the ability to quickly learn and implement new technologies — for example, building and maintaining Jenkins pipelines using AI-assisted learning. My focus going forward is to further strengthen AI-driven testing practices, ensure solutions are production-ready, and continue improving efficiency for the QA team.
+I know the direction — own systems, not just tasks. And I’ve started. But my acceptance criteria don’t lie: I can’t point to concrete incidents where my tools actually saved time in a measurable way. And the knowledge sharing is inconsistent.
 
-While there is still room for refinement, the direction, measurable progress, and mitigation strategies in place give me confidence that the approach is practical, scalable, and aligned with future engineering needs
+If this were a product I’d say it’s in staging. Good enough to test, not ready to ship. I need a few more months of actually following through before I’d call this production-ready.
 ```
 
 ---
@@ -175,25 +196,41 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+QA teammate who has recently started taking L2 issues but is still not very confident with debugging logs, reading stack traces, or deciding what to try next when things & setting the automated pipelines, designing the framework even with the different language.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+This week, I can sit with them for **For How to use the claude for desiging a tool with the best practices that I know** and:
+
+- Walk through my actual thought process step by step.
+- Share the simple checklist I follow (what I look at first, second, and third).
+- Show how I use AI as a second opinion instead of a decision‑maker.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Two main things:
+
+1. **Feeling “not expert enough”** – I often tell myself, “I’m still figuring this out, who am I to teach someone else?” especially on topics like deployment or architecture.
+2. **Assuming people are busy** – I don’t want to add to their calendar, so I wait for a “perfect time” that never really comes.
+3. **Not getting the outcome which I expect** - No matter how hard I try to communicate,mentor or share knowledge with the team when i don't see a slight change, I feel de-motivated as well
+
+I don’t need to teach everything; I just need to share the part I already do slightly better or more often than they do.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes. There have been times when a teammate struggled with a Jenkins issue or a tricky test failure, and I quietly tried to solve it on my own instead of offering to pair. I told myself, “Let me first figure it out fully, then I’ll share,” but by the time I was ready, the moment had passed.
+
+The result was:
+- They didn’t see my process or learn from it.
+- I carried the stress alone instead of sharing responsibility.
+
+Looking back, even a half‑baked suggestion or a “Let’s debug this together for 30 minutes” would have been more helpful than my silence.
 ```
 
 ---
