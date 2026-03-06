@@ -189,25 +189,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I'm actually the junior in the team, but when it comes to automation, I'm the one step ahead. My colleagues have more experience in testing and domain knowledge, but for automation — writing scripts, using the framework, using AI to build things — they reach out to me. I've been helping them get comfortable with automation, guiding them through the framework, and supporting them when they get stuck. It's not about being senior. It's just about being a little ahead in that one area.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+The team has already started using AI to automate and build apps, but I want to share how to use it more efficiently. For example, how to define a proper markdown doc with clear requirements and workflow definitions before starting development — because that changes the quality of what AI gives back. Recently while building an impact analyser, I used 3 different personas for my development phase along with a detailed workflow definition and requirement spec. That approach gave me a much better output compared to just jumping in and prompting. That's something I can share this week — it's practical and they can start using it immediately.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Initially, it was the fear of being wrong and not feeling expert enough. Since I'm the junior in the team, there was always a thought at the back of my mind — "Am I the right person to be saying this?" That hesitation held me back from sharing openly. But recently, that has changed. I've started sharing what I know without hesitation — if I feel something is useful, I share it. I'm not waiting to become an expert first anymore.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes — especially during sprint retrospectives or when giving individual feedback. Being the junior, there were moments where I wanted to say something but held back thinking "Am I in a position to give this feedback? They have more experience than me." I'd second-guess whether what I felt was valid enough to say out loud. But over time I realized that the feedback I was giving was actually helping — the team was taking it positively and improving. That gave me the confidence to stop holding back. Now I share what I feel needs to be said. I might not always be right, but staying quiet helps no one.
 ```
 
 ---
