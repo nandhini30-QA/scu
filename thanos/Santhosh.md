@@ -27,32 +27,37 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 ---
 
 ## PHASE 1: THE FOUNDATION AUDIT
+
 *From S2E1 — "That's what you finished. What did you build?"*
 
 Coulson showed Daisy two agents. Same start date. Same effort. Different results. Agent A completed tasks. Agent B built systems, trained people, created frameworks.
 
 ### Q1. List your top 5 accomplishments from the last 6 months.
 
-| # | Accomplishment |
-|---|---------------|
-| 1 | Bought My First Car which is an expensive thing that ever got in my life | 
-| 2 | Moved to a new phase in my professional carrer Excited and exploring the new challanges | 
-| 3 | I thought leveraging AI was tough and required more technical knowledge to use it, but after practicing daily, I now feel that we can use AI to learn AI and implement our ideas.|
-| 4 |I thought I knew myself, but over the last six months, I have discovered different aspects of myself on various occasions. This is something I feel I should be more aware of going forward | 
-| 5 | I have contributed to strengthening the QA team’s capabilities by sharing my L2 debugging knowledge and practices|
+
+| #   | Accomplishment                                                                                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Upskilled myslef in AI domain & leverage it in my day-day tasks.                                                                                                                            |
+| 2   | Moved to a new phase in my professional carrer Excited and exploring the new challanges.                                                                                                    |
+| 3   | I thought leveraging AI was tough and required more technical knowledge to use it, but after practicing daily, I now feel that we can use AI to learn AI and implement our ideas.           |
+| 4   | I thought I knew myself, but over the last six months, I have discovered different aspects of myself on various occasions. This is something I feel I should be more aware of going forward |
+| 5   | I have contributed to strengthening the QA team’s capabilities by sharing my L2 debugging knowledge and practices                                                                           |
+
 
 ### Q2. Now be honest — for each one, mark it:
 
 - **C** = Completed (you did the work, it's done, nothing remains)
 - **B** = Built (it continues to create value without you actively doing it)
 
-| # | C or B? | Why? |
-|---|---------|------|
-| 1 | C | Its been a long term dream, Planned for 2 years saved, invsted, switched jobs to make it happen | 
-| 2 | B| Its an continous experience and where it woudld help me on a long term|
-| 3 |C | Because Initially I did'nt know how AI works after learning few techniques and guidance I was easily able to articualte my thoughts and implement my ideas using AI|
-| 4 | B| There are situations where i self doubted my self based on the situation, that created a cahos in my head (Is this who I am? all along) slowly exploring on this|
-| 5 | B| Initially, I felt that although we had sufficient knowledge in L2 debugging, we were not producing the expected outcomes. This shaped the developers’ perception of the QA team. I wanted to change that perspective, so I gradually started guiding the team over the past two months. It has been a continuous journey.|
+
+| #   | C or B? | Why?                                                                                                                                                                                                                                                                                                                      |
+| --- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | C       | Its been a long term dream, Planned for 2 years saved, invsted, switched jobs to make it happen                                                                                                                                                                                                                           |
+| 2   | B       | Its an continous experience and where it woudld help me on a long term                                                                                                                                                                                                                                                    |
+| 3   | C       | Because Initially I did'nt know how AI works after learning few techniques and guidance I was easily able to articualte my thoughts and implement my ideas using AI                                                                                                                                                       |
+| 4   | B       | There are situations where i self doubted my self based on the situation, that created a cahos in my head (Is this who I am? all along) slowly exploring on this                                                                                                                                                          |
+| 5   | B       | Initially, I felt that although we had sufficient knowledge in L2 debugging, we were not producing the expected outcomes. This shaped the developers’ perception of the QA team. I wanted to change that perspective, so I gradually started guiding the team over the past two months. It has been a continuous journey. |
+
 
 ### Q3. If you disappeared tomorrow, which of those 5 things would still matter in 6 months? Why?
 
@@ -73,18 +78,21 @@ I'm not chasing the fancy title in my career, In the recent days due to the AI b
 ---
 
 ## PHASE 2: THE LOOP MAP
+
 *From S2E2 — "You're shipping. You're not looping."*
 
 Coulson showed Daisy the D3O loop: **Design → Develop → Deploy → Operate → back to Design.** She'd been stuck in Develop → Deploy. Shipping other people's designs. Never hearing what happened after.
 
 ### Q5. Think about your last major project or initiative. Map it to the D3O loop:
 
-| D3O Stage | What YOU Did (be specific) | What SOMEONE ELSE Did |
-|-----------|---------------------------|----------------------|
-| **Design** (deciding WHAT to build and WHY) | Planned an application where we can Automate the L2 Screening completely using | Nill |
-| **Develop** (building / executing it) | Used AI to plan & code the project| Nill|
-| **Deploy** (shipping / releasing / presenting it) | Currently in the Testing phase and open for improvements| Nill |
-| **Operate** (monitoring, learning from results, feedback) | After the 1st cut I'll deploy the application to the QA team and add the valuabe feedback | Nill |
+
+| D3O Stage                                                 | What YOU Did (be specific)                                                                | What SOMEONE ELSE Did |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- |
+| **Design** (deciding WHAT to build and WHY)               | Planned an application where we can Automate the L2 Screening completely using            | Nill                  |
+| **Develop** (building / executing it)                     | Used AI to plan & code the project                                                        | Nill                  |
+| **Deploy** (shipping / releasing / presenting it)         | Currently in the Testing phase and open for improvements                                  | Nill                  |
+| **Operate** (monitoring, learning from results, feedback) | After the 1st cut I'll deploy the application to the QA team and add the valuabe feedback | Nill                  |
+
 
 ### Q6. Look at your map. Which stages are you dominant in? Which are empty?
 
@@ -103,13 +111,14 @@ Design & Develop (These are the areas where I beleive I have an upper hand, wher
 ### Q8. When was the last time you shipped something that YOU designed — not something assigned to you?
 
 ```
-1. Designing the Playwright framework and Reporting mechanisms.
-2. Empowering the team by developing the tools/apps that can reduce their time on the daily basis
+1.Empowering the team by developing the tools/apps that can reduce their time on the daily basis
+2. 
 ```
 
 ---
 
 ## PHASE 3: THE SELF-TEST
+
 *From S2E3 — "You have test plans for every feature. What's the test plan for your career?"*
 
 Daisy had 94% automated coverage on her products and 0% on her own career. Coulson asked: "Would you ship a product with that test plan?"
@@ -117,35 +126,48 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In the next two years, I see myself growing into a Someone who strongly integrates AI into test engineering practices. My goal is to significantly upskill in AI-driven automation, including AI-assisted test generation, intelligent debugging, and smart test analysis. I want to contribute to building scalable AI-enabled testing frameworks that improve productivity and test coverage.
+
+I also aim to take on greater technical ownership, guiding the QA team in adopting modern testing approaches that combine automation with AI capabilities. As new roles emerge in the organization around AI-driven quality engineering, I want to be well prepared to step into those opportunities.
+
+Ultimately, my objective is to become someone who drives innovation in the QA space, helping the team move towards faster, smarter, and more efficient testing practices while contributing to the organization’s future technology direction.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
-| # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
-|---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+
+| #   | Acceptance Criteria                                                                                                                                                                                                                | Current Status (Met / Partially / Not Met) |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1   | I consistently leverage AI in most of my day-to-day engineering tasks and can clearly see a significant productivity improvement compared to how I worked six months ago.                                                          | partially met                              |
+| 2   | I am able to automate major parts of the **L2 debugging workflow**, reducing manual investigation time and improving the speed of root cause analysis.                                                                             | partially met                              |
+| 3   | I can independently design, build, and maintain **CI/CD pipelines (such as Jenkins)** using AI-assisted learning and development. The pipeline I built is currently running in production with minimal maintenance.                | Met                                        |
+| 4   | I actively use AI to improve **system design thinking**, debate architectural decisions, and refine solutions, while also building QA-empowering tools that previously would have taken months but are now delivered within weeks. | Met                                        |
+
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
-| # | Edge Case / Risk | Mitigation Plan |
-|---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+
+| #   | Edge Case / Risk                                                                                                                                                                                                                     | Mitigation Plan                                                                                                                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Over-reliance on AI without deep technical understanding.** While AI accelerates development, relying on it without fully understanding the underlying systems, debugging patterns, and architecture could limit long-term growth. | Ensure I always **validate and understand AI-generated solutions**, continuously strengthen fundamentals in system design, debugging, and automation architecture, and document learnings from each implementation |
+| 2   | **Rapid technology changes in AI and automation.** The pace of change in AI tooling could make current approaches outdated if I do not continuously adapt.                                                                           | Maintain a **continuous learning routine**, experiment with new AI tools, frameworks, and approaches, and regularly apply them to real QA and engineering problems.                                                |
+| 3   | **Balancing innovation with production reliability.** While experimenting with AI-driven automation and tooling, there is a risk of introducing solutions that are difficult to maintain or scale.                                   | Focus on **building production-ready solutions**, apply engineering best practices (code quality, monitoring, documentation), and ensure tools created are maintainable and beneficial for the broader QA team     |
+
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Yes — with the current plan and progress, I would be confident shipping a product with this test strategy. Over the past several months, I have significantly improved how I approach quality engineering by leveraging AI to accelerate automation, debugging, and tooling development. I have already started automating critical workflows such as L2 debugging and building QA-enabling tools that improve team productivity.
+
+Additionally, I have demonstrated the ability to quickly learn and implement new technologies — for example, building and maintaining Jenkins pipelines using AI-assisted learning. My focus going forward is to further strengthen AI-driven testing practices, ensure solutions are production-ready, and continue improving efficiency for the QA team.
+
+While there is still room for refinement, the direction, measurable progress, and mitigation strategies in place give me confidence that the approach is practical, scalable, and aligned with future engineering needs
 ```
 
 ---
 
 ## PHASE 4: THE MENTOR MAP
+
 *From S2E4 — "You don't have to be an expert to help someone. You just have to be one step ahead."*
 
 Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imperfect — and it was exactly what Daisy needed. Because he was one step ahead.
@@ -177,17 +199,20 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ---
 
 ## PHASE 5: THE PREVENTION AUDIT
+
 *From S2E5 — "You're not building your replacement. You're building your ladder."*
 
 Daisy had the fastest incident response on the team. Three SEV-1s in a month, all handled under 4 minutes. Same root cause. She was winning battles in a war she never tried to end.
 
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
-| # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-|---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+
+| #   | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
+| --- | -------------- | --------- | -------------------------------------------- |
+| 1   |                |           |                                              |
+| 2   |                |           |                                              |
+| 3   |                |           |                                              |
+
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
@@ -210,6 +235,7 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ---
 
 ## PHASE 6: YOUR ARCHITECTURE
+
 *From S2E6 — "You are the architect. In every universe. Build accordingly."*
 
 This is the one you'll present to the team. All five phases led here.
@@ -280,11 +306,13 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
+
 ```
 [Your answer]
 ```
 
 **Do differently:**
+
 ```
 [Your answer]
 ```

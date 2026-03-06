@@ -22,7 +22,7 @@ Now it's your turn. This isn't a quiz about the story — it's about YOUR career
 - **Name: Jerome Christopher J**
 - **Current Role: Associate - SRE**
 - **Years in Current Role: 1 year**
-- **Date Submitted: 04-03-2026**
+- **Date Submitted: 05-03-2026**
 
 ---
 
@@ -112,30 +112,30 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In two years I would want to be a senior Site Reliability Engineer, with an indepth knowledge on the infra components and also the latest updates on them on the internet. I would like to have a skill level that the others would rely on when something important is required and to also be able to drive people who are junior to me.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Better understanding on the concepts | Partially |
+| 2 | Ability to drive the requirements on my own without the guidance of mentors | Partially |
+| 3 | Ability to propose solutions to issues and new beneficial stratergies | not met |
+| 4 | Guide and provide insights and drive the juniors | partially |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Improper understanding of the requirements | Spend the requirement amount of time on understanding the requirement before proceeding |
+| 2 | Being more proactive than being reactive | Take up new oppurtunities and work on it, without being the one who only works on the requirements that are assgined to me |
+| 3 | Have a better team collaboration | Be open to critisims and feedbacks and give feedbacks for the betterments of others as well |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+with my current test plan, it satisfies all the requirements for the goal I want to achieve in the period of the next two years. So yes I would proceed with this test case.
 ```
 
 ---
@@ -148,25 +148,28 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I think I am ahead of my fellow SRE teammates - Jagadheesh, Pugazh and Kabilan. I have been here for almost a year and I have one step ahead of them in my experience, infra understanding and knowledge.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+I have already shared my insights to them on an everyday basis. For an example instance, On Monday we faced a production incident in the APAC region and there was a flaw at the Incident commander role. Since I was into debubbing at the time at the incident, I was not able to guide them on how to play the role as I had the experience on how it should be done, from the previous incidents.
+As I missed it on the day of the incident, we scheduled a SRE team syncup yesterday and I shared my insights on the importance of the Incident commander role and how it should be done.
+
+Additionally whenever they approach me for doubts or clarification, I share my knowledge and my understanding to them. Further more additionally I am also sharing, little tips on how to approach a few tasks, cause as Victor was struggling at the start even I was, but now I got a grip and I share the tips to them as well.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Yes, the question is valid. A few times I feel a little hesitant to help. As inferred in the question, it is all the 3. I would be held up with my own tasks, and would not be able to provide guidance at times. And as mentioned earlier, for the things I am absolutely sure, I provide an absolute answer. But for the one's I am not absolutely sure, I tend to feel a little hesitant and have second thoughts on what if I am wrong, and I guide them incorrectly.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+I don't stop myself from guiding them, I provide my first level of insights and them request them to get a confirmation from the senior team members and proceed accordingly. This way, I did help, but also they were guided in the right direction, and when I am unsure about something, I get the knowledge transferred from the senior teammates as well.
 ```
 
 ---

@@ -137,7 +137,18 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
 ```
-[Your answer]
+In 2 years, I want to be an SDET — not just in title, but in capability.
+
+Responsibility:
+- Able to read, understand, and navigate the developer's codebase — not as a black box, but well enough to do bug fixes and small enhancements myself. I don't want to stop at "filed a bug." I want to be the person who files the bug, identifies the root cause in the code, and submits the fix.
+- Own the bridge between development and quality — writing testable code, reviewing PRs from a quality lens, and contributing fixes back into the product.
+
+Skill Level:
+- Strong enough to validate what AI generates — not blindly accept code, but critically evaluate whether the output is correct, secure, and aligned with the architecture.
+- Capable of using AI as a force multiplier to build whatever I need — dashboards, automation tools, internal utilities — without being blocked by "I don't know how to code that."
+- Not trapped in the cycle of only testing and doing regular tasks. I want to operate at the layer where I decide what to build, use AI to build it fast, and validate that it actually works.
+
+The shift: From someone who tests what others build → to someone who understands, fixes, enhances, and builds alongside the developers — with AI as my accelerator.
 ```
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
@@ -145,10 +156,10 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 | #   | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 | --- | ------------------- | ------------------------------------------ |
-| 1   |                     |                                            |
-| 2   |                     |                                            |
-| 3   |                     |                                            |
-| 4   |                     |                                            |
+| 1   | Able to read a developer's codebase, trace a production bug to its root cause, and submit a fix — not just file a ticket. Target: at least 3 merged bug-fix PRs in a product repo. | Partially Met — I have started debugging the codebase, and for every production issue, I analyze the root cause with the help of AI. I have fixed 1 bug and sent it for review. Still working toward making this consistent. |
+| 2   | Can validate AI-generated code critically — catch security issues, logic errors, or architectural misalignment before using it. Demonstrated by reviewing and correcting AI output in real projects. | Partially Met — I do this in my own projects (Sprint Dashboard, QSR Report) but need to extend this practice across team and developer codebases consistently. |
+| 3   | Can build a full-stack internal tool end-to-end (Design → Develop) using AI as an accelerator, without getting blocked at any stage. | Met — Successfully designed and developed multiple full-stack applications (Sprint Dashboard, QSR Report) end-to-end using AI as an accelerator. |
+| 4   | Spending the majority of work time on engineering tasks (building tools, debugging, code contributions) rather than routine manual testing. Target: 60%+ engineering work. | Partially Met — I have started spending more than 60% of my time on engineering tasks and am actively identifying manual workflows that can be automated to further reduce repetitive work. |
 
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
@@ -156,15 +167,15 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 | #   | Edge Case / Risk | Mitigation Plan |
 | --- | ---------------- | --------------- |
-| 1   |                  |                 |
-| 2   |                  |                 |
-| 3   |                  |                 |
+| 1   | Getting pulled back into routine testing — regression cycles, manual testing, and day-to-day QA work can consume time and prevent the shift toward engineering tasks, keeping me stuck instead of growing further. | Actively identify repetitive manual workflows and automate them. Protect engineering time by setting clear boundaries on how much time goes to routine tasks versus building and debugging. |
+| 2   | Parallel execution without proper planning — I tend to take on multiple tasks at the same time, which can split focus and reduce the quality of output on each. Without disciplined prioritization, progress slows across everything instead of completing one thing well. | Plan parallel work deliberately — define clear priorities, set time blocks for each task, and avoid context-switching without completing a meaningful milestone first. |
+| 3   | Over-dependence on AI — While building the Sprint Dashboard and QSR Report, I mostly orchestrated AI to write the code. If I lose access to AI, I would find it hard to maintain or fix issues in these projects on my own. I need to build the skill to understand the code, not just direct it. | Start reading and understanding the code AI generates instead of just using it. Build enough skill to debug and fix issues independently, so AI stays an accelerator, not a dependency. |
 
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
 ```
-[Your honest assessment]
+Honestly, no — I wouldn't ship a product where 3 out of 4 acceptance criteria are only "Partially Met." If this were a feature, I'd say it's not release-ready yet. But the good part is that none of them are "Not Met" either — progress has started on every front. The gaps are clear: I need more bug-fix PRs in the product repo, I need to validate AI output beyond my own projects, and I need to keep pushing engineering time above routine testing. The test plan exists, the criteria are defined, and execution has started. It's not shippable today, but it's on track.
 ```
 
 ---
@@ -178,25 +189,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I'm actually the junior in the team, but when it comes to automation, I'm the one step ahead. My colleagues have more experience in testing and domain knowledge, but for automation — writing scripts, using the framework, using AI to build things — they reach out to me. I've been helping them get comfortable with automation, guiding them through the framework, and supporting them when they get stuck. It's not about being senior. It's just about being a little ahead in that one area.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+The team has already started using AI to automate and build apps, but I want to share how to use it more efficiently. For example, how to define a proper markdown doc with clear requirements and workflow definitions before starting development — because that changes the quality of what AI gives back. Recently while building an impact analyser, I used 3 different personas for my development phase along with a detailed workflow definition and requirement spec. That approach gave me a much better output compared to just jumping in and prompting. That's something I can share this week — it's practical and they can start using it immediately.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Initially, it was the fear of being wrong and not feeling expert enough. Since I'm the junior in the team, there was always a thought at the back of my mind — "Am I the right person to be saying this?" That hesitation held me back from sharing openly. But recently, that has changed. I've started sharing what I know without hesitation — if I feel something is useful, I share it. I'm not waiting to become an expert first anymore.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes — especially during sprint retrospectives or when giving individual feedback. Being the junior, there were moments where I wanted to say something but held back thinking "Am I in a position to give this feedback? They have more experience than me." I'd second-guess whether what I felt was valid enough to say out loud. But over time I realized that the feedback I was giving was actually helping — the team was taking it positively and improving. That gave me the confidence to stop holding back. Now I share what I feel needs to be said. I might not always be right, but staying quiet helps no one.
 ```
 
 ---

@@ -131,32 +131,30 @@ Daisy had 94% automated coverage on her products and 0% on her own career. Couls
 
 ### Q9. Where do you want to be in 2 years? (Be specific — title, responsibility, skill level)
 
-```
-[Your answer]
-```
+I want to see myself as SDET who develops and test the system. I will own the Quality Infrastructure for a complete product vertical. My role shifts from executing test plans to designing Test Systems. I wanted to do AI driven testing. I will design and deploy a Self-Healing Automation Framework that utilizes AI to resolve locator flakiness, targeting a 40% reduction in maintenance overhead. I will move beyond the test repo to contribute directly to the Core Application Codebase, focusing on "Testability" and fixing deep-seated architectural bugs identified through root-cause analysis.I
+to mentor my juniors, sharpen their skills. I love to mentoring people. Once upon a time, i was one of them, expected a mentor to guide me. So, i will be great mentor.
 
 ### Q10. Now write the acceptance criteria. How will you KNOW you're ready? Not "I feel ready" — measurable criteria.
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|--------------------------------------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 | Successfully architected and deployed an E2E framework from scratch.| Not Met|
+| 2 | My QA team has adopted my "Technical Debugging Template," resulting in a 20% faster developer turnaround on tickets. | Met |
+| 3 | Successfully architected and deployed a reusable automation framework used by at least 3 separate modules |Partially Met |
+| 4 | The Self-Healing mechanism I designed has successfully reduced "Red Builds" caused by UI changes by at least 30% over a 3-month period.| Not met|
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | I Building a "Self-Healing" agent that makes incorrect assumptions, leading to "False Pass" results in the pipeline.| Implement a secondary "Human-in-the-loop" audit log for the AI Agent to verify its healing logic during the first 6 months of deployment. |
+| 2 | I Identifying root causes in the backend but lacking the permissions or trust to implement the fix in the core repo.| Initiate a "Developer Pairing" schedule once a week to build trust and demonstrate code level competency to the Dev Leads. |
+| 3 | I am getting buried in manual regression for legacy features (Forms/Board), leaving 0% bandwidth for system design. |Transition "Sanity" checks to 100% automated execution to buy back 10 hours of "Architecture Time" per week. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
-```
-[Your honest assessment]
-```
+No, I wouldn't ship yet. If I were a product, I’d be in the Beta Testing phase. While my design intent is clear and my past contributions (the template) prove I can set standards, my "Automation Architecture" and "Core Code Contribution" features are still in development. Shipping now would be a "Pre-mature Release" I have the mindset of an SDET, but I haven't yet proven I can maintain the core application code or build a framework from scratch. I need to close the gap on Criterion #1 and #3 before this career version is ready for production.
+
 
 ---
 
@@ -167,27 +165,19 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
-```
-[Your answer]
-```
+I am one step ahead of the my sister. She is working as a Junior UI/UX designer. She is having 1 year of experience in that field. She is also working IT industry. She is interested in baking as well.
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
-```
-[Your answer]
-```
+This week, I want to teach her how to systematize her learning. I’ll show her how to stop 'mugging up' and start building a practical knowledge loop. Specifically, I’m going to push her to integrate AI into her work. Don’t just do manual tasks. build a project using AI tools to see how they can accelerate her delivery. I’ll help her set up a GitHub account and a LinkedIn presence. I want her to 'document in public'—to show in public what she’s building as she learns it. Learn continuously. I dont want her to make the same mistake i made when i was a fresher. I will tell her one main thing/moto," What we know is drop, what we dont know is Ocean".
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
-```
-[Your answer]
-```
+To be honest, it’s a bit of hindsight guilt. I look back at my own start and see the mistakes I made times I wasn't active on LinkedIn or didn't maintain a GitHub, and I think, 'Who am I to tell someone else to do it when I started late?' But I realize that my delay is a problem. I’ve seen the cost of not being visible, and I don't want her to pay that same price. I’ve had to overcome the fear that my advice isn't perfect, exper enough, realizing that being one step ahead is enough to save someone else a year of struggling.
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
-```
-[Your answer]
-```
+Yes. I’ve often held back because of the old saying, 'What we know is a drop; what we don't know is an ocean.' I used that as an excuse to stay silent, thinking, 'If I only know a drop, I should keep quiet.' But I’ve learned that for someone who is just starting, my 'drop' of experience is their 'lifeboat.' By holding back, I was actually being selfish with my lessons. Now, I understand that even if I don’t know the whole ocean, I can definitely show her how to swim in the part of the water we're in right now. But most of the times, i am bold enough to share my experiece and give advice to the people who are in need. I feel that i am good at advising / suggesting.
 
 ---
 
