@@ -180,25 +180,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I'm one step ahead of teammates who are still getting familiar with integration modules and analyzing API request and response flows in the Kissflow platform.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+I could teach them on how I debug production issues using logs and API traces, and demonstrate how I use Claude to quickly analyze error patterns and narrow down possible root causes. I can also share how I prioritize tasks during busy periods without getting overwhelmed, and how I manage stakeholder communication and expectations while working on features. In addition, I can explain how I try to think strategically about problems so that we don't just fix issues once, but look for opportunities to implement systems or automation that prevent them from recurring. We could pick a real problem and go through the investigation, prioritization, and system-thinking process step by step.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+One factor that has sometimes stopped me from mentoring is when the person I'm trying to help appears uninterested or unwilling to learn.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes, there have been times when I held back from helping someone because I was still figuring things out myself. I usually wait until I have a reasonable level of understanding before stepping in, because I don't want to mislead someone when my understanding is still incomplete. Looking back, I realize that even sharing what I know so far could still be helpful if I'm transparent that I'm still learning too.
 ```
 
 ---
