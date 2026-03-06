@@ -171,7 +171,7 @@ IN 2 YEARS:
 | 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Not Met |
 | 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 1-month cycle | Not Met |
 | 3 | **Technical Mastery in Incidents:** Own incident diagnosis without critical questions — solve independently, lead RCA, suggest prevention | Not Met |
-| 4 | **Prowler Security Automation:** Deployed to production, runs as cronjob, auto-validates CIS 3.0 compliance across all GCP resources, team uses it | Met |
+| 4 | **Prowler Security Automation:** Deployed to production, runs as cronjob, auto-validates CIS 3.0 compliance across all GCP resources, team | Met |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
@@ -219,25 +219,41 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+**Pugazhvendhan** — fellow SRE intern. He came to me stuck on the Offboarding card: how to handle employee access removal across systems. He didn't have Jenkins deletion permissions and didn't know the full process. I did, because I'd already completed that card. We paired on a call — I walked him through where to remove access (MongoDB, Jenkins) and deleted his Jenkins access for him. Now he can do it independently next time.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+How to read a design document and ask "why" questions that improve it.
+
+I'm learning this skill right now with Swami's mentorship — understanding how to move from "what are we building" to "why are we building it this way." I ask Swami why he chose specific approaches, and it's changed how I think about architecture.
+
+I can teach this: When someone reads a design doc, most people just accept it. But the right questions ("Why not HTTP instead of MCP?" "What are we optimizing for?") force clearer thinking.
+
+THIS WEEK I can pair with Pugazhvendhan or another intern on a design review — walk them through my Custom Billing Dashboard design, show them how to spot gaps, ask clarifying questions that matter. It takes 45 minutes, and they'll know how to read designs critically instead of passively.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+The real barrier: fear of being judged if I'm wrong, combined with struggling to explain complex concepts clearly.
+
+Real example — IAM Role Binding: Someone on the team asked whether to add a specific IAM role binding to a service account. I had valid technical points: "This role opens permissions we don't need. Let's use the minimal role instead." But I struggled to explain WHY clearly — the tradeoffs between security, least privilege, and operational burden. I gave a short answer and stayed quiet instead of walking through my reasoning.
+
+Later, I realized I should have explained more. But I didn't follow up because I thought: "If I say more now, will they think I'm overcomplicating it? Will they think I didn't know the answer the first time?"
+
+The pattern: I'd rather stay silent than risk looking incompetent. It's my communication avoidance — I have something useful to say, but fear of judgment makes me shrink back.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes. In ITH sessions over the past 4 months, I've had thoughts or questions in my mind multiple times. But I stay silent because I'm not sure if the idea is relevant to the situation, or if I'm the right person to say it.
+
+Then, 5 minutes later, someone else — usually more senior — asks the EXACT SAME question or makes the same point I was thinking. And it's received well.
+
+That silence is my pattern. I doubt myself, stay quiet, and let someone else speak. I'm not held back by feeling unqualified — I'm held back by uncertainty: "Is this the right time? Is this the right idea?" So I wait. And by waiting, I never get credit, and I never build confidence in my own judgment.
 ```
 
 ---
