@@ -294,26 +294,46 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 |  I used to spend a lot of time manually creating test data before every performance cycle, writing out CSV files, building JSON payloads, configuring environments. It felt repetitive, and it was slowing me down. | Automated |  I built a Node.js-based test data generator to handle the heavy lifting. And then I took it a step further, I integrated AI-assisted generation so the tool could produce realistic, and varied datasets. 
+| 2 | Earlier, after every load test, I had to manually go through k6 reports, check the logs, note down response times, and put together a summary myself. It was the same effort every single time.| Automated | I developed an web app that pulls all of this together on its own, across multiple test runs and gives me one clean, consistent report at the end. I don't have to collect or compile anything manually anymore. It just shows up, ready to use.
+| 3 | Production issues are not shown as whole data as together but not as SLA metrics dashboard | Delegated | It generated as SLA metrics dashboard can visibily shown for all the stakeholders at anytime.
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+[Honestly, the time I was spending on test data, report collection, and Dashboards, that was all reactive work. It kept me busy but it wasn't moving anything forward.
+
+If that time was freed up, I would focus on things that actually need deep performance testing. I would spend more time understanding why certain flows are slow, not just measuring it, but digging into the root cause.  I would also put energy into improving how we define performance benchmarks, right now thresholds are somewhat inherited. I would want to set them based on real user behavior and business impact.
+]
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+[Honestly, I have been more firefighter rather than architect.
+
+A lot of my time used to go into firefighter, pulling together test data when a cycle started, compiling reports after every run, answering the same status questions because nothing was visible to anyone else. But I think I've been slowly making myself into an architect. Building the test data generator, setting up the reporting pipeline, all those weren't just tools. They were me trying to stop fighting the same battles and start building something that holds.
+
+One of the biggest questions that kept coming up from stakeholders was, how do we actually measure client capacity? And how do we generate test data that reflects what really happens on this platform, not just generic data that could belong to any system?
+Those were not small questions. Everyone had them, but nobody had a clear answer. That used to take up a lot of my thinking and my time. Every cycle, the same uncertainty.
+
+But now those problems are solved. The capacity testing has been easily approached , then the test data generation is realistic and specific to this platform, and things are running the way they should.
+
+So right now I'd say I'm somewhere in between. I'm not fully a firefighter anymore, but I'm not fully an architect either. I've stopped fighting some of the old fires, and I'm starting to build things that last.
+
+What needs to change to fully shift?
+
+I need to protect time for deeper thinking.which is I need to stop treating every repeat problem as something to just get through, and start treating it as a signal that something needs to be fixed at the root.
+
+The goal is to get to a place where the systems I have built handle the known problems, and I am free to go find the ones nobody has noticed yet.
+
+SO this is the version I am looking forward to it and working on it too. ]
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+[My biggest fear was - what if people stop seeing the effort? When you manually pull reports, prepare data, and answer every status question, people see you working. Automation makes it invisible. The work still happens, but nobody sees it anymore. And for a while, that bothered me. But then I was thinking about this, The real risk was never automation replacing me. The real risk was staying in manual mode for too long and never building anything that lasts. So the fear was there, but working through it was worth it. It got me to find some critical business impact solution, I really more proud of myself to automating those things and it was freed up me to focus on next things to do.]
 ```
 
 ---
