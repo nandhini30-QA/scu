@@ -313,7 +313,7 @@ What would make this shippable:
 - Define "what good looks like" at 6 months, 12 months, 18 months
 - Build in feedback checkpoints: "If X isn't true by Month 6, I need to
   adjust Y"
-- Add monitoring: How will I measure progress monthly? What metrics will tell
+- Add monitoring: How will I measure progress monthly? What metrics will tellc
   me I'm on track vs off track?
 
 The brutal truth: I've been treating my career like a product I'd never ship.
@@ -456,3 +456,188 @@ I'm learning and growing. As I learn more about this company's infrastructure
 and systems, my confidence in what I can guide on will grow too. It's a
 process — and I'd rather be cautious and helpful than overconfident and wrong.
 ```
+
+---
+
+## PHASE 5: THE PREVENTION AUDIT
+*From S2E5 — "You're not building your replacement. You're building your ladder."*
+
+### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
+
+| # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
+|---|---------------|-----------|----------------------------------------------|
+| 1 | **Manually collecting cloud cost data for AWS, GCP, MongoDB, and Snowflake** — Since joining the company, I've been manually pulling cost data for pre-prod and prod environments across all 4 platforms. An MCP server exists for this, but it's not optimized and currently points to an old GCP billing account — it doesn't cover AWS, MongoDB, or Snowflake. | Weekly/Monthly | **Automated** — I'm planning to revamp the existing MCP server to make it optimized, point it to the current GCP billing account, and extend it to pull cost data automatically from all platforms (AWS, GCP, MongoDB, Snowflake) for both pre-prod and prod. This will eliminate the manual collection process entirely and provide automated cost reporting. |
+| 2 | **Calculating bucket size and object file counts for multiple GCS buckets and folders** — I was assigned this as a recurring operational task. A Jenkins job existed for this, but it took too long (days to hours). I created a script with parallel processing that reduced the time to minutes, but I still have to manually run it each time. | Multiple times per month (on-demand) | **Automated** — Build a self-service automation where I (or anyone) can simply select a bucket name or folder path and get the bucket size and object count calculated within minutes. This eliminates the need to manually run the script each time and makes it accessible to others who need this data. |
+| 3 | **Over-researching to prove I'm perfectly right before sharing ideas** — Before proposing a solution or sharing an idea with my senior or manager, I spend excessive time researching, analyzing, and validating to make sure I'm 100% correct. This delays getting feedback and slows down decision-making. | Ongoing (affects every new task/idea) | **Prevented** — Timebox research to 2-3 days max, then share the idea even if imperfect. Shift mindset from "prove I'm right" to "get feedback early." Use Viktor's lesson: "You don't have to be an expert. You just have to be one step ahead." Share rough drafts instead of polished proposals. |
+
+---
+
+### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
+
+```
+If I automated those 3 recurring tasks, I would shift my time to HIGHER problems
+that move me from executor to architect:
+
+1. **Proactive infrastructure problem identification and design proposals**
+
+   Instead of waiting for assignments, I'd use the freed time to:
+   - Analyze automated cost data trends to identify optimization opportunities
+     and propose architectural changes (e.g., "GCP spending increased 30% in
+     pre-prod — here's why and here's what we should change")
+   - Identify infrastructure reliability risks before they become incidents
+     (like I did with the AWS zone attack → GCP risk analysis)
+   - Propose solutions to problems I see but nobody assigned me to solve
+
+   This is Design-stage work — the stage where I'm weakest (30-40% ownership).
+   Automating firefighting gives me time to think architecturally.
+
+2. **Build prevention systems that make the team more effective**
+
+   I'd turn the patterns I see in operations into prevention:
+   - Build the runbooks and debugging playbooks for juniors (so they stop calling
+     me at night for the same issues)
+   - Create self-service tools and dashboards (like the bucket size automation)
+     that anyone can use without manual intervention
+   - Build monitoring and alerting that catches problems before they become
+     incidents
+
+   This is "building my ladder" — not just responding faster, but ending the war.
+   I want to build 2+ prevention systems at this company (acceptance criteria #5).
+
+3. **Close the Operate → Design loop**
+
+   Instead of submitting reports and moving to the next task, I'd use operational
+   insights to propose what we should Design next:
+   - "Based on cost analysis, here's what we should optimize next"
+   - "Based on incident patterns, here's the infrastructure we should redesign"
+   - "Based on what I learned from the GKE migration, here's what we should
+     apply to other projects"
+
+   This is the loop I'm missing right now — I Operate but I don't loop back to
+   Design. Freed time lets me close that gap.
+
+The brutal truth: Right now, firefighting and manual tasks keep me in
+Develop-Deploy mode (where I'm strongest but AI is getting better). Automating
+them frees me to work on Design-Operate problems (where humans are
+irreplaceable and where I need to grow).
+
+This is how I shift from "excellent executor of assigned work" to "DevOps
+architect who identifies problems and drives solutions through the full loop."
+```
+
+---
+
+### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
+
+```
+Honestly? I'm a firefighter right now — but I'm starting to act like an architect
+in small ways.
+
+Evidence that I'm a FIREFIGHTER:
+
+- I've been manually collecting cloud cost data every week/month since I joined
+  (same fire, every time)
+- I manually run the bucket size script each time it's needed instead of making
+  it self-service
+- I participate in production issue resolution with developers — I ask "is there
+  anything from DevOps side?" and stay up late nights sitting with them to help
+  resolve issues. I'm responsive and helpful, but I'm fighting the same types of
+  incidents repeatedly instead of preventing them
+- I'm dominant in Develop-Deploy (70-75%) — I execute what's assigned, I ship
+  fast, but I'm fighting battles in a war I haven't tried to end
+- I haven't built any prevention systems at this company yet (Q10: acceptance
+  criteria #5 is "Partially Met" only because of Lambda pipelines at my PAST
+  company)
+
+I respond quickly. I solve problems well. But I'm solving the SAME problems
+repeatedly instead of preventing them.
+
+Evidence that I'm STARTING to act like an architect:
+
+- I proactively identified the GCP risk analysis opportunity when AWS zones were
+  attacked — I didn't wait to be assigned, I saw a problem and proposed it
+- I'm working on Jenkins to Cloud Build migration where I'm designing the
+  solution from scratch (design-led work, not just execution)
+- I already improved the bucket size script with parallel processing (reduced
+  days/hours to minutes) — that's architect thinking, but I stopped short of
+  full automation
+- For bucket size calculation, I didn't stop at the script — I proposed enabling
+  GCS inventory reports that automatically send daily to BigQuery. This would
+  eliminate the need to run any script at all — just query BigQuery anytime for
+  bucket size and file count. That's prevention thinking, not just faster
+  firefighting.
+- I've identified what needs to be automated (cost collection MCP server, bucket
+  size self-service, junior debugging runbooks) — I know what the ladder looks
+  like, I just haven't built it yet
+
+What would need to change to shift from firefighter to architect:
+
+1. Stop accepting "I'll do it manually this time" — commit to automating after
+   the second repetition
+2. Build the MCP server revamp, the bucket automation, and the junior runbooks
+   THIS quarter (not "someday")
+3. Track my time: How much goes to firefighting vs. prevention? Set a goal:
+   60% execution, 40% prevention by end of Q2
+4. Use freed time to hunt UNKNOWN problems (proactive design proposals) instead
+   of just fighting known fires faster
+
+I'm a firefighter who sees the ladder. Now I need to build it.
+```
+
+---
+
+### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
+
+```
+It's not about being replaced or removed.
+
+AI is becoming more and more prevalent in our tech world. We NEED to use AI —
+it's not optional anymore. Once we use AI, our way of work will change. That's
+inevitable.
+
+But at any point of time, there will be a need for what I do. The quality will
+be different. The scenario will be different. But the need will still be there.
+
+My fear is different: "How will my role change, and will I adapt fast enough?"
+
+I'm new to this company — only a few months in. I'm still proving myself, still
+building trust with my senior mentor, still earning my place on the team.
+
+If I automate my current work away, what if:
+- People don't see me as busy/productive anymore?
+- My manager thinks "she's not doing much now that those tasks are automated"?
+- I lose visibility because I'm not the one responding to every incident?
+- I'm not "needed" in the same immediate, visible way?
+
+The fear is: Being busy = being valuable. If I'm not busy, am I still valuable?
+
+But here's the brutal truth I need to accept:
+
+**Being busy with firefighting is not the same as being valuable.**
+
+What's ACTUALLY valuable:
+- Building systems that make the whole team more effective (not just me working
+  faster)
+- Freeing myself to work on Design-Operate problems that AI can't do
+- Identifying and solving problems nobody assigned me (proactive architecture)
+- Using AI to augment my capabilities, not replace them
+
+If I automate the firefighting, I'm not making myself LESS valuable — I'm making
+myself DIFFERENTLY valuable. I'm shifting from "person who responds fast" to
+"person who builds prevention systems and identifies architectural problems."
+
+The real risk isn't being replaced by AI. The real risk is:
+
+Staying comfortable as a firefighter because it feels safe, visible, and needed
+— while AI gets better at the execution work I'm clinging to, and I never
+develop the Design-Operate skills that make me irreplaceable.
+
+The work will change. The quality will be different. The scenario will be
+different. But there will always be a need — I just need to make sure I'm
+working on problems that require human judgment, relationships, and context.
+
+I need to trust: If I automate the known, I'll have time to hunt the unknown.
+And THAT'S where the real value is.
+```
+
+---
