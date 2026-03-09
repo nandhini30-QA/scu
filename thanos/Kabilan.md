@@ -267,26 +267,44 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Debugging the same Redskull alerts (node count spikes in Altair, Aries, Draco, Sirius) | Daily — takes about 1 hour | Automated |
+| 2 | Handling access requests when people join or leave (GCP roles, Jenkins, etc.) | Weekly when someone onboards/offboards | Delegated (Jerome's already working on this) |
+| 3 | Writing RCA docs after incidents — have to do it twice, once for our team and once for customers | 2 incidents last 2 weeks, about 1 hour each | Delegated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+If I freed up those 5-7 hours per week, I will shift to the work that actually matters to me:
+
+First, I'd finally build that Redskull Root Cause Detection System. Right now I'm debugging the same node spikes every week. If I could automate that pattern detection, I'd stop being a firefighter and actually start preventing the fires.
+
+Second, I'd push the Custom Billing Dashboard from design into actual development.
+
+Those two things would move me closer to my 2-year vision: being the SRE who prevents problems instead of reacting to them.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+70% firefighter, 30% architect.
+
+Every day I'm debugging Redskull alerts, handling access issues, writing RCA documents(If incidents happens). That's firefighting. It feels urgent and necessary.
+
+But I'm also designing Custom Billing Dashboard. That's the architecture side.
+
+To shift: I need to automate that Redskull debugging so I'm not doing it manually every day. And I need to let other people (or Jerome's automation) handle access provisioning. That frees me to actually design prevention systems instead of fighting the same fires repeatedly.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+I'm scared that if I automate or delegate these tasks, my knowledge on the system that exists.
+
+Right now I'm checking the Redskull alerts and learning from the logs alerts, handles RCAs. When something breaks, I'm useful. There's an urgency to what I do.
+
+If I automate it all away, what makes me valuable is the question that's running in my mind.
+
+But I know that's backwards thinking. The real value isn't in fighting fires fast — it's in building systems so the fires never happen. 
 ```
 
 ---
