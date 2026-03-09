@@ -168,18 +168,18 @@ IN 2 YEARS:
 
 | # | Acceptance Criteria | Current Status (Met / Partially / Not Met) |
 |---|--------------------|----|
-| 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Partially Met |
-| 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 2-year cycle | Not Met |
+| 1 | **Redskull Root Cause System:** Deployed to production, auto-diagnoses node spike issues, used daily by team to prevent firefighting | Not Met |
+| 2 | **Custom Billing Dashboard:** Design complete, development started, ready for team testing by end of 1-month cycle | Not Met |
 | 3 | **Technical Mastery in Incidents:** Own incident diagnosis without critical questions — solve independently, lead RCA, suggest prevention | Not Met |
-| 4 | **Knowledge Sharing:** Speak at team standup monthly about incident learnings and prevention strategies | Partially Met |
+| 4 | **Prowler Security Automation:** Deployed to production, runs as cronjob, auto-validates CIS 3.0 compliance across all GCP resources, team | Met |
 
 ### Q11. What are your edge cases — the risks that could derail your career path?
 
 | # | Edge Case / Risk | Mitigation Plan |
 |---|-----------------|-----------------|
-| 1 | **Communication Avoidance:** Stay silent when stuck instead of asking for help or speaking up | Speak at least once per standup (even if just asking a question). Make speaking up a weekly habit, not optional. |
-| 2 | **Task Switching / No Prioritization:** Think all tasks are equally important → can't focus on Redskull or Custom Billing completion | Decide 2 "must do" tasks per week, explicitly say NO to others. Time-block these. Review priorities weekly with Noordeen. |
-| 3 | **Over-Dependency on Approval:** Freeze on decisions if Noordeen/Aravindhan/Swami aren't available. Can't own incident diagnosis independently. | Practice making small decisions alone (incident response, debugging). Seek approval AFTER deciding, not before. Escalate only critical decisions. |
+| 1 | **Communication Avoidance:** Staying silent when stuck instead of asking for help or speaking up | Speak at least once per standup (even if just asking a question). Make speaking up a weekly habit, not optional. |
+| 2 | **Task Switching / No Prioritization:** Think all tasks are equally important → can't focus on Redskull or Custom Billing completion | Decide 2 "must do" tasks per week, explicitly say NO to others. Time-block these. Review priorities weekly with Noordeen and Aravindhan. |
+| 3 | **Over-Dependency on Approval:** Freeze on decisions if Noordeen/Aravindhan/Swami/Deepika aren't available. Can't own incident diagnosis independently. | Practice making small decisions alone (incident response, debugging). Seek approval AFTER deciding, not before. Escalate only critical decisions. |
 
 ### Q12. Coulson asked Daisy: "Would you ship a product with that test plan?" Looking at your answers above — would YOU?
 
@@ -187,7 +187,7 @@ IN 2 YEARS:
 Yes, I would ship this plan. Here's why:
 
 WHAT'S SOLID:
-- My vision is grounded in real work: Redskull is already 50% done, Custom Billing has a clear design, both are
+- My vision is grounded in real work: Redskull is analysis is going on, Custom Billing has a clear design, both are
   tied to actual problems my team faces every day.
 - My acceptance criteria are honest: I marked 2 "Not Met" and 2 "Partially Met." That's realistic for a 2-year
   goal, not overconfident.
@@ -201,9 +201,7 @@ I go silent instead of asking for help. If I don't break this pattern, two criti
   - Q10 #4: Knowledge sharing (I can't speak at standups if I stay silent)
 
 THE HONEST PART:
-This isn't a perfect plan. It's a challenging plan. But I'm not shipping it hoping things magically work out.
-I'm shipping it with a commitment: I will treat my mitigations like production requirements. Speaking up weekly is
-non-negotiable. Making decisions independently is non-negotiable. Without these, the vision collapses.
+This isn't a perfect plan. It's a challenging plan. I'm shipping it with a commitment: I will treat my mitigations like production requirements. Speaking up weekly is non-negotiable. Making decisions independently is non-negotiable. Without these, the vision collapses.
 
 With these, it's achievable in 2 years.
 
@@ -221,25 +219,41 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+**Pugazhvendhan** — fellow SRE intern. He came to me stuck on the Offboarding card: how to handle employee access removal across systems. He didn't have Jenkins deletion permissions and didn't know the full process. I did, because I'd already completed that card. We paired on a call — I walked him through where to remove access (MongoDB, Jenkins) and deleted his Jenkins access for him. Now he can do it independently next time.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+How to read a design document and ask "why" questions that improve it.
+
+I'm learning this skill right now with Swami's mentorship — understanding how to move from "what are we building" to "why are we building it this way." I ask Swami why he chose specific approaches, and it's changed how I think about architecture.
+
+I can teach this: When someone reads a design doc, most people just accept it. But the right questions ("Why not HTTP instead of MCP?" "What are we optimizing for?") force clearer thinking.
+
+THIS WEEK I can pair with Pugazhvendhan or another intern on a design review — walk them through my Custom Billing Dashboard design, show them how to spot gaps, ask clarifying questions that matter. It takes 45 minutes, and they'll know how to read designs critically instead of passively.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+The real barrier: fear of being judged if I'm wrong, combined with struggling to explain complex concepts clearly.
+
+Real example — IAM Role Binding: Someone on the team asked whether to add a specific IAM role binding to a service account. I had valid technical points: "This role opens permissions we don't need. Let's use the minimal role instead." But I struggled to explain WHY clearly — the tradeoffs between security, least privilege, and operational burden. I gave a short answer and stayed quiet instead of walking through my reasoning.
+
+Later, I realized I should have explained more. But I didn't follow up because I thought: "If I say more now, will they think I'm overcomplicating it? Will they think I didn't know the answer the first time?"
+
+The pattern: I'd rather stay silent than risk looking incompetent. It's my communication avoidance — I have something useful to say, but fear of judgment makes me shrink back.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes. In ITH sessions over the past 4 months, I've had thoughts or questions in my mind multiple times. But I stay silent because I'm not sure if the idea is relevant to the situation, or if I'm the right person to say it.
+
+Then, 5 minutes later, someone else — usually more senior — asks the EXACT SAME question or makes the same point I was thinking. And it's received well.
+
+That silence is my pattern. I doubt myself, stay quiet, and let someone else speak. I'm not held back by feeling unqualified — I'm held back by uncertainty: "Is this the right time? Is this the right idea?" So I wait. And by waiting, I never get credit, and I never build confidence in my own judgment.
 ```
 
 ---
@@ -253,26 +267,44 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Debugging the same Redskull alerts (node count spikes in Altair, Aries, Draco, Sirius) | Daily — takes about 1 hour | Automated |
+| 2 | Handling access requests when people join or leave (GCP roles, Jenkins, etc.) | Weekly when someone onboards/offboards | Delegated (Jerome's already working on this) |
+| 3 | Writing RCA docs after incidents — have to do it twice, once for our team and once for customers | 2 incidents last 2 weeks, about 1 hour each | Delegated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+If I freed up those 5-7 hours per week, I will shift to the work that actually matters to me:
+
+First, I'd finally build that Redskull Root Cause Detection System. Right now I'm debugging the same node spikes every week. If I could automate that pattern detection, I'd stop being a firefighter and actually start preventing the fires.
+
+Second, I'd push the Custom Billing Dashboard from design into actual development.
+
+Those two things would move me closer to my 2-year vision: being the SRE who prevents problems instead of reacting to them.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+70% firefighter, 30% architect.
+
+Every day I'm debugging Redskull alerts, handling access issues, writing RCA documents(If incidents happens). That's firefighting. It feels urgent and necessary.
+
+But I'm also designing Custom Billing Dashboard. That's the architecture side.
+
+To shift: I need to automate that Redskull debugging so I'm not doing it manually every day. And I need to let other people (or Jerome's automation) handle access provisioning. That frees me to actually design prevention systems instead of fighting the same fires repeatedly.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+I'm scared that if I automate or delegate these tasks, my knowledge on the system that exists.
+
+Right now I'm checking the Redskull alerts and learning from the logs alerts, handles RCAs. When something breaks, I'm useful. There's an urgency to what I do.
+
+If I automate it all away, what makes me valuable is the question that's running in my mind.
+
+But I know that's backwards thinking. The real value isn't in fighting fires fast — it's in building systems so the fires never happen. 
 ```
 
 ---

@@ -183,27 +183,23 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | L2 screening of production tickets | Daily | automated |
+| 2 | Test data preparation for feature testing | Monthly | automated |
+| 3 | Basic sanity check of a module during testing | Monthly | automated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
-```
-[Your answer]
-```
+If these tasks are automated, I would invest that time in more strategic work such as strengthening the automation framework, expanding coverage for critical workflows, and exploring ways to integrate AI or analytics to improve testing efficiency. I would also focus more on analyzing recurring production issues to identify root patterns and propose preventive improvements, instead of only handling issues after they occur. This would help me contribute more toward long term quality improvements rather than routine operational work.
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
-```
-[Your honest answer — and what would need to change to shift]
-```
+Right now, I would say I am closer to a firefighter, since a significant part of my time goes into handling recurring operational tasks such as ticket triaging, test data preparation, and routine validation during testing. While these tasks are important, they are mostly reactive in nature. 
+
+To shift towards being more of an architect, I need to focus on reducing repetitive work by building systems and automation that prevent these issues or streamline the process. This includes improving automation coverage, creating tools or dashboards for better visibility, and identifying
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
-```
-[Your answer]
-```
+My biggest concern is not about being replaced, but about ensuring that the quality and context of the work are maintained when tasks are automated or delegated. Since many of the recurring tasks I handle involve understanding the background of issues and making quick judgments, I sometimes worry that automation or delegation might miss certain nuances. However, I also recognize that documenting the process clearly and building structured automation can reduce this risk and allow me to focus on more impactful work.
 
 ---
 

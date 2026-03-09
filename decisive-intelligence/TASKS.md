@@ -74,16 +74,18 @@ Rewrite the EP2 Extended Cut screenplay from scratch. Full TDK coverage. Every s
 
 ONLY after Director signs off on the screenplay. Rebuild all EC image prompts using the Nolan standard established in EP1.
 
-| # | Task | Status | Notes |
-|---|------|--------|-------|
-| 4.1 | Rebuild EC_01 — Cover + Chaos (Slides 0-13) | ⏸ ON HOLD | Partially done in previous sessions. Paused per Director's orders. |
-| 4.2 | Rebuild EC_02 — Paralysis + Framework (Slides 14-25) | ☐ PENDING | |
-| 4.3 | Rebuild EC_03 — Clarity (Slides 26-43) | ☐ PENDING | |
-| 4.4 | Rebuild EC_04 — Courage (Slides 44-68) | ☐ PENDING | |
-| 4.5 | Rebuild EC_05 — Commitment (Slides 69-92) | ☐ PENDING | |
-| 4.6 | Rebuild EC_06 — Movement + Dark Knight (Slides 93-120) | ☐ PENDING | |
-| 4.7 | Rebuild EC_07 — Post-Credits + Transition Cards (Slides 121-139) | ☐ PENDING | |
-| 4.8 | Update Reshoot Board + Production Lessons | ☐ PENDING | |
+**Ground Zero v2:** ALL EC image prompt files WIPED and rebuilt from scratch per Director's order (rendering issues in v1 rebuild). Every prompt written directly from EC 3.0.0 screenplay.
+
+| # | Task | File | Status | Notes |
+|---|------|------|--------|-------|
+| 4.1 | EC_01 — Cover + Opening + Prologue P1-P4 (Slides 0-13) | `EP2_EC_01_Cover_and_Chaos.md` | ✅ DONE (v2) | 14 slides. Full ground-zero rebuild. DP angle on every slide. R-001-R-015 applied. |
+| 4.2 | EC_02 — Prologue P5-P9 (Slides 14-23) | `EP2_EC_02_Prologue_P5_P9.md` | ✅ DONE (v2) | 10 slides. Harvey, Gambol, Hong Kong, RICO, Ultimatum. Full rebuild. |
+| 4.3 | EC_03 — Act 1 CLARITY C1-C8 (Slides 24-40) | `EP2_EC_03_Clarity.md` | ✅ DONE (v2) | 17 slides. Full rebuild. Burma ★ pillar moment (Slides 32-34). |
+| 4.4 | EC_04 — Act 2 COURAGE K1-K4 (Slides 41-57) | `EP2_EC_04_Courage.md` | ✅ DONE (v2) | 17 slides. "Endure" ★ (42), Interrogation 7-slide sequence (48-54), Two-Face born (57). |
+| 4.5 | EC_05 — Act 3 COMMITMENT M1-M7 (Slides 58-75) | `EP2_EC_05_Commitment.md` | ✅ DONE (v2) | 18 slides. Full rebuild. Hospital Speech ★ (63-65), Fox Sonar ★ (68-69), Tattooed Prisoner ★ (74). |
+| 4.6 | EC_06 — Act 4 MOVEMENT V1-V4 + Closing X1-X3 (Slides 76-92) | `EP2_EC_06_Movement.md` | ✅ DONE (v2) | 17 slides. Full rebuild. "Whatever Gotham needs" ★ (83), Montage quad (84), Arkham prophecy (89-90), Bane tease (91). |
+| 4.7 | EC_07 — Post-Credits + Transition Cards (Slides 93-108) | `EP2_EC_07_PostCredits.md` | ✅ DONE (v2) | 16 slides. Full rebuild. "This Was the Crisis" (14 slides) + Transition Cards (2 slides). All 4 pillar moments. Jack (Heath Ledger workplace). |
+| 4.8 | Update Header + Reshoot Board + Production Lessons | — | ✅ DONE (v2) | Header → EC 3.0.0 (109 slides, 7 files). Reshoot Board cleared (RS-001 superseded). Structure + File Index updated. |
 
 ---
 

@@ -171,25 +171,33 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I don't measure myself against others. The person I am one step ahead of is yesterday's version of
+myself. Every day I want to know one more thing, build one more thing, understand one more thing
+than I did the day before.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+Vibe engineering and how AI models work in practice — how to use AI tools not just as a search
+engine but as an engineering partner. This is something I'm actively exploring and can share my
+current learnings this week.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+Not feeling expert enough. I hold back because I worry my knowledge is incomplete or that someone
+will ask a follow-up question I can't answer. The Viktor lesson is clear — I don't need to be an
+expert, I just need to be one step ahead.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+No. I haven't been in a situation where I actively held back from helping. But Q15 shows the
+pattern is already forming — if I wait until I feel "expert enough," I'll always find a reason
+to wait longer.
 ```
 
 ---
@@ -203,26 +211,32 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
+| 1 | Pulumi revamping and stack migration | Daily (active project) | Automated — single stack design eliminates the need to manage multiple stacks manually going forward |
+| 2 | Spot worker migration and management | Weekly (active project) | Automated — once migration is complete, spot provisioning should be handled by pipeline, not manually |
 | 3 | | | |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+I would focus on building automation for CI/CD of docker images — moving from manually managed
+builds to a fully automated image pipeline. This is a higher-order problem that would benefit
+the entire team, not just my current projects.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Architect. I am not reacting to incidents — I am designing systems. Pulumi revamping and spot
+migration are both architectural decisions, not firefighting. The goal is to build things that
+prevent fires from happening in the first place.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+Nothing. Automation is not a threat — it is a ladder. When I automate the repetitive work, I free
+myself to work on harder, more impactful problems. Firefighting keeps you busy. Automation makes
+you valuable.
 ```
 
 ---

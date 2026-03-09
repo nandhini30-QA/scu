@@ -180,25 +180,25 @@ Viktor was scared his advice wasn't good enough. It was fumbling, confusing, imp
 ### Q13. Who are you ONE STEP AHEAD of right now? (Name a real person or describe the type of person — a junior colleague, a new hire, someone in another team.)
 
 ```
-[Your answer]
+I'm one step ahead of teammates who are still getting familiar with integration modules and analyzing API request and response flows in the Kissflow platform.
 ```
 
 ### Q14. What specific thing could you teach or share with them THIS week? Not next quarter. This week.
 
 ```
-[Your answer]
+I could teach them on how I debug production issues using logs and API traces, and demonstrate how I use Claude to quickly analyze error patterns and narrow down possible root causes. I can also share how I prioritize tasks during busy periods without getting overwhelmed, and how I manage stakeholder communication and expectations while working on features. In addition, I can explain how I try to think strategically about problems so that we don't just fix issues once, but look for opportunities to implement systems or automation that prevent them from recurring. We could pick a real problem and go through the investigation, prioritization, and system-thinking process step by step.
 ```
 
 ### Q15. What has STOPPED you from mentoring or sharing so far? Be honest — is it time, fear of being wrong, not feeling expert enough, or something else?
 
 ```
-[Your answer]
+One factor that has sometimes stopped me from mentoring is when the person I'm trying to help appears uninterested or unwilling to learn.
 ```
 
 ### Q16. Viktor said: "What if my advice is wrong? I'm still figuring this out myself." Have you ever held back from helping someone because you didn't feel qualified? What happened?
 
 ```
-[Your answer]
+Yes, there have been times when I held back from helping someone because I was still figuring things out myself. I usually wait until I have a reasonable level of understanding before stepping in, because I don't want to mislead someone when my understanding is still incomplete. Looking back, I realize that even sharing what I know so far could still be helpful if I'm transparent that I'm still learning too.
 ```
 
 ---
@@ -212,29 +212,33 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
 
-| #   | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-| --- | -------------- | --------- | -------------------------------------------- |
-| 1   |                |           |                                              |
-| 2   |                |           |                                              |
-| 3   |                |           |                                              |
+| #   | Recurring Task                                                                   | How Often            | Could Be: Prevented / Automated / Delegated? |
+| --- | -------------------------------------------------------------------------------- | -------------------- | -------------------------------------------- |
+| 1   | Manually validating integration modules during regression testing                | Every release cycle  | Automated                                    |
+| 2   | Investigating and debugging production defects to identify root causes           | Several times a week | Prevented                                    |
+| 3   | Preparing test artifacts such as test cases and validation data for new features | Every sprint         | Automated                                    |
 
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+If these recurring tasks were automated or prevented, I would spend more time improving the way we validate integration modules and run test executions. Instead of repeatedly checking the same things in every regression or debugging similar issues, I would focus on building better validation and automation so those problems are caught earlier. I would also look at patterns from production issues and use that to improve our test coverage so the same types of problems don't keep coming back.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Right now, I would say I am more of a firefighter. A lot of my time still goes into reacting to issues — validating integrations during regression, debugging defects, and preparing test artifacts when new features come in.
+
+That said, I have already started moving towards the architect mindset by looking for ways to reduce these repetitive tasks. For example, focusing more on improving automation around integration validation, simplifying how test artifacts are created, and using insights from production issues to strengthen our testing so similar problems are caught earlier.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+One concern is automating a process before fully understanding or stabilizing it. If the workflow itself is not mature, automation might simply replicate an inefficient process instead of improving it.
+
+I also think carefully about whether automation truly adds long-term value, because poorly designed automation can create unnecessary complexity instead of simplifying the work.
 ```
 
 ---
