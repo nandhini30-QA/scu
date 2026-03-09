@@ -212,29 +212,33 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 ### Q17. What are you doing repeatedly at work that you could prevent, automate, or delegate? List 3 recurring tasks that eat your time.
 
 
-| #   | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
-| --- | -------------- | --------- | -------------------------------------------- |
-| 1   |                |           |                                              |
-| 2   |                |           |                                              |
-| 3   |                |           |                                              |
+| #   | Recurring Task                                                                   | How Often            | Could Be: Prevented / Automated / Delegated? |
+| --- | -------------------------------------------------------------------------------- | -------------------- | -------------------------------------------- |
+| 1   | Manually validating integration modules during regression testing                | Every release cycle  | Automated                                    |
+| 2   | Investigating and debugging production defects to identify root causes           | Several times a week | Prevented                                    |
+| 3   | Preparing test artifacts such as test cases and validation data for new features | Every sprint         | Automated                                    |
 
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+If these recurring tasks were automated or prevented, I would spend more time improving the way we validate integration modules and run test executions. Instead of repeatedly checking the same things in every regression or debugging similar issues, I would focus on building better validation and automation so those problems are caught earlier. I would also look at patterns from production issues and use that to improve our test coverage so the same types of problems don't keep coming back.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Right now, I would say I am more of a firefighter. A lot of my time still goes into reacting to issues — validating integrations during regression, debugging defects, and preparing test artifacts when new features come in.
+
+That said, I have already started moving towards the architect mindset by looking for ways to reduce these repetitive tasks. For example, focusing more on improving automation around integration validation, simplifying how test artifacts are created, and using insights from production issues to strengthen our testing so similar problems are caught earlier.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+One concern is automating a process before fully understanding or stabilizing it. If the workflow itself is not mature, automation might simply replicate an inefficient process instead of improving it.
+
+I also think carefully about whether automation truly adds long-term value, because poorly designed automation can create unnecessary complexity instead of simplifying the work.
 ```
 
 ---
