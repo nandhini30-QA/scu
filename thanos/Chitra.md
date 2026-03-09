@@ -183,9 +183,9 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | L2 screening of production tickets | automated |
-| 2 | | Test data preparation for feature testing | automated |
-| 3 | | Basic sanity check of a module during testing | automated |
+| 1 | L2 screening of production tickets | Daily | automated |
+| 2 | Test data preparation for feature testing | Monthly | automated |
+| 3 | Basic sanity check of a module during testing | Monthly | automated |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
