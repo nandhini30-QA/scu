@@ -190,27 +190,23 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Regression Testing: Reverifying old features before every major release.| Montly | Partially Automated / Prevented |
+| 2 | Feature Retesting: Testing small logic changes in the same "Forms" module repeatedly due to minor dev tweaks. | Frequent | Prevented |
+| 3 | Test Data setup |Frequent| Partially Automated / Prevented |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
-```
-[Your answer]
-```
+I wouldn't just 'test more.' I would work on predictive quality. I’d use that freed time to build the AI Self Healing  Agent a system that analyzes the code and tells us exactly where a break is likely to happen, suggest the correct locaters before the code is even deployed. I will improve automatation covergae, learn about AI debugging tools.
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
-```
-[Your honest answer — and what would need to change to shift]
-```
+To be honest, I am a Firefighter with an Architect's blueprints in my mind. I spend most of my day putting out fires handling high priority feature.
+
+To shift: I need to stop saying 'Yes' to every manual request and start enforcing a 'No Automation, No Release' policy. I need to move from being the person who fixes the environment to the person who builds the environment that doesn't break.
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
-```
-[Your answer]
-```
+My biggest fear isn't being replaced, it's losing the 'Hands On' context. If I delegate/automate all the manual testing, I worry I’ll lose that 'tester’s gut feel' for where the product is fragile. However, I’m starting to realize that if I don't automate these tasks, I’m actually 'replacing myself' with a version of me that can’t grow. My real value isn't in my fingers clicking buttons. it's in my brain designing the logic. If I disappear tomorrow, the scripts should stay, but the strategy is what makes me irreplaceable.
 
 ---
 
