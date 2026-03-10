@@ -250,7 +250,6 @@ Starting this week, I will begin documenting the common patterns I see while han
 
 > I've been focused on executing and handling tasks. Now I'm going to focus on building systems that reduce repetitive work and improve team efficiency.
 
-
 ---
 
 ## FINAL REFLECTION
