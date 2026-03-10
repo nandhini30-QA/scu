@@ -406,26 +406,70 @@ Daisy had the fastest incident response on the team. Three SEV-1s in a month, al
 
 | # | Recurring Task | How Often | Could Be: Prevented / Automated / Delegated? |
 |---|---------------|-----------|----------------------------------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Manual CHR — checking pod health, restart counts, OOM events, memory pressure, and alert status across environments, then compiling it for the daily review | Daily | Automate — I built BillingGuard on exactly this stack: Cloud Run + Cloud Scheduler + BigQuery + Google Chat. CHR health monitoring is the same pattern applied to operational metrics instead of billing data. It should produce a daily report automatically. A human should not be running this by hand every morning. |
+| 2 | Alert channel verification after infrastructure changes — manually confirming that alerts are still wired to working channels, no ghost references introduced, no new channels created outside the central project | After every major deployment | Prevent — the org policy for DOOR-0794 that I haven't applied yet would enforce all alerts stay in kf-prd-monitoring-p001 and point to valid channels. Every week without that policy is another week away from another 68-alert manual cleanup. The fix exists. I just haven't applied it. |
+| 3 | Post-incident stakeholder communication — writing incident updates, translating status codes for non-technical stakeholders, coordinating investigation ownership during active incidents when people are asking questions from multiple threads at once | Every incident | Template — every update I write follows the same structure: current status, root cause, user impact, next step, ETA. A shared template means any team member can fill it in during the incident window without waiting for me to write it from scratch. |
 
 ### Q18. If you automated or delegated those 3 things, what would you do with the freed time? (Not "more of the same" — what HIGHER problem would you work on?)
 
 ```
-[Your answer]
+Snowflake alerting. During a postmortem debrief I told Swami we have zero
+detection coverage on Snowflake — we find out about outages when users
+complain, not when the system fails. I documented it. He heard it. I have
+not built anything.
+
+That's the most visible unpatched production risk I know about right now.
+It's also the one most likely to surface badly at 2 AM when someone asks
+"why didn't we get alerted?" and the answer is "because nobody built the
+alerting." That's the thing I'd work on with the freed time.
+
+Beyond that: CHR automation and the incident comms template would free
+enough mental space to be in the Design stage on more than one initiative
+at a time. Right now I can only fully own one thing at once. I want to
+change that — the goal in Phase 3 was three self-designed systems in
+production. I can't get there if every morning starts with manual checks.
 ```
 
 ### Q19. Are you a firefighter or an architect right now? Firefighters fight the same fires forever. Architects automate the known to hunt the unknown.
 
 ```
-[Your honest answer — and what would need to change to shift]
+Transitioning. More firefighter than I want to admit.
+
+BillingGuard and the monitoring cleanup were architect moves — I built
+from the full picture and designed systems that prevent the problem instead
+of responding to it. But RedSkull, Altair, formworkerv2 503 errors — all
+reactive. I arrived after the fire, not before.
+
+The Snowflake gap is the clearest evidence of my firefighter default. I
+found it. I documented it. I told Swami. And then I picked up the next
+reactive task. An architect would have treated "we have zero detection
+coverage" as a production gap to close, not a note to file. I didn't.
+
+What would actually shift it: building a regular habit of picking one
+system that's been quiet for a while and asking "what would make this fail
+without anyone noticing" — before it fails. Snowflake is the obvious first
+answer. I already know the gap. I just haven't treated closing it as urgent
+as the fires that are already burning.
 ```
 
 ### Q20. What's your biggest fear about automating or delegating your current work? Is it that you'll be replaced, or is it something else?
 
 ```
-[Your answer]
+Not replacement. The fear is deploying automation that's wrong and causing
+more damage than the manual process it replaced.
+
+BillingGuard took 3+ months partly because of this. Every time I got close
+to shipping, I found something that could generate false alerts or silently
+miss real anomalies. A false positive at 3 AM erodes trust in the system
+faster than a missed anomaly does. Once the team stops trusting the alerts,
+the whole system becomes noise — and they stop looking. You can't recover
+from that easily.
+
+The caution is real and I think most of it is correct. What I haven't
+figured out is where careful ends and stalling begins. The billing timeline:
+was that 3 months of necessary validation, or did it go longer than it
+needed to? I genuinely don't know. That line probably gets clearer with
+more reps. But I'm aware I don't have a clean answer to it yet.
 ```
 
 ---
