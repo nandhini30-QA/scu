@@ -255,23 +255,28 @@ Starting this week, I will begin documenting the common patterns I see while han
 
 ## FINAL REFLECTION
 
+
 ### Q24. Which episode hit you the hardest? Why?
 
 Ep - 6
 The episode that resonated with me the most was the one about moving from being a firefighter to an architect. It made me reflect on how much of my time currently goes into reacting to issues such as handling production tickets or solving immediate problems. While those tasks are important, the episode highlighted the value of stepping back and building systems that prevent the same problems from repeating. It helped me realize that I should focus more on creating automation and structured processes that improve efficiency for the whole team, rather than only solving issues one by one.
 
 
+
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 Yes, the scene where the character says, “I kept fighting the same fires. Then I learned every problem you automate is a step up, not a step away,” really made me pause and reflect. It made me think about how much of my time goes into repeatedly handling similar operational issues like production tickets and routine checks. The dialogue made me realize that instead of just solving these problems each time they appear, I should focus more on creating automation and systems that prevent the same issues from recurring. It shifted my perspective from just being responsive to thinking more about long-term improvements.
+
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 I think that season 2 highlights the shift from simply executing tasks to thinking more strategically about how work is done. It emphasizes moving beyond reacting to problems and instead building systems, automation, and processes that prevent the same issues from repeating. The key takeaway is that growth comes from taking ownership, continuously improving how things operate, and focusing on long term impact rather than just completing day-to-day tasks.
 
+
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 Season 1 mainly made me reflect on my personal growth and learning journey, while Season 2 pushed me to think more about ownership and impact. It made me realize that growth is not only about improving individual skills but also about building systems, mentoring others, and preventing recurring problems. Compared to Season 1, this season made me think more about how I can move from just completing tasks to contributing in ways that improve the overall efficiency and effectiveness of the team.
+
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
@@ -280,6 +285,7 @@ I would keep the storytelling approach that connects technical growth with real 
 
 **Do differently:**
 For Season 3, it would be interesting to include more practical examples or case studies that show how these concepts are applied in real projects, Also I would focus more on real workplace situations where these ideas are applied over time, showing how small changes in thinking or processes gradually improve the team’s workflow and efficiency.
+
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
