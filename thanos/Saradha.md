@@ -351,32 +351,106 @@ Fill in your personal architecture. Be specific — no vague aspirations.
                     MY CAREER ARCHITECTURE
                            │
       ┌──────────┬─────────┼─────────┬──────────┐
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  FOUNDATION   D3O LOOP  TEST PLAN  MENTORING  PREVENTION
-      │          │         │         │          │
-  [What am I  [Which    [What are  [Who am I  [What fires
-   building   stages do  my accept- one step   am I still
-   with       I need to  ance       ahead of   fighting
-   intention?] own next?] criteria?] & how?]    repeatedly?]
-      │          │         │         │          │
-      ▼          ▼         ▼         ▼          ▼
-  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
-  │        │ │        │ │        │ │        │ │        │
-  │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │ │[FILL]  │
-  │        │ │        │ │        │ │        │ │        │
-  └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
-```
+      │           │         │         │          │
+      ▼           ▼         ▼         ▼          ▼
+   FOUNDATION   D3O LOOP  TEST PLAN MENTORING  PREVENTION
+        │          │         │         │          │
+    [What am I  [Which    [What are  [Who am I  [What fires
+     building   stages do  my accept- one step   am I still
+     with       I need to  ance       ahead of   fighting
+     intention?] own next?] criteria?] & how?]    repeatedly?]
+        │          │         │         │          │
+        ▼          ▼         ▼         ▼          ▼
+    ┌──────────┐ ┌─────────┐ ┌────────┐ ┌────────┐ ┌──────────┐
+    │          │ │         │ │        │ │        │ │          │
+    │ Earlier  │ │ I don't │ │ I have │ │ I am   │ │ I was    │
+    │ I was    │ │ just    │ │ now    │ │ active-│ │ doing    │
+    │ doing    │ │ want to │ │ automa-│ │ ly     │ │ the same │
+    │ every-   │ │ run     │ │ ted    │ │ working│ │ things   │
+    │ thing    │ │ scripts │ │ almost │ │ with my│ │ repeat-  │
+    │ manually.│ │ and     │ │ all the│ │ team   │ │ edly —   │
+    │ Running  │ │ finish  │ │ manual │ │ members│ │ preparing│
+    │ scripts, │ │ tasks.  │ │ tasks  │ │ and    │ │ test     │
+    │ reports, │ │         │ │ I used │ │ trying │ │ data,    │
+    │ finding  │ │ I want  │ │ to do  │ │ to     │ │ compiling│
+    │ bottlenec│ │ to go   │ │ before.│ │ under- │ │ reports, │
+    │ -ks, fix-│ │ deeper  │ │        │ │ stand  │ │ answering│
+    │ ing      │ │ into    │ │ I even │ │ the    │ │ the same │
+    │ issues — │ │ debuggi-│ │ built  │ │ kind   │ │ status   │
+    │ every-   │ │ ng.     │ │ an app │ │ of     │ │ questions│
+    │ thing    │ │         │ │ to make│ │ work   │ │ because  │
+    │ by my-   │ │ I want  │ │ my     │ │ they   │ │ there    │
+    │ self.    │ │ to be   │ │ work   │ │ are    │ │ wasn't   │
+    │          │ │ involved│ │ easier │ │ doing. │ │ clear    │
+    │ My foun- │ │ in      │ │ and    │ │        │ │ visibi-  │
+    │ dation   │ │ product-│ │ faster.│ │ When I │ │ lity.    │
+    │ is strong│ │ ion     │ │        │ │ have   │ │          │
+    │ — built  │ │ issues, │ │ Because│ │ doubts,│ │ Over     │
+    │ from     │ │ not     │ │ of     │ │ I ask  │ │ time I   │
+    │ real     │ │ just    │ │ this,  │ │ and    │ │ decided  │
+    │ work and │ │ testing │ │ I can  │ │ learn. │ │ to       │
+    │ what I   │ │ before  │ │ save   │ │        │ │ change   │
+    │ learned. │ │ release.│ │ time,  │ │ I am   │ │ that.    │
+    │          │ │         │ │ reduce │ │ also   │ │          │
+    │ But I    │ │ I also  │ │ repeat │ │ learn- │ │ I built  │
+    │ feel     │ │ want to │ │ effort,│ │ ing AI │ │ a test   │
+    │ like I   │ │ catch   │ │ and    │ │ skills │ │ data     │
+    │ am using │ │ bottlen-│ │ focus  │ │ and    │ │ genera-  │
+    │ the same │ │ ecks    │ │ more   │ │ buildi-│ │ tor and  │
+    │ bricks   │ │ early — │ │ on     │ │ ng an  │ │ a report-│
+    │ again    │ │ at the  │ │ analys-│ │ AI     │ │ ing      │
+    │ and      │ │ initial │ │ is and │ │ agent  │ │ pipeline.│
+    │ again.   │ │ stages, │ │ improv-│ │ step   │ │          │
+    │ My       │ │ not     │ │ ement. │ │ by     │ │ Instead  │
+    │ insights │ │ waiting │ │        │ │ step.  │ │ of       │
+    │ are not  │ │ until   │ │        │ │        │ │ solving  │
+    │ growing  │ │ problems│ │        │ │ I want │ │ the same │
+    │ the way  │ │ grow    │ │        │ │ to     │ │ problems │
+    │ I        │ │ bigger. │ │        │ │ keep   │ │ again    │
+    │ expected.│ │         │ │        │ │ improv-│ │ and      │
+    │          │ │ I don't │ │        │ │ ing    │ │ again, I │
+    │ Now I    │ │ want to │ │        │ │ myself │ │ focused  │
+    │ want to  │ │ spend   │ │        │ │ while  │ │ on       │
+    │ automate │ │ most of │ │        │ │ also   │ │ creating │
+    │ more,    │ │ my time │ │        │ │ growing│ │ systems  │
+    │ reduce   │ │ on      │ │        │ │ with   │ │ that     │
+    │ manual   │ │ manual  │ │        │ │ the    │ │ would    │
+    │ effort,  │ │ work.   │ │        │ │ team.  │ │ prevent  │
+    │ and      │ │         │ │        │ │        │ │ them in  │
+    │ focus on │ │ I want  │ │        │ │        │ │ the      │
+    │ deeper   │ │ to think│ │        │ │        │ │ first    │
+    │ thinking.│ │ more,   │ │        │ │        │ │ place.   │
+    │          │ │ analyze │ │        │ │        │ │          │
+    │ Building │ │ more,   │ │        │ │        │ │ Now I am │
+    │ smarter, │ │ and move│ │        │ │        │ │ not just │
+    │ not just │ │ from    │ │        │ │        │ │ firefigh-│
+    │ working  │ │ execut- │ │        │ │        │ │ ting     │
+    │ harder.  │ │ ing to  │ │        │ │        │ │ anymore. │
+    │          │ │ actually│ │        │ │        │ │ I am     │
+    │          │ │ owning  │ │        │ │        │ │ slowly   │
+    │          │ │ the     │ │        │ │        │ │ building │
+    │          │ │ work.   │ │        │ │        │ │ things   │
+    │          │ │         │ │        │ │        │ │ that     │
+    │          │ │         │ │        │ │        │ │ last.    │
+    └──────────┘ └─────────┘ └────────┘ └────────┘ └──────────┘
+
+
+
+
+
+
 
 ### Q22. What is the ONE THING you will do differently starting this week — not this quarter, not "eventually" — THIS WEEK?
 
 ```
-[Your answer — be specific enough that someone could verify it happened]
+[I want to streamline my tasks and focus on the right priorities. I have noticed where I am lagging, and I want to fix that and improve myself.
+
+I don’t want to stay stuck. I want to work smarter, manage my time better, and keep getting better at what I do.]
 ```
 
 ### Q23. Complete this sentence:
 
-> "I've been ________________. Now I'm going to ________________."
+> "I've been operating in manual mode. Now I'm fully focused on automation and shifting my mindset toward smarter work."
 
 ---
 
@@ -385,43 +459,91 @@ Fill in your personal architecture. Be specific — no vague aspirations.
 ### Q24. Which episode hit you the hardest? Why?
 
 ```
-[Your answer]
+[It was during my foundation phase that something really hit me.
+
+Daisy was in a stage of confusion. She had completed all her assigned tasks, but when Coulson asked her, “What did you actually build this month?” she didn’t have an answer beyond saying she finished what was given to her.
+
+That’s when he explained the difference between Agent A and Agent B.
+One agent simply completed assigned tasks.
+The other went beyond — developed, trained, improved, and built something meaningful outside the task list.
+
+That comparison made her realize something bigger.
+
+When I heard that, I saw myself in it. For the past eight years, I’ve been completing tasks. Delivering what was asked. That’s it. There wasn’t a strong intention to build something of my own or create long-term impact.
+
+It hit me hard. I felt like I was lagging in my career — mostly learning, but not really designing and building in a practical, lasting way.
+
+That realization changed how I see my growth now.]
 ```
 
 ### Q25. Was there a specific scene or dialogue that made you stop and think about your own work life? Describe the moment and what it triggered in you.
 
 ```
-[Your answer]
+[During the Blueprint phase, Coulson asks Daisy, “When was the last time you tested your own career?”
+
+That question stayed with me.
+
+It made me think about myself. When was the last time I really tested my own growth? I realized there’s been a big gap. I never questioned it earlier. I thought I was doing the right thing — just completing the tasks assigned to me.
+
+But when I looked at it deeply, it felt disappointing. I was working, yes. But I wasn’t intentionally building.
+
+That moment triggered something in me. I don’t want to just finish tasks anymore. I want to build something bigger — something that contributes to the organization’s growth and my own growth at the same time.]
 ```
 
 ### Q26. If you had to explain Season 2 to a colleague who hasn't read it — not the plot, but why it matters — what would you tell them?
 
 ```
-[Your answer]
+[If I had to tell a colleague, I would say it like this:
+
+Season 2 isn’t about the story — it’s about how we work.
+
+It made me realize that just delivering tasks isn’t the same as building something meaningful. Many of us develop and deploy, but we don’t always think about the design behind it or what happens after it goes live. That means we’re not owning the full cycle.
+
+The big takeaway is this: if you’re not closing the loop — design, develop, deploy, operate — you’re just shipping, not truly growing.
+
+So I would tell them — We need to intentionally design how we want things to work at every stage. Not just move through the loop, but shape it. Improve it. and Challenge it
+]
 ```
 
 ### Q27. What did Season 2 make you feel or realize that Season 1 didn't? What changed between reading the first season and finishing this one?
 
 ```
-[Your answer]
+[Season 1 made me think about growth.
+
+Season 2 made me question myself.
+
+In Season 1, I was mostly reflecting — understanding concepts, thinking about improvement, seeing the difference between reacting and building. It was more awareness.
+
+But Season 2 felt more personal. It made me realize that I’ve been operating in an incomplete loop — developing and delivering, but not fully designing or owning what happens after release. I saw how easy it is to stay busy for years without actually evolving
+
+What changed between the two seasons is this:
+Season 1 made me think about growth in general.
+Season 2 made me evaluate my own career seriously.]
 ```
 
 ### Q28. If you were creating Season 3, what would you keep exactly as is — and what would you do differently?
 
 **Keep as is:**
 ```
-[Your answer]
+[I would keep the core question from the Blueprint chapter — “When was the last time you tested your own career?”
+
+It’s a strong question. It makes me stop and really think about myself. ]
 ```
 
 **Do differently:**
 ```
-[Your answer]
+[In Season 3, I would make it more action-driven. Less theory, more execution. How do you move from awareness to implementation?
+Not just asking the question, but showing practical ways to test the career — setting measurable growth goals, tracking ownership across the full loop, and identifying where we are stuck.]
 ```
 
 ### Q29. Which question in this blueprint was the hardest to answer? What does that tell you?
 
 ```
-[Your answer]
+[The hardest question for me was, “When was the last time you tested your own career?”
+
+It was hard because I didn’t have a clear answer. I realized I’ve been testing systems, performance, and processes — but not myself. I was completing tasks and delivering work, but I wasn’t intentionally checking whether I was growing, evolving, or building something bigger.
+
+That tells me I was operating comfortably inside my role instead of challenging my limits. It shows that I need to be more intentional about my growth, not just my output.]
 ```
 
 ---
